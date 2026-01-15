@@ -11,7 +11,9 @@
 		{"id":"0ab40166fa2f362f","type":"text","text":"Встреча с [[Точки интереса]]\n","x":540,"y":-1080,"width":280,"height":73},
 		{"id":"f5746fbeb111ede1","type":"text","text":"С испытанием","x":940,"y":-1200,"width":250,"height":60},
 		{"id":"5b5b285c66d88a54","type":"text","text":"Без испытания","x":940,"y":-940,"width":250,"height":60},
-		{"id":"61b3e9bf93b3bcf2","x":1285,"y":-1200,"width":250,"height":60,"type":"text","text":"Прохождение испытания"}
+		{"id":"61b3e9bf93b3bcf2","type":"text","text":"Прохождение испытания","x":1285,"y":-1200,"width":250,"height":60},
+		{"id":"ac27883433499157","x":1620,"y":-1200,"width":294,"height":60,"type":"text","text":"Получения вознаграждения"},
+		{"id":"7f702ef265257095","x":2000,"y":-1200,"width":250,"height":60,"type":"text","text":"Конец"}
 	],
 	"edges":[
 		{"id":"94efc0c72e2635f1","fromNode":"d6a823e552606d11","fromSide":"right","toNode":"b27d57b70a645890","toSide":"left"},
@@ -27,6 +29,9 @@
 		{"id":"4e1b9db26c9b4939","fromNode":"aa051ea19eb76e97","fromSide":"right","toNode":"0ab40166fa2f362f","toSide":"left"},
 		{"id":"a8e93e5a17d20de1","fromNode":"0ab40166fa2f362f","fromSide":"right","toNode":"5b5b285c66d88a54","toSide":"left"},
 		{"id":"6dfe1022682bbc52","fromNode":"0ab40166fa2f362f","fromSide":"right","toNode":"f5746fbeb111ede1","toSide":"left"},
-		{"id":"bc3a806b628011bc","fromNode":"f5746fbeb111ede1","fromSide":"right","toNode":"61b3e9bf93b3bcf2","toSide":"left"}
+		{"id":"bc3a806b628011bc","fromNode":"f5746fbeb111ede1","fromSide":"right","toNode":"61b3e9bf93b3bcf2","toSide":"left"},
+		{"id":"9e8980e39564d8bd","fromNode":"61b3e9bf93b3bcf2","fromSide":"right","toNode":"ac27883433499157","toSide":"left"},
+		{"id":"db3f6c0c22576c23","fromNode":"ac27883433499157","fromSide":"right","toNode":"7f702ef265257095","toSide":"left"},
+		{"id":"721f286c71548111","fromNode":"7f702ef265257095","fromSide":"left","toNode":"aa051ea19eb76e97","toSide":"top"}
 	]
 }
