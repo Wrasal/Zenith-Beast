@@ -16,7 +16,8 @@
 		{"id":"937964567666cb78","x":870,"y":-1520,"width":340,"height":120,"type":"text","text":"Активность для изменения миссий[[Изменения квестов]] и [[Изменения карты]]"},
 		{"id":"04d4a04fdd554da7","x":1880,"y":-1506,"width":250,"height":93,"type":"text","text":"Нарративные находки, для сюжета"},
 		{"id":"12661931a62cb975","type":"text","text":"Охота\\Изучение животных","x":1880,"y":-2260,"width":250,"height":60},
-		{"id":"b27d57b70a645890","type":"text","text":"Путешествия до маркера [[Активности]]","x":120,"y":800,"width":250,"height":60,"color":"3"}
+		{"id":"b27d57b70a645890","type":"text","text":"Путешествия до маркера [[Активности]]","x":120,"y":800,"width":250,"height":60,"color":"3"},
+		{"id":"b63dbc0bb03c2ae3","x":2460,"y":-2260,"width":250,"height":60,"type":"text","text":"Охота"}
 	],
 	"edges":[
 		{"id":"90651aea7aad171d","fromNode":"b27d57b70a645890","fromSide":"right","toNode":"1cf90184229d2942","toSide":"left"},
@@ -36,6 +37,7 @@
 		{"id":"f81701f4ec8e0915","fromNode":"0ab40166fa2f362f","fromSide":"right","toNode":"30928abe2b4af39c","toSide":"left"},
 		{"id":"3e1c7a3330d916d0","fromNode":"937964567666cb78","fromSide":"bottom","toNode":"a690b8bfebee59f1","toSide":"left"},
 		{"id":"5a8168bbecf1cda0","fromNode":"d6a823e552606d11","fromSide":"bottom","toNode":"b27d57b70a645890","toSide":"left"},
-		{"id":"38adfb6fbab074b4","fromNode":"aa051ea19eb76e97","fromSide":"bottom","toNode":"b27d57b70a645890","toSide":"top"}
+		{"id":"38adfb6fbab074b4","fromNode":"aa051ea19eb76e97","fromSide":"bottom","toNode":"b27d57b70a645890","toSide":"top"},
+		{"id":"d3dc8cf92c4a5967","fromNode":"12661931a62cb975","fromSide":"right","toNode":"b63dbc0bb03c2ae3","toSide":"left"}
 	]
 }
