@@ -1,6 +1,5 @@
 {
 	"nodes":[
-		{"id":"8b1cb8a1956c28a8","x":270,"y":464,"width":400,"height":400,"type":"file","file":"Локации/Expedition/Точка интереса.md"},
 		{"id":"b27d57b70a645890","type":"text","text":"Путешествия до маркера [[Активности]]","x":100,"y":220,"width":250,"height":60,"color":"3"},
 		{"id":"1cf90184229d2942","type":"text","text":"Достижение маркера","x":520,"y":220,"width":250,"height":60},
 		{"id":"1edbd1b53de2bf5c","type":"text","text":"Выполнение [[Активности]]","x":880,"y":220,"width":250,"height":60},
@@ -17,7 +16,8 @@
 		{"id":"61b3e9bf93b3bcf2","type":"text","text":"Прохождение испытания","x":1560,"y":-1200,"width":250,"height":60},
 		{"id":"7b70a48bffe7f846","type":"text","text":"Оценка возможности прохождения","x":1257,"y":-1200,"width":250,"height":60},
 		{"id":"ac27883433499157","type":"text","text":"Получения вознаграждения","x":1880,"y":-1200,"width":294,"height":60},
-		{"id":"7f702ef265257095","type":"text","text":"Конец","x":2300,"y":-1007,"width":250,"height":60}
+		{"id":"7f702ef265257095","type":"text","text":"Конец","x":2300,"y":-1007,"width":250,"height":60},
+		{"id":"2851b84cbd8d3d7c","x":-400,"y":330,"width":400,"height":400,"type":"file","file":"Игровой цикл/Точки интереса.md"}
 	],
 	"edges":[
 		{"id":"94efc0c72e2635f1","fromNode":"d6a823e552606d11","fromSide":"right","toNode":"b27d57b70a645890","toSide":"left"},
@@ -43,6 +43,7 @@
 		{"id":"79816de0668b1558","fromNode":"7b70a48bffe7f846","fromSide":"right","toNode":"61b3e9bf93b3bcf2","toSide":"left"},
 		{"id":"65b8e130a0a06215","fromNode":"7b70a48bffe7f846","fromSide":"right","toNode":"61b3e9bf93b3bcf2","toSide":"left"},
 		{"id":"16c9f840609f1c09","fromNode":"7b70a48bffe7f846","fromSide":"right","toNode":"61b3e9bf93b3bcf2","toSide":"left"},
-		{"id":"d702d5694565a53d","fromNode":"7b70a48bffe7f846","fromSide":"bottom","toNode":"7f702ef265257095","toSide":"left"}
+		{"id":"d702d5694565a53d","fromNode":"7b70a48bffe7f846","fromSide":"bottom","toNode":"7f702ef265257095","toSide":"left"},
+		{"id":"af2953286d15c5aa","fromNode":"2851b84cbd8d3d7c","fromSide":"right","toNode":"b27d57b70a645890","toSide":"bottom"}
 	]
 }
