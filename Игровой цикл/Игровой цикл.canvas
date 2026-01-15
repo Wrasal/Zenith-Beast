@@ -8,10 +8,10 @@
 		{"id":"d6a823e552606d11","type":"text","text":"[[Подготовка к экспедиции]]\\высадка","x":-720,"y":-616,"width":250,"height":60},
 		{"id":"aa051ea19eb76e97","type":"text","text":"Изучения мира","x":120,"y":-625,"width":250,"height":69},
 		{"id":"8328fa43f0330832","type":"text","text":"Конец","x":1780,"y":120,"width":250,"height":60},
-		{"id":"0ab40166fa2f362f","type":"text","text":"Встреча с точками интереса\n","x":600,"y":-1040,"width":280,"height":73},
-		{"id":"5b5b285c66d88a54","x":1130,"y":-1280,"width":250,"height":60,"type":"text","text":"Разрушенные базы"},
-		{"id":"874f8302afcf9161","x":1100,"y":-1033,"width":250,"height":60,"type":"text","text":"\nРазрушение лабы"},
-		{"id":"69ac3fcd884fb602","x":1100,"y":-897,"width":250,"height":60,"type":"text","text":"Старые механизмы"}
+		{"id":"0ab40166fa2f362f","type":"text","text":"Встреча с [[Точки интереса]]\n","x":600,"y":-1040,"width":280,"height":73},
+		{"id":"874f8302afcf9161","type":"text","text":"\nРазрушение лабы","x":1100,"y":-1033,"width":250,"height":60},
+		{"id":"69ac3fcd884fb602","type":"text","text":"Старые механизмы","x":1100,"y":-897,"width":250,"height":60},
+		{"id":"5b5b285c66d88a54","type":"text","text":"Разрушенные базы","x":1100,"y":-1220,"width":250,"height":60}
 	],
 	"edges":[
 		{"id":"94efc0c72e2635f1","fromNode":"d6a823e552606d11","fromSide":"right","toNode":"b27d57b70a645890","toSide":"left"},
