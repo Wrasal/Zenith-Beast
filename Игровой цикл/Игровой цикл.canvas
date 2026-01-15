@@ -1,10 +1,10 @@
 {
 	"nodes":[
 		{"id":"d6a823e552606d11","type":"text","text":"[[Подготовка к экспедиции]]\\высадка","x":-320,"y":-180,"width":250,"height":60},
-		{"id":"b27d57b70a645890","type":"text","text":"Путешествия до маркера задачи","x":100,"y":220,"width":250,"height":60,"color":"3"},
+		{"id":"b27d57b70a645890","type":"text","text":"Путешествия до маркера [[активности]]","x":100,"y":220,"width":250,"height":60,"color":"3"},
 		{"id":"1cf90184229d2942","type":"text","text":"Достижение маркера","x":520,"y":220,"width":250,"height":60},
 		{"id":"0ab40166fa2f362f","type":"text","text":"Встреча с точками интереса\n","x":100,"y":500,"width":250,"height":60},
-		{"id":"1edbd1b53de2bf5c","type":"text","text":"Выполнение миссии[[","x":880,"y":220,"width":250,"height":60}
+		{"id":"1edbd1b53de2bf5c","type":"text","text":"Выполнение [[миссии]]","x":880,"y":220,"width":250,"height":33}
 	],
 	"edges":[
 		{"id":"94efc0c72e2635f1","fromNode":"d6a823e552606d11","fromSide":"right","toNode":"b27d57b70a645890","toSide":"left"},
