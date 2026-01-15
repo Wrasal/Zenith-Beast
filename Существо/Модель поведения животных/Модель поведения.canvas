@@ -6,7 +6,9 @@
 		{"id":"309a7d7394887772","type":"text","text":"Абсолютно агрессивное ","x":-500,"y":-536,"width":250,"height":60},
 		{"id":"65f74679834e1d95","x":-1066,"y":-868,"width":250,"height":60,"type":"text","text":"Статус"},
 		{"id":"1a37310531a06b62","type":"text","text":"[[Животное]]","x":-1066,"y":-1040,"width":250,"height":60},
-		{"id":"13113b47fb75c290","x":-1066,"y":180,"width":250,"height":60,"color":"5","type":"text","text":"Реакция на человека"}
+		{"id":"13113b47fb75c290","x":-1066,"y":-120,"width":250,"height":60,"color":"5","type":"text","text":"Реакция на человека"},
+		{"id":"e7aee53210271fd0","x":-700,"y":-320,"width":250,"height":60,"type":"text","text":"Изучает игрока"},
+		{"id":"c427868a09d6497d","x":-610,"y":-120,"width":250,"height":60,"type":"text","text":"Атакует"}
 	],
 	"edges":[
 		{"id":"b112551a9053e232","fromNode":"65f74679834e1d95","fromSide":"bottom","toNode":"b99f0aaf4df5e905","toSide":"top"},
@@ -14,6 +16,10 @@
 		{"id":"dd2331d50b526b07","fromNode":"65f74679834e1d95","fromSide":"bottom","toNode":"309a7d7394887772","toSide":"top"},
 		{"id":"31230d8894b0b5e1","fromNode":"65f74679834e1d95","fromSide":"bottom","toNode":"208cbcb8f1968da3","toSide":"top"},
 		{"id":"1bfea1894b77ac19","fromNode":"1a37310531a06b62","fromSide":"bottom","toNode":"65f74679834e1d95","toSide":"top"},
-		{"id":"fbe4bf94f35e38aa","fromNode":"1a37310531a06b62","fromSide":"bottom","toNode":"13113b47fb75c290","toSide":"top"}
+		{"id":"fbe4bf94f35e38aa","fromNode":"1a37310531a06b62","fromSide":"bottom","toNode":"13113b47fb75c290","toSide":"top"},
+		{"id":"498e29c0a9ce2eec","fromNode":"b99f0aaf4df5e905","fromSide":"bottom","toNode":"e7aee53210271fd0","toSide":"top"},
+		{"id":"8f67524304860b09","fromNode":"309a7d7394887772","fromSide":"bottom","toNode":"e7aee53210271fd0","toSide":"top"},
+		{"id":"9ff598ea250b1a0b","fromNode":"309a7d7394887772","fromSide":"bottom","toNode":"c427868a09d6497d","toSide":"top"},
+		{"id":"f80152fdf0b11fac","fromNode":"e7aee53210271fd0","fromSide":"bottom","toNode":"c427868a09d6497d","toSide":"top"}
 	]
 }
