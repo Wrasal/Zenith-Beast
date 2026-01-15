@@ -4,12 +4,17 @@
 		{"id":"b27d57b70a645890","type":"text","text":"Путешествия до маркера [[Активности]]","x":100,"y":220,"width":250,"height":60,"color":"3"},
 		{"id":"1cf90184229d2942","type":"text","text":"Достижение маркера","x":520,"y":220,"width":250,"height":60},
 		{"id":"0ab40166fa2f362f","type":"text","text":"Встреча с точками интереса\n","x":100,"y":500,"width":250,"height":60},
-		{"id":"1edbd1b53de2bf5c","type":"text","text":"Выполнение [[Активности]]","x":880,"y":220,"width":250,"height":60}
+		{"id":"1edbd1b53de2bf5c","type":"text","text":"Выполнение [[Активности]]","x":880,"y":220,"width":250,"height":90},
+		{"id":"3aa243b2149083ca","x":1240,"y":120,"width":250,"height":60,"type":"text","text":"Успех"},
+		{"id":"5da915c925b97009","x":1240,"y":280,"width":250,"height":33,"type":"text","text":"Неудачно"}
 	],
 	"edges":[
 		{"id":"94efc0c72e2635f1","fromNode":"d6a823e552606d11","fromSide":"right","toNode":"b27d57b70a645890","toSide":"left"},
 		{"id":"90651aea7aad171d","fromNode":"b27d57b70a645890","fromSide":"right","toNode":"1cf90184229d2942","toSide":"left"},
 		{"id":"cd8c95c5d52f2f59","fromNode":"b27d57b70a645890","fromSide":"bottom","toNode":"0ab40166fa2f362f","toSide":"top"},
-		{"id":"cdf0cdb1b879db79","fromNode":"1cf90184229d2942","fromSide":"right","toNode":"1edbd1b53de2bf5c","toSide":"left"}
+		{"id":"cdf0cdb1b879db79","fromNode":"1cf90184229d2942","fromSide":"right","toNode":"1edbd1b53de2bf5c","toSide":"left"},
+		{"id":"aab2ea7c2b5a35a6","fromNode":"1edbd1b53de2bf5c","fromSide":"right","toNode":"3aa243b2149083ca","toSide":"left"},
+		{"id":"6a372ab54cf104d0","fromNode":"1edbd1b53de2bf5c","fromSide":"right","toNode":"5da915c925b97009","toSide":"left"},
+		{"id":"f949fea435552ed7","fromNode":"5da915c925b97009","fromSide":"bottom","toNode":"19fdea1c875b9c9c","toSide":"top"}
 	]
 }
