@@ -1,12 +1,10 @@
 {
 	"nodes":[
-		{"id":"d6a823e552606d11","type":"text","text":"[[Подготовка к экспедиции]]","x":-320,"y":-180,"width":250,"height":60},
-		{"id":"b27d57b70a645890","type":"text","text":"Путешествия до маркера задачи","x":60,"y":220,"width":250,"height":60,"color":"3"},
-		{"id":"6cc5a122dfd39da6","x":41,"y":-180,"width":250,"height":60,"type":"text","text":"Высадка"}
+		{"id":"d6a823e552606d11","type":"text","text":"[[Подготовка к экспедиции]]\\высадка","x":-320,"y":-180,"width":250,"height":60},
+		{"id":"b27d57b70a645890","type":"text","text":"Путешествия до маркера задачи","x":100,"y":220,"width":250,"height":60,"color":"3"},
+		{"id":"1cf90184229d2942","x":520,"y":220,"width":250,"height":60,"type":"text","text":""}
 	],
 	"edges":[
-		{"id":"49dddbc93574b52d","fromNode":"d6a823e552606d11","fromSide":"right","toNode":"b27d57b70a645890","toSide":"left"},
-		{"id":"285454ca7439e7c0","fromNode":"d6a823e552606d11","fromSide":"right","toNode":"6cc5a122dfd39da6","toSide":"left"},
-		{"id":"3d46935cf6d56d16","fromNode":"6cc5a122dfd39da6","fromSide":"right","toNode":"b27d57b70a645890","toSide":"left"}
+		{"id":"94efc0c72e2635f1","fromNode":"d6a823e552606d11","fromSide":"right","toNode":"b27d57b70a645890","toSide":"left"}
 	]
 }
