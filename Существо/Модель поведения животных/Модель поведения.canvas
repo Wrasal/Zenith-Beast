@@ -1,9 +1,9 @@
 {
 	"nodes":[
-		{"id":"1a37310531a06b62","type":"text","text":"[[Животное]]","x":-1044,"y":-711,"width":250,"height":60},
 		{"id":"b99f0aaf4df5e905","type":"text","text":"Агрессивное","x":-520,"y":-530,"width":250,"height":60},
 		{"id":"a94617a6a624373d","type":"text","text":"[[Нейтральное]]","x":-1044,"y":-530,"width":250,"height":60},
-		{"id":"4c7b5ab5cb57b578","type":"file","file":"Существо/Модель поведения животных/Пассивное.md","x":-1720,"y":-530,"width":347,"height":108}
+		{"id":"4c7b5ab5cb57b578","type":"file","file":"Существо/Модель поведения животных/Пассивное.md","x":-1720,"y":-530,"width":347,"height":108},
+		{"id":"1a37310531a06b62","type":"text","text":"[[Животное]]","x":-1044,"y":-800,"width":250,"height":60}
 	],
 	"edges":[
 		{"id":"b112551a9053e232","fromNode":"1a37310531a06b62","fromSide":"bottom","toNode":"b99f0aaf4df5e905","toSide":"top"},
