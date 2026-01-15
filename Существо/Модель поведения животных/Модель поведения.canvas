@@ -1,22 +1,22 @@
 {
 	"nodes":[
 		{"id":"57c6d4adcc00851f","x":-1940,"y":-440,"width":1900,"height":880,"type":"group","label":"Сценраии поведения"},
-		{"id":"208cbcb8f1968da3","type":"text","text":"Пассивное","x":-1720,"y":-536,"width":250,"height":60},
-		{"id":"b99f0aaf4df5e905","type":"text","text":"Агрессивное","x":-860,"y":-536,"width":250,"height":60},
-		{"id":"a94617a6a624373d","type":"text","text":"Нейтральное","x":-1294,"y":-536,"width":250,"height":60},
-		{"id":"309a7d7394887772","type":"text","text":"Абсолютно агрессивное ","x":-500,"y":-536,"width":250,"height":60},
-		{"id":"65f74679834e1d95","type":"text","text":"Статус","x":-1066,"y":-868,"width":250,"height":60},
-		{"id":"1a37310531a06b62","type":"text","text":"[[Животное]]","x":-1066,"y":-1040,"width":250,"height":60},
 		{"id":"a1886ff3cd485ddd","type":"text","text":"Сразу в голову приходит трофеи которые сразу показывают статус игрока животному, Допустим голова их вожака","x":-610,"y":840,"width":485,"height":217},
 		{"id":"b2b04481109e8c7c","type":"text","text":"[[Показать статус]]","x":-860,"y":550,"width":250,"height":60,"color":"2"},
 		{"id":"13113b47fb75c290","type":"text","text":"Реакция игрока","x":-1110,"y":810,"width":250,"height":60,"color":"5"},
 		{"id":"dfbd336c47aa3fa1","type":"text","text":"Убежать","x":-1320,"y":550,"width":250,"height":60,"color":"2"},
 		{"id":"e7aee53210271fd0","type":"text","text":"Изучает","x":-700,"y":-240,"width":250,"height":60,"color":"2"},
-		{"id":"c427868a09d6497d","type":"text","text":"Атакует","x":-500,"y":-40,"width":250,"height":60,"color":"1"},
 		{"id":"22ab75edc3f311e0","type":"text","text":"Меняет статус агрессивности в низ","x":-860,"y":40,"width":250,"height":60,"color":"4"},
 		{"id":"92f4d40593e0dafa","x":-700,"y":180,"width":250,"height":80,"type":"text","text":"Чувствует в игроке слабость"},
 		{"id":"ccd6446f544ac5bc","type":"text","text":"Изучает","x":-1321,"y":-167,"width":250,"height":60,"color":"2"},
-		{"id":"4786b040ee32ce4e","x":-1320,"y":-20,"width":250,"height":60,"color":"1","type":"text","text":"Меняет статус агрессивности вверх"}
+		{"id":"4786b040ee32ce4e","x":-1320,"y":-20,"width":250,"height":60,"color":"1","type":"text","text":"Меняет статус агрессивности вверх"},
+		{"id":"208cbcb8f1968da3","type":"text","text":"Пассивное","x":-1724,"y":-856,"width":250,"height":60},
+		{"id":"a94617a6a624373d","type":"text","text":"Нейтральное","x":-1298,"y":-856,"width":250,"height":60},
+		{"id":"309a7d7394887772","type":"text","text":"Абсолютно агрессивное ","x":-504,"y":-856,"width":250,"height":60},
+		{"id":"b99f0aaf4df5e905","type":"text","text":"Агрессивное","x":-864,"y":-856,"width":250,"height":60},
+		{"id":"d4a2cd567dcb285e","x":-2090,"y":-858,"width":250,"height":60,"type":"text","text":"Абсолютно нейтральное"},
+		{"id":"1a37310531a06b62","type":"text","text":"[[Животное]]","x":-1220,"y":-1340,"width":250,"height":60},
+		{"id":"65f74679834e1d95","type":"text","text":"Статус","x":-1220,"y":-1168,"width":250,"height":60}
 	],
 	"edges":[
 		{"id":"b112551a9053e232","fromNode":"65f74679834e1d95","fromSide":"bottom","toNode":"b99f0aaf4df5e905","toSide":"top"},
@@ -29,8 +29,11 @@
 		{"id":"758e07c25c48381b","fromNode":"e7aee53210271fd0","fromSide":"bottom","toNode":"22ab75edc3f311e0","toSide":"top"},
 		{"id":"6f3bb430a06973f1","fromNode":"b2b04481109e8c7c","fromSide":"top","toNode":"22ab75edc3f311e0","toSide":"bottom"},
 		{"id":"8a2323781dabff13","fromNode":"e7aee53210271fd0","fromSide":"bottom","toNode":"92f4d40593e0dafa","toSide":"top"},
-		{"id":"bae2090e724f4c11","fromNode":"92f4d40593e0dafa","fromSide":"right","toNode":"c427868a09d6497d","toSide":"bottom"},
 		{"id":"f512d4e19cd5c203","fromNode":"ccd6446f544ac5bc","fromSide":"bottom","toNode":"4786b040ee32ce4e","toSide":"top"},
-		{"id":"0a94c0a0e374d902","fromNode":"dfbd336c47aa3fa1","fromSide":"top","toNode":"4786b040ee32ce4e","toSide":"bottom"}
+		{"id":"0a94c0a0e374d902","fromNode":"dfbd336c47aa3fa1","fromSide":"top","toNode":"4786b040ee32ce4e","toSide":"bottom"},
+		{"id":"94bc8f4c0cd6dbc4","fromNode":"b99f0aaf4df5e905","fromSide":"bottom","toNode":"57c6d4adcc00851f","toSide":"top"},
+		{"id":"e3012dc6621d8f5b","fromNode":"309a7d7394887772","fromSide":"bottom","toNode":"57c6d4adcc00851f","toSide":"top"},
+		{"id":"5de1e99ba4d6c0f5","fromNode":"208cbcb8f1968da3","fromSide":"bottom","toNode":"57c6d4adcc00851f","toSide":"top"},
+		{"id":"a6c93222168e3c50","fromNode":"65f74679834e1d95","fromSide":"bottom","toNode":"d4a2cd567dcb285e","toSide":"top"}
 	]
 }
