@@ -15,8 +15,8 @@
 		{"id":"c427868a09d6497d","type":"text","text":"Атакует","x":-500,"y":-40,"width":250,"height":60,"color":"1"},
 		{"id":"22ab75edc3f311e0","type":"text","text":"Меняет статус агрессивности в низ","x":-860,"y":40,"width":250,"height":60,"color":"4"},
 		{"id":"92f4d40593e0dafa","x":-700,"y":180,"width":250,"height":80,"type":"text","text":"Чувствует в игроке слабость"},
-		{"id":"ccd6446f544ac5bc","type":"text","text":"Изучает","x":-1720,"y":-180,"width":250,"height":60,"color":"2"},
-		{"id":"4786b040ee32ce4e","x":-1719,"y":-33,"width":250,"height":60,"type":"text","text":"Меняет статус агрессивности вверх"}
+		{"id":"ccd6446f544ac5bc","type":"text","text":"Изучает","x":-1321,"y":-167,"width":250,"height":60,"color":"2"},
+		{"id":"4786b040ee32ce4e","x":-1320,"y":-20,"width":250,"height":60,"color":"1","type":"text","text":"Меняет статус агрессивности вверх"}
 	],
 	"edges":[
 		{"id":"b112551a9053e232","fromNode":"65f74679834e1d95","fromSide":"bottom","toNode":"b99f0aaf4df5e905","toSide":"top"},
@@ -24,20 +24,13 @@
 		{"id":"dd2331d50b526b07","fromNode":"65f74679834e1d95","fromSide":"bottom","toNode":"309a7d7394887772","toSide":"top"},
 		{"id":"31230d8894b0b5e1","fromNode":"65f74679834e1d95","fromSide":"bottom","toNode":"208cbcb8f1968da3","toSide":"top"},
 		{"id":"1bfea1894b77ac19","fromNode":"1a37310531a06b62","fromSide":"bottom","toNode":"65f74679834e1d95","toSide":"top"},
-		{"id":"498e29c0a9ce2eec","fromNode":"b99f0aaf4df5e905","fromSide":"bottom","toNode":"e7aee53210271fd0","toSide":"top"},
-		{"id":"8f67524304860b09","fromNode":"309a7d7394887772","fromSide":"bottom","toNode":"e7aee53210271fd0","toSide":"top"},
-		{"id":"9ff598ea250b1a0b","fromNode":"309a7d7394887772","fromSide":"bottom","toNode":"c427868a09d6497d","toSide":"top"},
 		{"id":"bd229b44162565a6","fromNode":"13113b47fb75c290","fromSide":"top","toNode":"b2b04481109e8c7c","toSide":"bottom"},
 		{"id":"46401364827e013f","fromNode":"13113b47fb75c290","fromSide":"top","toNode":"dfbd336c47aa3fa1","toSide":"bottom"},
 		{"id":"758e07c25c48381b","fromNode":"e7aee53210271fd0","fromSide":"bottom","toNode":"22ab75edc3f311e0","toSide":"top"},
 		{"id":"6f3bb430a06973f1","fromNode":"b2b04481109e8c7c","fromSide":"top","toNode":"22ab75edc3f311e0","toSide":"bottom"},
 		{"id":"8a2323781dabff13","fromNode":"e7aee53210271fd0","fromSide":"bottom","toNode":"92f4d40593e0dafa","toSide":"top"},
-		{"id":"02b2cda1eae4724d","fromNode":"dfbd336c47aa3fa1","fromSide":"top","toNode":"92f4d40593e0dafa","toSide":"bottom"},
-		{"id":"3e36708eccec71a6","fromNode":"22ab75edc3f311e0","fromSide":"left","toNode":"208cbcb8f1968da3","toSide":"bottom","label":"\n"},
 		{"id":"bae2090e724f4c11","fromNode":"92f4d40593e0dafa","fromSide":"right","toNode":"c427868a09d6497d","toSide":"bottom"},
-		{"id":"38b0fbbd06ce6959","fromNode":"208cbcb8f1968da3","fromSide":"bottom","toNode":"ccd6446f544ac5bc","toSide":"top"},
 		{"id":"f512d4e19cd5c203","fromNode":"ccd6446f544ac5bc","fromSide":"bottom","toNode":"4786b040ee32ce4e","toSide":"top"},
-		{"id":"0a94c0a0e374d902","fromNode":"dfbd336c47aa3fa1","fromSide":"top","toNode":"4786b040ee32ce4e","toSide":"bottom"},
-		{"id":"730481f85443f8a2","fromNode":"4786b040ee32ce4e","fromSide":"right","toNode":"b99f0aaf4df5e905","toSide":"bottom"}
+		{"id":"0a94c0a0e374d902","fromNode":"dfbd336c47aa3fa1","fromSide":"top","toNode":"4786b040ee32ce4e","toSide":"bottom"}
 	]
 }
