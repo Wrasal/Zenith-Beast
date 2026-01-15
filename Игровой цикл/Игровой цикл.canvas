@@ -2,6 +2,7 @@
 	"nodes":[
 		{"id":"6a526e2fa1b6121c","type":"group","x":-480,"y":80,"width":3224,"height":1689,"label":"Сценарий миссий"},
 		{"id":"30928abe2b4af39c","type":"group","x":800,"y":-2360,"width":2000,"height":1120,"label":"Точки интерса и их связи"},
+		{"id":"80f5bb3ff96efec4","x":935,"y":640,"width":1610,"height":440,"type":"group","label":"Миссии"},
 		{"id":"606ac43ae2796396","type":"group","x":2960,"y":-2340,"width":1240,"height":500,"label":"Сценарий охоты"},
 		{"id":"1edbd1b53de2bf5c","type":"text","text":"Выполнение [[Активности]]","x":955,"y":800,"width":250,"height":60},
 		{"id":"1cf90184229d2942","type":"text","text":"Достижение маркера","x":495,"y":800,"width":250,"height":60},
@@ -20,11 +21,12 @@
 		{"id":"3efbc0c22c4c2108","type":"text","text":"Глядение на мир","x":960,"y":-625,"width":250,"height":69},
 		{"id":"d6a823e552606d11","type":"text","text":"[[Подготовка к экспедиции]]\\высадка","x":-720,"y":-616,"width":250,"height":60},
 		{"id":"937964567666cb78","type":"text","text":"Активность для изменения миссий[[Изменения квестов]] и [[Изменения карты]]","x":870,"y":-1520,"width":340,"height":120},
-		{"id":"04d4a04fdd554da7","type":"text","text":"Нарративные находки для сюжета","x":1560,"y":-1520,"width":250,"height":93},
 		{"id":"74519d35eb81af94","type":"text","text":"[[Изучение животного]]","x":2980,"y":-2020,"width":250,"height":60},
 		{"id":"e43b5f39dbf8fac9","type":"text","text":"[[Непредвиденная ситуация]]","x":3377,"y":-2020,"width":296,"height":60},
 		{"id":"2e82f4d0f91a412a","type":"text","text":"Получение наград (освежевать)","x":3840,"y":-2258,"width":250,"height":89},
-		{"id":"b63dbc0bb03c2ae3","type":"text","text":"Охота","x":3400,"y":-2244,"width":250,"height":60}
+		{"id":"b63dbc0bb03c2ae3","type":"text","text":"Охота","x":3400,"y":-2244,"width":250,"height":60},
+		{"id":"04d4a04fdd554da7","type":"text","text":"Нарративные находки для сюжета","x":1580,"y":-1553,"width":250,"height":93},
+		{"id":"8979105cbac77923","x":960,"y":1200,"width":250,"height":60,"type":"text","text":""}
 	],
 	"edges":[
 		{"id":"90651aea7aad171d","fromNode":"b27d57b70a645890","fromSide":"right","toNode":"1cf90184229d2942","toSide":"left"},
