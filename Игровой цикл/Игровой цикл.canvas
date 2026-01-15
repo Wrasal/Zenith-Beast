@@ -11,7 +11,7 @@
 		{"id":"12661931a62cb975","type":"text","text":"Охота\\Изучение животных","x":630,"y":-1360,"width":250,"height":60},
 		{"id":"c4e4f7d78b602dba","x":880,"y":-636,"width":374,"height":80,"type":"text","text":"Точки изменяющие\\дополняющие миссии [[Изменения квестов]]"},
 		{"id":"0ab40166fa2f362f","type":"text","text":"Встреча с [[Точка интереса]]\n","x":520,"y":-632,"width":280,"height":73},
-		{"id":"a690b8bfebee59f1","x":-540,"y":250,"width":400,"height":400,"type":"file","file":"Игровой цикл/Изменения квестов.md"}
+		{"id":"a690b8bfebee59f1","x":350,"y":600,"width":400,"height":400,"type":"file","file":"Игровой цикл/Изменения квестов.md"}
 	],
 	"edges":[
 		{"id":"94efc0c72e2635f1","fromNode":"d6a823e552606d11","fromSide":"right","toNode":"b27d57b70a645890","toSide":"left"},
@@ -27,6 +27,6 @@
 		{"id":"4e1b9db26c9b4939","fromNode":"aa051ea19eb76e97","fromSide":"right","toNode":"0ab40166fa2f362f","toSide":"left"},
 		{"id":"5d971ff245f5a814","fromNode":"aa051ea19eb76e97","fromSide":"right","toNode":"12661931a62cb975","toSide":"left"},
 		{"id":"35f0d9b1669402db","fromNode":"0ab40166fa2f362f","fromSide":"right","toNode":"c4e4f7d78b602dba","toSide":"left"},
-		{"id":"674b2dc156ac54e4","fromNode":"a690b8bfebee59f1","fromSide":"right","toNode":"b27d57b70a645890","toSide":"left"}
+		{"id":"9416c358e774dd53","fromNode":"a690b8bfebee59f1","fromSide":"right","toNode":"1edbd1b53de2bf5c","toSide":"bottom"}
 	]
 }
