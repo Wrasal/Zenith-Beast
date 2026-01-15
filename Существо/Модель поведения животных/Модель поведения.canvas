@@ -8,8 +8,10 @@
 		{"id":"1a37310531a06b62","type":"text","text":"[[Животное]]","x":-1066,"y":-1040,"width":250,"height":60},
 		{"id":"e7aee53210271fd0","x":-700,"y":-320,"width":250,"height":60,"type":"text","text":"Изучает"},
 		{"id":"c427868a09d6497d","x":-500,"y":-120,"width":250,"height":60,"type":"text","text":"Атакует"},
-		{"id":"13113b47fb75c290","x":-1110,"y":440,"width":250,"height":60,"color":"5","type":"text","text":"Реакция игрока"},
-		{"id":"b2b04481109e8c7c","x":-881,"y":251,"width":250,"height":60,"type":"text","text":""}
+		{"id":"13113b47fb75c290","x":-1110,"y":560,"width":250,"height":60,"color":"5","type":"text","text":"Реакция игрока"},
+		{"id":"dfbd336c47aa3fa1","x":-1360,"y":360,"width":250,"height":60,"type":"text","text":"Убежать"},
+		{"id":"b2b04481109e8c7c","x":-825,"y":360,"width":250,"height":60,"type":"text","text":"Показать статус"},
+		{"id":"a1886ff3cd485ddd","x":-565,"y":703,"width":485,"height":217,"type":"text","text":"Сразу в голову приходит трофеи которые сразу показывают статус игрока животному"}
 	],
 	"edges":[
 		{"id":"b112551a9053e232","fromNode":"65f74679834e1d95","fromSide":"bottom","toNode":"b99f0aaf4df5e905","toSide":"top"},
@@ -21,6 +23,7 @@
 		{"id":"8f67524304860b09","fromNode":"309a7d7394887772","fromSide":"bottom","toNode":"e7aee53210271fd0","toSide":"top"},
 		{"id":"9ff598ea250b1a0b","fromNode":"309a7d7394887772","fromSide":"bottom","toNode":"c427868a09d6497d","toSide":"top"},
 		{"id":"f80152fdf0b11fac","fromNode":"e7aee53210271fd0","fromSide":"bottom","toNode":"c427868a09d6497d","toSide":"top"},
-		{"id":"bd229b44162565a6","fromNode":"13113b47fb75c290","fromSide":"top","toNode":"b2b04481109e8c7c","toSide":"bottom"}
+		{"id":"bd229b44162565a6","fromNode":"13113b47fb75c290","fromSide":"top","toNode":"b2b04481109e8c7c","toSide":"bottom"},
+		{"id":"46401364827e013f","fromNode":"13113b47fb75c290","fromSide":"top","toNode":"dfbd336c47aa3fa1","toSide":"bottom"}
 	]
 }
