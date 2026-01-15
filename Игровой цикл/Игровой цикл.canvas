@@ -5,11 +5,13 @@
 		{"id":"1edbd1b53de2bf5c","type":"text","text":"Выполнение [[Активности]]","x":880,"y":220,"width":250,"height":60},
 		{"id":"3aa243b2149083ca","type":"text","text":"Успех","x":1240,"y":120,"width":250,"height":60},
 		{"id":"5da915c925b97009","type":"text","text":"Неудачно","x":1240,"y":300,"width":250,"height":60},
-		{"id":"8328fa43f0330832","type":"text","text":"Конец","x":1740,"y":-120,"width":250,"height":60},
 		{"id":"d6a823e552606d11","type":"text","text":"[[Подготовка к экспедиции]]\\высадка","x":-720,"y":-616,"width":250,"height":60},
 		{"id":"aa051ea19eb76e97","type":"text","text":"Изучения мира","x":120,"y":-625,"width":250,"height":69},
-		{"id":"0ab40166fa2f362f","type":"text","text":"Встреча с точками интереса\n","x":540,"y":-625,"width":280,"height":73},
-		{"id":"5b5b285c66d88a54","x":1000,"y":-1100,"width":250,"height":60,"type":"text","text":"Разрушенные базы"}
+		{"id":"8328fa43f0330832","type":"text","text":"Конец","x":1780,"y":120,"width":250,"height":60},
+		{"id":"0ab40166fa2f362f","type":"text","text":"Встреча с точками интереса\n","x":600,"y":-1040,"width":280,"height":73},
+		{"id":"5b5b285c66d88a54","x":1130,"y":-1280,"width":250,"height":60,"type":"text","text":"Разрушенные базы"},
+		{"id":"874f8302afcf9161","x":1100,"y":-1033,"width":250,"height":60,"type":"text","text":"\nРазрушение лабы"},
+		{"id":"69ac3fcd884fb602","x":1100,"y":-897,"width":250,"height":60,"type":"text","text":"Старые механизмы"}
 	],
 	"edges":[
 		{"id":"94efc0c72e2635f1","fromNode":"d6a823e552606d11","fromSide":"right","toNode":"b27d57b70a645890","toSide":"left"},
@@ -23,6 +25,8 @@
 		{"id":"94ca7fd0e125f4fe","fromNode":"d6a823e552606d11","fromSide":"right","toNode":"aa051ea19eb76e97","toSide":"left"},
 		{"id":"ad96f34df0f1f6c7","fromNode":"b27d57b70a645890","fromSide":"top","toNode":"aa051ea19eb76e97","toSide":"bottom"},
 		{"id":"4e1b9db26c9b4939","fromNode":"aa051ea19eb76e97","fromSide":"right","toNode":"0ab40166fa2f362f","toSide":"left"},
-		{"id":"a8e93e5a17d20de1","fromNode":"0ab40166fa2f362f","fromSide":"right","toNode":"5b5b285c66d88a54","toSide":"left"}
+		{"id":"a8e93e5a17d20de1","fromNode":"0ab40166fa2f362f","fromSide":"right","toNode":"5b5b285c66d88a54","toSide":"left"},
+		{"id":"f730d5b0b265198f","fromNode":"0ab40166fa2f362f","fromSide":"right","toNode":"874f8302afcf9161","toSide":"left"},
+		{"id":"94851575cbe0fe22","fromNode":"0ab40166fa2f362f","fromSide":"right","toNode":"69ac3fcd884fb602","toSide":"left"}
 	]
 }
