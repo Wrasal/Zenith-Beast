@@ -1,7 +1,9 @@
 {
 	"nodes":[
 		{"id":"d6a823e552606d11","type":"text","text":"[[Подготовка к экспедиции]]","x":-320,"y":-180,"width":250,"height":60},
-		{"id":"b27d57b70a645890","type":"text","text":"","x":60,"y":-180,"width":250,"height":60}
+		{"id":"b27d57b70a645890","type":"text","text":"Путешествия ","x":60,"y":-180,"width":250,"height":60}
 	],
-	"edges":[]
+	"edges":[
+		{"id":"49dddbc93574b52d","fromNode":"d6a823e552606d11","fromSide":"right","toNode":"b27d57b70a645890","toSide":"left"}
+	]
 }
