@@ -17,11 +17,12 @@
 		{"id":"0ab40166fa2f362f","type":"text","text":"Встреча с [[Точка интереса]]\n","x":400,"y":-1880,"width":280,"height":80},
 		{"id":"6f67bbeee41a1e06","type":"text","text":"Место добычи [[Ресурсы]]","x":900,"y":-2320,"width":250,"height":60},
 		{"id":"04d4a04fdd554da7","type":"text","text":"Нарративные находки, для сюжета","x":1560,"y":-1520,"width":250,"height":93},
-		{"id":"b63dbc0bb03c2ae3","type":"text","text":"Охота","x":2920,"y":-2505,"width":250,"height":60},
-		{"id":"74519d35eb81af94","type":"text","text":"[[Изучение животного]]","x":2920,"y":-2260,"width":250,"height":60},
-		{"id":"2e82f4d0f91a412a","type":"text","text":"Получение наград (освежевать)","x":3135,"y":-2740,"width":250,"height":89},
 		{"id":"12661931a62cb975","type":"text","text":"Охота\\Изучение животных","x":1940,"y":-2260,"width":250,"height":60},
-		{"id":"ba2fba7fae68741a","x":2200,"y":-1720,"width":400,"height":400,"type":"file","file":"Существо/Признаки присутствия.md"}
+		{"id":"ba2fba7fae68741a","x":2200,"y":-1720,"width":400,"height":400,"type":"file","file":"Существо/Признаки присутствия.md"},
+		{"id":"b63dbc0bb03c2ae3","type":"text","text":"Охота","x":3400,"y":-2230,"width":250,"height":60},
+		{"id":"2e82f4d0f91a412a","type":"text","text":"Получение наград (освежевать)","x":3980,"y":-2230,"width":250,"height":89},
+		{"id":"74519d35eb81af94","type":"text","text":"[[Изучение животного]]","x":2980,"y":-2020,"width":250,"height":60},
+		{"id":"e43b5f39dbf8fac9","x":3424,"y":-2014,"width":250,"height":60,"type":"text","text":""}
 	],
 	"edges":[
 		{"id":"90651aea7aad171d","fromNode":"b27d57b70a645890","fromSide":"right","toNode":"1cf90184229d2942","toSide":"left"},
@@ -45,12 +46,11 @@
 		{"id":"d3dc8cf92c4a5967","fromNode":"12661931a62cb975","fromSide":"right","toNode":"b63dbc0bb03c2ae3","toSide":"left"},
 		{"id":"55ee79616c8298c1","fromNode":"04d4a04fdd554da7","fromSide":"top","toNode":"6f67bbeee41a1e06","toSide":"bottom","label":"Подсказывают где находятся"},
 		{"id":"8666651fc45bd872","fromNode":"12661931a62cb975","fromSide":"right","toNode":"74519d35eb81af94","toSide":"left"},
-		{"id":"118b825b9a8d9813","fromNode":"74519d35eb81af94","fromSide":"top","toNode":"b63dbc0bb03c2ae3","toSide":"bottom"},
-		{"id":"5f63b34b7a54630c","fromNode":"b63dbc0bb03c2ae3","fromSide":"top","toNode":"2e82f4d0f91a412a","toSide":"bottom"},
-		{"id":"739ca4f494356a85","fromNode":"2e82f4d0f91a412a","fromSide":"bottom","toNode":"b63dbc0bb03c2ae3","toSide":"top"},
-		{"id":"a01e384f5624eeb5","fromNode":"b63dbc0bb03c2ae3","fromSide":"bottom","toNode":"74519d35eb81af94","toSide":"top"},
+		{"id":"118b825b9a8d9813","fromNode":"74519d35eb81af94","fromSide":"right","toNode":"b63dbc0bb03c2ae3","toSide":"left"},
 		{"id":"78bfdb1340d68cea","fromNode":"74519d35eb81af94","fromSide":"left","toNode":"12661931a62cb975","toSide":"right"},
 		{"id":"ac4428dcaf1a6ea9","fromNode":"b63dbc0bb03c2ae3","fromSide":"left","toNode":"12661931a62cb975","toSide":"right"},
-		{"id":"2b1ca9f96553a856","fromNode":"ba2fba7fae68741a","fromSide":"top","toNode":"12661931a62cb975","toSide":"bottom"}
+		{"id":"2b1ca9f96553a856","fromNode":"ba2fba7fae68741a","fromSide":"top","toNode":"12661931a62cb975","toSide":"bottom"},
+		{"id":"4cd9e9d00983ae54","fromNode":"b63dbc0bb03c2ae3","fromSide":"right","toNode":"2e82f4d0f91a412a","toSide":"left"},
+		{"id":"30327693189f06ec","fromNode":"74519d35eb81af94","fromSide":"right","toNode":"e43b5f39dbf8fac9","toSide":"left"}
 	]
 }
