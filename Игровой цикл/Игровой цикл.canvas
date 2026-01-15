@@ -1,6 +1,6 @@
 {
 	"nodes":[
-		{"id":"d6a823e552606d11","x":-320,"y":-180,"width":250,"height":60,"type":"text","text":"Секс"}
+		{"id":"d6a823e552606d11","type":"text","text":"Секс","x":-320,"y":-180,"width":250,"height":60}
 	],
 	"edges":[]
 }
