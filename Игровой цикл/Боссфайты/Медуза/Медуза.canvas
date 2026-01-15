@@ -1,8 +1,9 @@
 {
 	"nodes":[
 		{"id":"dbb805436a985d78","type":"text","text":"Смертельный способ","x":-660,"y":-120,"width":240,"height":60},
-		{"id":"358c9223cff56701","type":"text","text":"Фаза 1 - обстреливание по","x":-337,"y":-120,"width":317,"height":140},
-		{"id":"4156a1565accebb2","type":"text","text":"Фаза 2","x":280,"y":-120,"width":250,"height":60}
+		{"id":"358c9223cff56701","type":"text","text":"[[Фаза 1]] - отстреливание Ротовых полостей","x":-337,"y":-120,"width":317,"height":140},
+		{"id":"4156a1565accebb2","type":"text","text":"Фаза 2","x":280,"y":-120,"width":250,"height":60},
+		{"id":"e612d1c9fa5d9bdd","x":-24,"y":305,"width":250,"height":60,"type":"text","text":""}
 	],
 	"edges":[
 		{"id":"40027c516c7cd007","fromNode":"dbb805436a985d78","fromSide":"right","toNode":"358c9223cff56701","toSide":"left"},
