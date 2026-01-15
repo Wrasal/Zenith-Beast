@@ -13,7 +13,8 @@
 		{"id":"ec1a29b982535990","x":1280,"y":250,"width":250,"height":60,"type":"text","text":"Альт. Путь\n"},
 		{"id":"24337d9d85454e36","x":1280,"y":310,"width":250,"height":60,"type":"text","text":"Альт. путь ..."},
 		{"id":"12661931a62cb975","type":"text","text":"Охота\\Изучение животных","x":940,"y":-1120,"width":250,"height":60},
-		{"id":"937964567666cb78","x":940,"y":-980,"width":340,"height":100,"type":"text","text":"Активность для изменения миссий[[Изменения квестов]] и [[Изменения карты]]"}
+		{"id":"937964567666cb78","x":940,"y":-980,"width":340,"height":100,"type":"text","text":"Активность для изменения миссий[[Изменения квестов]] и [[Изменения карты]]"},
+		{"id":"04d4a04fdd554da7","x":960,"y":-722,"width":250,"height":50,"type":"text","text":"Нарративные находки, для сюжета"}
 	],
 	"edges":[
 		{"id":"94efc0c72e2635f1","fromNode":"d6a823e552606d11","fromSide":"right","toNode":"b27d57b70a645890","toSide":"left"},
@@ -30,6 +31,7 @@
 		{"id":"c0f9ea2ef5c5aa26","fromNode":"6c9a1df8ea37948d","fromSide":"right","toNode":"3aa243b2149083ca","toSide":"left"},
 		{"id":"2464b9285be2b028","fromNode":"3aa243b2149083ca","fromSide":"bottom","toNode":"1edbd1b53de2bf5c","toSide":"bottom","label":"При не удаче"},
 		{"id":"90182827bdaef612","fromNode":"0ab40166fa2f362f","fromSide":"right","toNode":"12661931a62cb975","toSide":"left"},
-		{"id":"0c04363cf74e3bcf","fromNode":"0ab40166fa2f362f","fromSide":"right","toNode":"937964567666cb78","toSide":"left"}
+		{"id":"0c04363cf74e3bcf","fromNode":"0ab40166fa2f362f","fromSide":"right","toNode":"937964567666cb78","toSide":"left"},
+		{"id":"c158aa8dd57076bd","fromNode":"0ab40166fa2f362f","fromSide":"right","toNode":"04d4a04fdd554da7","toSide":"left"}
 	]
 }
