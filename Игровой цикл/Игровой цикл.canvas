@@ -1,5 +1,6 @@
 {
 	"nodes":[
+		{"id":"8b1cb8a1956c28a8","x":270,"y":464,"width":400,"height":400,"type":"file","file":"Локации/Expedition/Точка интереса.md"},
 		{"id":"b27d57b70a645890","type":"text","text":"Путешествия до маркера [[Активности]]","x":100,"y":220,"width":250,"height":60,"color":"3"},
 		{"id":"1cf90184229d2942","type":"text","text":"Достижение маркера","x":520,"y":220,"width":250,"height":60},
 		{"id":"1edbd1b53de2bf5c","type":"text","text":"Выполнение [[Активности]]","x":880,"y":220,"width":250,"height":60},
