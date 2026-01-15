@@ -14,7 +14,7 @@
 		{"id":"61b3e9bf93b3bcf2","type":"text","text":"Прохождение испытания","x":1285,"y":-1200,"width":250,"height":60},
 		{"id":"ac27883433499157","x":1620,"y":-1200,"width":294,"height":60,"type":"text","text":"Получения вознаграждения"},
 		{"id":"7f702ef265257095","x":2000,"y":-1200,"width":250,"height":60,"type":"text","text":"Конец"},
-		{"id":"12661931a62cb975","x":627,"y":-615,"width":250,"height":60,"type":"text","text":""}
+		{"id":"12661931a62cb975","x":630,"y":-625,"width":250,"height":60,"type":"text","text":"Охота\\Изучение животных"}
 	],
 	"edges":[
 		{"id":"94efc0c72e2635f1","fromNode":"d6a823e552606d11","fromSide":"right","toNode":"b27d57b70a645890","toSide":"left"},
