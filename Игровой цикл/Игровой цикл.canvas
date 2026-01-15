@@ -1,9 +1,9 @@
 {
 	"nodes":[
-		{"id":"6a526e2fa1b6121c","type":"group","x":-480,"y":80,"width":3224,"height":1689,"label":"Сценарий миссий"},
-		{"id":"30928abe2b4af39c","type":"group","x":800,"y":-2360,"width":2000,"height":1120,"label":"Точки интерса и их связи"},
+		{"id":"6a526e2fa1b6121c","type":"group","x":-480,"y":80,"width":3224,"height":1689,"label":"Сценарий активности"},
+		{"id":"30928abe2b4af39c","type":"group","x":800,"y":-2360,"width":2000,"height":1280,"label":"Точки интерса и их связи"},
 		{"id":"606ac43ae2796396","type":"group","x":2960,"y":-2340,"width":1240,"height":500,"label":"Сценарий охоты"},
-		{"id":"80f5bb3ff96efec4","x":935,"y":640,"width":1185,"height":440,"type":"group","label":"Миссии"},
+		{"id":"80f5bb3ff96efec4","x":935,"y":640,"width":1130,"height":440,"type":"group","label":"Миссии"},
 		{"id":"250b66c414e5e237","x":935,"y":1240,"width":1130,"height":240,"type":"group","label":"Боссфайты"},
 		{"id":"1edbd1b53de2bf5c","type":"text","text":"Выполнение [[Активности]]","x":955,"y":800,"width":250,"height":60},
 		{"id":"1cf90184229d2942","type":"text","text":"Достижение маркера","x":495,"y":800,"width":250,"height":60},
@@ -14,7 +14,6 @@
 		{"id":"12661931a62cb975","type":"text","text":"Охота\\Изучение животных","x":1940,"y":-2260,"width":250,"height":60},
 		{"id":"6f67bbeee41a1e06","type":"text","text":"Место добычи [[Ресурсы]]","x":900,"y":-2320,"width":250,"height":60},
 		{"id":"b27d57b70a645890","type":"text","text":"Путешествия до маркера [[Активности]]","x":120,"y":800,"width":250,"height":60,"color":"3"},
-		{"id":"a690b8bfebee59f1","type":"file","file":"Игровой цикл/Изменения квестов.md","x":810,"y":160,"width":400,"height":400},
 		{"id":"6c9a1df8ea37948d","type":"text","text":"Обычное прохождение\n","x":1355,"y":680,"width":250,"height":60},
 		{"id":"24337d9d85454e36","type":"text","text":"Альт. путь ...","x":1355,"y":890,"width":250,"height":60},
 		{"id":"aa051ea19eb76e97","type":"text","text":"Изучения мира","x":120,"y":-625,"width":250,"height":69},
@@ -31,7 +30,9 @@
 		{"id":"ac1f6282b2b55fe0","x":1379,"y":1400,"width":250,"height":60,"type":"text","text":"Альт. способ"},
 		{"id":"e0da41c1df0a2f10","x":1795,"y":1400,"width":250,"height":60,"type":"text","text":"Успех с последующем изменением мира"},
 		{"id":"3b24e3f01ccddca6","type":"text","text":"Успех","x":1795,"y":1260,"width":250,"height":60},
-		{"id":"8328fa43f0330832","type":"text","text":"Конец","x":2280,"y":1140,"width":250,"height":60}
+		{"id":"8328fa43f0330832","type":"text","text":"Конец","x":2280,"y":1140,"width":250,"height":60},
+		{"id":"a690b8bfebee59f1","type":"file","file":"Игровой цикл/Изменения квестов.md","x":-180,"y":1000,"width":400,"height":400},
+		{"id":"2d4ba5a242209996","x":926,"y":-1278,"width":250,"height":60,"type":"text","text":"Изменяя"}
 	],
 	"edges":[
 		{"id":"90651aea7aad171d","fromNode":"b27d57b70a645890","fromSide":"right","toNode":"1cf90184229d2942","toSide":"left"},
@@ -70,6 +71,8 @@
 		{"id":"99de9e7d6e0211c5","fromNode":"e0be7a93acfb3de4","fromSide":"right","toNode":"3b24e3f01ccddca6","toSide":"left"},
 		{"id":"2f71ea66169a0516","fromNode":"ac1f6282b2b55fe0","fromSide":"right","toNode":"e0da41c1df0a2f10","toSide":"left"},
 		{"id":"0d1bbfada0680c91","fromNode":"3b24e3f01ccddca6","fromSide":"right","toNode":"8328fa43f0330832","toSide":"left"},
-		{"id":"d59c3b070c89f990","fromNode":"e0da41c1df0a2f10","fromSide":"right","toNode":"8328fa43f0330832","toSide":"left"}
+		{"id":"d59c3b070c89f990","fromNode":"e0da41c1df0a2f10","fromSide":"right","toNode":"8328fa43f0330832","toSide":"left"},
+		{"id":"00db1405a29cea52","fromNode":"a690b8bfebee59f1","fromSide":"right","toNode":"ac1f6282b2b55fe0","toSide":"left"},
+		{"id":"f5cff5b86dd7b7eb","fromNode":"937964567666cb78","fromSide":"bottom","toNode":"2d4ba5a242209996","toSide":"top"}
 	]
 }
