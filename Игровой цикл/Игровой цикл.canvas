@@ -27,8 +27,10 @@
 		{"id":"b63dbc0bb03c2ae3","type":"text","text":"Охота","x":3400,"y":-2244,"width":250,"height":60},
 		{"id":"04d4a04fdd554da7","type":"text","text":"Нарративные находки для сюжета","x":1580,"y":-1553,"width":250,"height":93},
 		{"id":"8979105cbac77923","x":955,"y":1340,"width":250,"height":60,"type":"text","text":"Боссфайты"},
-		{"id":"e0be7a93acfb3de4","x":1379,"y":1180,"width":250,"height":60,"type":"text","text":"Убийственный способ"},
-		{"id":"ac1f6282b2b55fe0","x":1379,"y":1460,"width":250,"height":60,"type":"text","text":"Альт. способ"}
+		{"id":"e0be7a93acfb3de4","x":1379,"y":1260,"width":250,"height":60,"type":"text","text":"Убийственный способ"},
+		{"id":"ac1f6282b2b55fe0","x":1379,"y":1400,"width":250,"height":60,"type":"text","text":"Альт. способ"},
+		{"id":"3b24e3f01ccddca6","type":"text","text":"Успех","x":1820,"y":1260,"width":250,"height":60},
+		{"id":"e0da41c1df0a2f10","x":1758,"y":1397,"width":250,"height":60,"type":"text","text":"Успех с "}
 	],
 	"edges":[
 		{"id":"90651aea7aad171d","fromNode":"b27d57b70a645890","fromSide":"right","toNode":"1cf90184229d2942","toSide":"left"},
@@ -63,6 +65,8 @@
 		{"id":"2763f4204dbd4007","fromNode":"aa051ea19eb76e97","fromSide":"right","toNode":"3efbc0c22c4c2108","toSide":"left"},
 		{"id":"c69f55c0ea2d8a91","fromNode":"1cf90184229d2942","fromSide":"right","toNode":"8979105cbac77923","toSide":"left"},
 		{"id":"9ac3f1d62cf3a76e","fromNode":"8979105cbac77923","fromSide":"right","toNode":"e0be7a93acfb3de4","toSide":"left"},
-		{"id":"7679fd4b72a244a4","fromNode":"8979105cbac77923","fromSide":"right","toNode":"ac1f6282b2b55fe0","toSide":"left"}
+		{"id":"7679fd4b72a244a4","fromNode":"8979105cbac77923","fromSide":"right","toNode":"ac1f6282b2b55fe0","toSide":"left"},
+		{"id":"99de9e7d6e0211c5","fromNode":"e0be7a93acfb3de4","fromSide":"right","toNode":"3b24e3f01ccddca6","toSide":"left"},
+		{"id":"2f71ea66169a0516","fromNode":"ac1f6282b2b55fe0","fromSide":"right","toNode":"e0da41c1df0a2f10","toSide":"left"}
 	]
 }
