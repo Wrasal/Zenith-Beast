@@ -7,8 +7,8 @@
 		{"id":"5da915c925b97009","type":"text","text":"Неудачно","x":1240,"y":300,"width":250,"height":60},
 		{"id":"8328fa43f0330832","type":"text","text":"Конец","x":1740,"y":-120,"width":250,"height":60},
 		{"id":"d6a823e552606d11","type":"text","text":"[[Подготовка к экспедиции]]\\высадка","x":-720,"y":-616,"width":250,"height":60},
-		{"id":"aa051ea19eb76e97","type":"text","text":"Изучения мира","x":-300,"y":-620,"width":250,"height":69},
-		{"id":"0ab40166fa2f362f","type":"text","text":"Встреча с точками интереса\n","x":120,"y":-620,"width":280,"height":73}
+		{"id":"aa051ea19eb76e97","type":"text","text":"Изучения мира","x":120,"y":-625,"width":250,"height":69},
+		{"id":"0ab40166fa2f362f","type":"text","text":"Встреча с точками интереса\n","x":540,"y":-625,"width":280,"height":73}
 	],
 	"edges":[
 		{"id":"94efc0c72e2635f1","fromNode":"d6a823e552606d11","fromSide":"right","toNode":"b27d57b70a645890","toSide":"left"},
