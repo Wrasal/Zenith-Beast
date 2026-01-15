@@ -1,12 +1,11 @@
 {
 	"nodes":[
 		{"id":"1a37310531a06b62","type":"text","text":"Животное","x":-1044,"y":-711,"width":250,"height":60},
-		{"id":"3c3c5864e99d377c","type":"text","text":"Пассивное","x":-1660,"y":-530,"width":250,"height":60},
 		{"id":"b99f0aaf4df5e905","type":"text","text":"Агрессивное","x":-520,"y":-530,"width":250,"height":60},
-		{"id":"a94617a6a624373d","type":"text","text":"","x":-1294,"y":-530,"width":250,"height":60}
+		{"id":"a94617a6a624373d","type":"text","text":"Нейтральное","x":-1044,"y":-530,"width":250,"height":60},
+		{"id":"4c7b5ab5cb57b578","x":-1708,"y":-470,"width":347,"height":108,"type":"file","file":"Существо/Модель поведения животных/Пассивное.md"}
 	],
 	"edges":[
-		{"id":"b03d2bf979eec2e8","fromNode":"1a37310531a06b62","fromSide":"bottom","toNode":"3c3c5864e99d377c","toSide":"top"},
 		{"id":"b112551a9053e232","fromNode":"1a37310531a06b62","fromSide":"bottom","toNode":"b99f0aaf4df5e905","toSide":"top"},
 		{"id":"30baffb245f12b8a","fromNode":"1a37310531a06b62","fromSide":"bottom","toNode":"a94617a6a624373d","toSide":"top"}
 	]
