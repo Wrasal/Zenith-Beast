@@ -22,7 +22,7 @@
 		{"id":"b63dbc0bb03c2ae3","type":"text","text":"Охота","x":3400,"y":-2230,"width":250,"height":60},
 		{"id":"2e82f4d0f91a412a","type":"text","text":"Получение наград (освежевать)","x":3980,"y":-2230,"width":250,"height":89},
 		{"id":"74519d35eb81af94","type":"text","text":"[[Изучение животного]]","x":2980,"y":-2020,"width":250,"height":60},
-		{"id":"e43b5f39dbf8fac9","x":3424,"y":-2014,"width":250,"height":60,"type":"text","text":""}
+		{"id":"e43b5f39dbf8fac9","x":3377,"y":-2020,"width":296,"height":60,"type":"text","text":"[[Непредвиденная ситуация]]"}
 	],
 	"edges":[
 		{"id":"90651aea7aad171d","fromNode":"b27d57b70a645890","fromSide":"right","toNode":"1cf90184229d2942","toSide":"left"},
