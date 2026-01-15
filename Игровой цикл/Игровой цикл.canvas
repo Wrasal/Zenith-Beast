@@ -8,7 +8,7 @@
 		{"id":"8328fa43f0330832","type":"text","text":"Конец","x":1740,"y":-120,"width":250,"height":60},
 		{"id":"d6a823e552606d11","type":"text","text":"[[Подготовка к экспедиции]]\\высадка","x":-720,"y":-616,"width":250,"height":60},
 		{"id":"aa051ea19eb76e97","type":"text","text":"Изучения мира","x":-300,"y":-620,"width":250,"height":69},
-		{"id":"0ab40166fa2f362f","type":"text","text":"Встреча с точками интереса\n","x":120,"y":-620,"width":280,"height":70}
+		{"id":"0ab40166fa2f362f","type":"text","text":"Встреча с точками интереса\n","x":120,"y":-620,"width":280,"height":73}
 	],
 	"edges":[
 		{"id":"94efc0c72e2635f1","fromNode":"d6a823e552606d11","fromSide":"right","toNode":"b27d57b70a645890","toSide":"left"},
@@ -19,7 +19,6 @@
 		{"id":"36d95122ad5a5f45","fromNode":"5da915c925b97009","fromSide":"bottom","toNode":"1edbd1b53de2bf5c","toSide":"bottom","label":"Повтор с ближ. чекпоинта"},
 		{"id":"8ca72c7f79fd5524","fromNode":"3aa243b2149083ca","fromSide":"right","toNode":"8328fa43f0330832","toSide":"left"},
 		{"id":"28504da75db96a9b","fromNode":"5da915c925b97009","fromSide":"right","toNode":"8328fa43f0330832","toSide":"bottom","label":"Отмена активности"},
-		{"id":"9b304d435c4014dd","fromNode":"b27d57b70a645890","fromSide":"top","toNode":"0ab40166fa2f362f","toSide":"bottom"},
 		{"id":"94ca7fd0e125f4fe","fromNode":"d6a823e552606d11","fromSide":"right","toNode":"aa051ea19eb76e97","toSide":"left"},
 		{"id":"ad96f34df0f1f6c7","fromNode":"b27d57b70a645890","fromSide":"top","toNode":"aa051ea19eb76e97","toSide":"bottom"},
 		{"id":"4e1b9db26c9b4939","fromNode":"aa051ea19eb76e97","fromSide":"right","toNode":"0ab40166fa2f362f","toSide":"left"}
