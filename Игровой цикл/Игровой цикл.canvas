@@ -9,7 +9,8 @@
 		{"id":"aa051ea19eb76e97","type":"text","text":"Изучения мира","x":120,"y":-625,"width":250,"height":69},
 		{"id":"8328fa43f0330832","type":"text","text":"Конец","x":1780,"y":120,"width":250,"height":60},
 		{"id":"0ab40166fa2f362f","type":"text","text":"Встреча с [[Точка интереса]]\n","x":540,"y":-1080,"width":280,"height":73},
-		{"id":"12661931a62cb975","type":"text","text":"Охота\\Изучение животных","x":540,"y":-620,"width":250,"height":60}
+		{"id":"12661931a62cb975","type":"text","text":"Охота\\Изучение животных","x":540,"y":-620,"width":250,"height":60},
+		{"id":"c4e4f7d78b602dba","x":1006,"y":-1333,"width":250,"height":60,"type":"text","text":""}
 	],
 	"edges":[
 		{"id":"94efc0c72e2635f1","fromNode":"d6a823e552606d11","fromSide":"right","toNode":"b27d57b70a645890","toSide":"left"},
@@ -23,6 +24,7 @@
 		{"id":"94ca7fd0e125f4fe","fromNode":"d6a823e552606d11","fromSide":"right","toNode":"aa051ea19eb76e97","toSide":"left"},
 		{"id":"ad96f34df0f1f6c7","fromNode":"b27d57b70a645890","fromSide":"top","toNode":"aa051ea19eb76e97","toSide":"bottom"},
 		{"id":"4e1b9db26c9b4939","fromNode":"aa051ea19eb76e97","fromSide":"right","toNode":"0ab40166fa2f362f","toSide":"left"},
-		{"id":"5d971ff245f5a814","fromNode":"aa051ea19eb76e97","fromSide":"right","toNode":"12661931a62cb975","toSide":"left"}
+		{"id":"5d971ff245f5a814","fromNode":"aa051ea19eb76e97","fromSide":"right","toNode":"12661931a62cb975","toSide":"left"},
+		{"id":"35f0d9b1669402db","fromNode":"0ab40166fa2f362f","fromSide":"right","toNode":"c4e4f7d78b602dba","toSide":"left"}
 	]
 }
