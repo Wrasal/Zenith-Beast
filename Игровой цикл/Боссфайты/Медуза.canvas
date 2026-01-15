@@ -1,1 +1,6 @@
-{}
+{
+	"nodes":[
+		{"id":"dbb805436a985d78","x":-224,"y":46,"width":250,"height":60,"type":"text","text":"Босс"}
+	],
+	"edges":[]
+}
