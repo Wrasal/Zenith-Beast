@@ -13,7 +13,8 @@
 		{"id":"5b5b285c66d88a54","type":"text","text":"Без испытания","x":940,"y":-940,"width":250,"height":60},
 		{"id":"61b3e9bf93b3bcf2","type":"text","text":"Прохождение испытания","x":1285,"y":-1200,"width":250,"height":60},
 		{"id":"ac27883433499157","x":1620,"y":-1200,"width":294,"height":60,"type":"text","text":"Получения вознаграждения"},
-		{"id":"7f702ef265257095","x":2000,"y":-1200,"width":250,"height":60,"type":"text","text":"Конец"}
+		{"id":"7f702ef265257095","x":2000,"y":-1200,"width":250,"height":60,"type":"text","text":"Конец"},
+		{"id":"12661931a62cb975","x":627,"y":-615,"width":250,"height":60,"type":"text","text":""}
 	],
 	"edges":[
 		{"id":"94efc0c72e2635f1","fromNode":"d6a823e552606d11","fromSide":"right","toNode":"b27d57b70a645890","toSide":"left"},
@@ -32,6 +33,7 @@
 		{"id":"bc3a806b628011bc","fromNode":"f5746fbeb111ede1","fromSide":"right","toNode":"61b3e9bf93b3bcf2","toSide":"left"},
 		{"id":"9e8980e39564d8bd","fromNode":"61b3e9bf93b3bcf2","fromSide":"right","toNode":"ac27883433499157","toSide":"left"},
 		{"id":"db3f6c0c22576c23","fromNode":"ac27883433499157","fromSide":"right","toNode":"7f702ef265257095","toSide":"left"},
-		{"id":"721f286c71548111","fromNode":"7f702ef265257095","fromSide":"top","toNode":"aa051ea19eb76e97","toSide":"top"}
+		{"id":"721f286c71548111","fromNode":"7f702ef265257095","fromSide":"top","toNode":"aa051ea19eb76e97","toSide":"top"},
+		{"id":"5d971ff245f5a814","fromNode":"aa051ea19eb76e97","fromSide":"right","toNode":"12661931a62cb975","toSide":"left"}
 	]
 }
