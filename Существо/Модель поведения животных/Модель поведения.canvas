@@ -10,9 +10,10 @@
 		{"id":"c427868a09d6497d","type":"text","text":"Атакует","x":-500,"y":-120,"width":250,"height":60,"color":"1"},
 		{"id":"13113b47fb75c290","type":"text","text":"Реакция игрока","x":-1110,"y":560,"width":250,"height":60,"color":"5"},
 		{"id":"a1886ff3cd485ddd","type":"text","text":"Сразу в голову приходит трофеи которые сразу показывают статус игрока животному, Допустим голова их вожака","x":-610,"y":840,"width":485,"height":217},
-		{"id":"22ab75edc3f311e0","type":"text","text":"Меняет статус агрессивности","x":-860,"y":-40,"width":250,"height":60,"color":"4"},
+		{"id":"22ab75edc3f311e0","type":"text","text":"Меняет статус агрессивности в низ","x":-860,"y":-40,"width":250,"height":60,"color":"4"},
 		{"id":"b2b04481109e8c7c","type":"text","text":"[[Показать статус]]","x":-860,"y":300,"width":250,"height":60},
-		{"id":"dfbd336c47aa3fa1","type":"text","text":"Убежать","x":-1360,"y":300,"width":250,"height":60}
+		{"id":"dfbd336c47aa3fa1","type":"text","text":"Убежать","x":-1360,"y":300,"width":250,"height":60,"color":"2"},
+		{"id":"92f4d40593e0dafa","x":-514,"y":9,"width":250,"height":60,"type":"text","text":"Чувствуте"}
 	],
 	"edges":[
 		{"id":"b112551a9053e232","fromNode":"65f74679834e1d95","fromSide":"bottom","toNode":"b99f0aaf4df5e905","toSide":"top"},
@@ -27,6 +28,7 @@
 		{"id":"bd229b44162565a6","fromNode":"13113b47fb75c290","fromSide":"top","toNode":"b2b04481109e8c7c","toSide":"bottom"},
 		{"id":"46401364827e013f","fromNode":"13113b47fb75c290","fromSide":"top","toNode":"dfbd336c47aa3fa1","toSide":"bottom"},
 		{"id":"758e07c25c48381b","fromNode":"e7aee53210271fd0","fromSide":"bottom","toNode":"22ab75edc3f311e0","toSide":"top"},
-		{"id":"6f3bb430a06973f1","fromNode":"b2b04481109e8c7c","fromSide":"top","toNode":"22ab75edc3f311e0","toSide":"bottom"}
+		{"id":"6f3bb430a06973f1","fromNode":"b2b04481109e8c7c","fromSide":"top","toNode":"22ab75edc3f311e0","toSide":"bottom"},
+		{"id":"5a06742dca6dc9c6","fromNode":"c427868a09d6497d","fromSide":"bottom","toNode":"92f4d40593e0dafa","toSide":"top"}
 	]
 }
