@@ -1,7 +1,7 @@
 {
 	"nodes":[
 		{"id":"6a526e2fa1b6121c","type":"group","x":-480,"y":80,"width":3224,"height":1689,"label":"Сценарий миссий"},
-		{"id":"30928abe2b4af39c","x":800,"y":-2480,"width":1555,"height":1155,"type":"group","label":"Точки интерса и их связи"},
+		{"id":"30928abe2b4af39c","x":800,"y":-2360,"width":1555,"height":1035,"type":"group","label":"Точки интерса и их связи"},
 		{"id":"d6a823e552606d11","type":"text","text":"[[Подготовка к экспедиции]]\\высадка","x":-720,"y":-616,"width":250,"height":60},
 		{"id":"aa051ea19eb76e97","type":"text","text":"Изучения мира","x":120,"y":-625,"width":250,"height":69},
 		{"id":"0ab40166fa2f362f","type":"text","text":"Встреча с [[Точка интереса]]\n","x":380,"y":-1940,"width":280,"height":58},
@@ -17,7 +17,8 @@
 		{"id":"04d4a04fdd554da7","x":1880,"y":-1506,"width":250,"height":93,"type":"text","text":"Нарративные находки, для сюжета"},
 		{"id":"12661931a62cb975","type":"text","text":"Охота\\Изучение животных","x":1880,"y":-2260,"width":250,"height":60},
 		{"id":"b27d57b70a645890","type":"text","text":"Путешествия до маркера [[Активности]]","x":120,"y":800,"width":250,"height":60,"color":"3"},
-		{"id":"b63dbc0bb03c2ae3","x":2460,"y":-2260,"width":250,"height":60,"type":"text","text":"Охота"}
+		{"id":"b63dbc0bb03c2ae3","x":2460,"y":-2260,"width":250,"height":60,"type":"text","text":"Охота"},
+		{"id":"6f67bbeee41a1e06","x":940,"y":-2230,"width":250,"height":60,"type":"text","text":"Добыча ресурсов"}
 	],
 	"edges":[
 		{"id":"90651aea7aad171d","fromNode":"b27d57b70a645890","fromSide":"right","toNode":"1cf90184229d2942","toSide":"left"},
@@ -38,6 +39,7 @@
 		{"id":"3e1c7a3330d916d0","fromNode":"937964567666cb78","fromSide":"bottom","toNode":"a690b8bfebee59f1","toSide":"left"},
 		{"id":"5a8168bbecf1cda0","fromNode":"d6a823e552606d11","fromSide":"bottom","toNode":"b27d57b70a645890","toSide":"left"},
 		{"id":"38adfb6fbab074b4","fromNode":"aa051ea19eb76e97","fromSide":"bottom","toNode":"b27d57b70a645890","toSide":"top"},
-		{"id":"d3dc8cf92c4a5967","fromNode":"12661931a62cb975","fromSide":"right","toNode":"b63dbc0bb03c2ae3","toSide":"left"}
+		{"id":"d3dc8cf92c4a5967","fromNode":"12661931a62cb975","fromSide":"right","toNode":"b63dbc0bb03c2ae3","toSide":"left"},
+		{"id":"55ee79616c8298c1","fromNode":"04d4a04fdd554da7","fromSide":"top","toNode":"6f67bbeee41a1e06","toSide":"bottom","label":"Подсказ"}
 	]
 }
