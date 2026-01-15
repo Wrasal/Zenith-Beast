@@ -1,11 +1,7 @@
 {
 	"nodes":[
 		{"id":"6a526e2fa1b6121c","type":"group","x":-480,"y":80,"width":3224,"height":1689,"label":"Сценарий миссий"},
-		{"id":"30928abe2b4af39c","type":"group","x":800,"y":-2360,"width":1640,"height":1035,"label":"Точки интерса и их связи"},
-		{"id":"b63dbc0bb03c2ae3","type":"text","text":"Охота","x":2640,"y":-2505,"width":250,"height":60},
-		{"id":"74519d35eb81af94","type":"text","text":"[[Изучение животного]]","x":2640,"y":-2260,"width":250,"height":60},
-		{"id":"2e82f4d0f91a412a","type":"text","text":"Получение наград (освежевать)","x":2855,"y":-2740,"width":250,"height":89},
-		{"id":"12661931a62cb975","type":"text","text":"Охота\\Изучение животных","x":1880,"y":-2260,"width":250,"height":60},
+		{"id":"30928abe2b4af39c","type":"group","x":800,"y":-2360,"width":2000,"height":1120,"label":"Точки интерса и их связи"},
 		{"id":"937964567666cb78","type":"text","text":"Активность для изменения миссий[[Изменения квестов]] и [[Изменения карты]]","x":870,"y":-1520,"width":340,"height":120},
 		{"id":"aa051ea19eb76e97","type":"text","text":"Изучения мира","x":120,"y":-625,"width":250,"height":69},
 		{"id":"d6a823e552606d11","type":"text","text":"[[Подготовка к экспедиции]]\\высадка","x":-720,"y":-616,"width":250,"height":60},
@@ -21,7 +17,11 @@
 		{"id":"0ab40166fa2f362f","type":"text","text":"Встреча с [[Точка интереса]]\n","x":400,"y":-1880,"width":280,"height":80},
 		{"id":"6f67bbeee41a1e06","type":"text","text":"Место добычи [[Ресурсы]]","x":900,"y":-2320,"width":250,"height":60},
 		{"id":"04d4a04fdd554da7","type":"text","text":"Нарративные находки, для сюжета","x":1560,"y":-1520,"width":250,"height":93},
-		{"id":"ba2fba7fae68741a","x":1960,"y":-1780,"width":400,"height":400,"type":"file","file":"Существо/Признаки присутствия.md"}
+		{"id":"b63dbc0bb03c2ae3","type":"text","text":"Охота","x":2920,"y":-2505,"width":250,"height":60},
+		{"id":"74519d35eb81af94","type":"text","text":"[[Изучение животного]]","x":2920,"y":-2260,"width":250,"height":60},
+		{"id":"2e82f4d0f91a412a","type":"text","text":"Получение наград (освежевать)","x":3135,"y":-2740,"width":250,"height":89},
+		{"id":"12661931a62cb975","type":"text","text":"Охота\\Изучение животных","x":1940,"y":-2260,"width":250,"height":60},
+		{"id":"ba2fba7fae68741a","x":2200,"y":-1720,"width":400,"height":400,"type":"file","file":"Существо/Признаки присутствия.md"}
 	],
 	"edges":[
 		{"id":"90651aea7aad171d","fromNode":"b27d57b70a645890","fromSide":"right","toNode":"1cf90184229d2942","toSide":"left"},
@@ -51,6 +51,6 @@
 		{"id":"a01e384f5624eeb5","fromNode":"b63dbc0bb03c2ae3","fromSide":"bottom","toNode":"74519d35eb81af94","toSide":"top"},
 		{"id":"78bfdb1340d68cea","fromNode":"74519d35eb81af94","fromSide":"left","toNode":"12661931a62cb975","toSide":"right"},
 		{"id":"ac4428dcaf1a6ea9","fromNode":"b63dbc0bb03c2ae3","fromSide":"left","toNode":"12661931a62cb975","toSide":"right"},
-		{"id":"708553802fa7c55c","fromNode":"ba2fba7fae68741a","fromSide":"bottom","toNode":"30928abe2b4af39c","toSide":"right"}
+		{"id":"2b1ca9f96553a856","fromNode":"ba2fba7fae68741a","fromSide":"top","toNode":"12661931a62cb975","toSide":"bottom"}
 	]
 }
