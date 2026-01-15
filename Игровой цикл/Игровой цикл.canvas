@@ -33,7 +33,8 @@
 		{"id":"8328fa43f0330832","type":"text","text":"Конец","x":2280,"y":1140,"width":250,"height":60},
 		{"id":"a690b8bfebee59f1","type":"file","file":"Игровой цикл/Изменения квестов.md","x":-180,"y":1000,"width":400,"height":400},
 		{"id":"2d4ba5a242209996","x":915,"y":-1278,"width":250,"height":60,"type":"text","text":"Изменяет мир"},
-		{"id":"3bf28b21eb9f452d","type":"text","text":"Изменяет мир","x":1379,"y":1620,"width":250,"height":60}
+		{"id":"5bc5b433f4c5f5a4","x":1580,"y":-840,"width":250,"height":60,"type":"text","text":"Изучение активности"},
+		{"id":"4bb3e64447cabc77","x":2068,"y":-843,"width":250,"height":60,"type":"text","text":"Награда... "}
 	],
 	"edges":[
 		{"id":"90651aea7aad171d","fromNode":"b27d57b70a645890","fromSide":"right","toNode":"1cf90184229d2942","toSide":"left"},
@@ -74,6 +75,8 @@
 		{"id":"d59c3b070c89f990","fromNode":"e0da41c1df0a2f10","fromSide":"right","toNode":"8328fa43f0330832","toSide":"left"},
 		{"id":"00db1405a29cea52","fromNode":"a690b8bfebee59f1","fromSide":"right","toNode":"ac1f6282b2b55fe0","toSide":"left"},
 		{"id":"f5cff5b86dd7b7eb","fromNode":"937964567666cb78","fromSide":"bottom","toNode":"2d4ba5a242209996","toSide":"top"},
-		{"id":"0768474161128dc6","fromNode":"ac1f6282b2b55fe0","fromSide":"bottom","toNode":"3bf28b21eb9f452d","toSide":"top"}
+		{"id":"a689e1411aaae1cc","fromNode":"ac1f6282b2b55fe0","fromSide":"bottom","toNode":"2d4ba5a242209996","toSide":"bottom"},
+		{"id":"fae9e3d4d9419f90","fromNode":"937964567666cb78","fromSide":"right","toNode":"5bc5b433f4c5f5a4","toSide":"left"},
+		{"id":"c9aae63bd64ada7c","fromNode":"5bc5b433f4c5f5a4","fromSide":"right","toNode":"4bb3e64447cabc77","toSide":"left"}
 	]
 }
