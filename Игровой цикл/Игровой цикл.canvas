@@ -11,7 +11,8 @@
 		{"id":"8328fa43f0330832","type":"text","text":"Конец","x":2200,"y":250,"width":250,"height":60},
 		{"id":"3aa243b2149083ca","type":"text","text":"Успех","x":1720,"y":250,"width":250,"height":60},
 		{"id":"6c9a1df8ea37948d","x":1280,"y":120,"width":250,"height":60,"type":"text","text":"Обычное прохождение\n"},
-		{"id":"ec1a29b982535990","x":1280,"y":310,"width":250,"height":60,"type":"text","text":"Альт. Путь\n"}
+		{"id":"ec1a29b982535990","x":1280,"y":250,"width":250,"height":60,"type":"text","text":"Альт. Путь\n"},
+		{"id":"24337d9d85454e36","x":1280,"y":310,"width":250,"height":60,"type":"text","text":"Альт. путь ..."}
 	],
 	"edges":[
 		{"id":"94efc0c72e2635f1","fromNode":"d6a823e552606d11","fromSide":"right","toNode":"b27d57b70a645890","toSide":"left"},
