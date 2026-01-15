@@ -32,7 +32,8 @@
 		{"id":"3b24e3f01ccddca6","type":"text","text":"Успех","x":1795,"y":1260,"width":250,"height":60},
 		{"id":"8328fa43f0330832","type":"text","text":"Конец","x":2280,"y":1140,"width":250,"height":60},
 		{"id":"a690b8bfebee59f1","type":"file","file":"Игровой цикл/Изменения квестов.md","x":-180,"y":1000,"width":400,"height":400},
-		{"id":"2d4ba5a242209996","x":926,"y":-1278,"width":250,"height":60,"type":"text","text":"Изменяя"}
+		{"id":"2d4ba5a242209996","x":915,"y":-1278,"width":250,"height":60,"type":"text","text":"Изменяет мир"},
+		{"id":"3bf28b21eb9f452d","type":"text","text":"Изменяет мир","x":1379,"y":1620,"width":250,"height":60}
 	],
 	"edges":[
 		{"id":"90651aea7aad171d","fromNode":"b27d57b70a645890","fromSide":"right","toNode":"1cf90184229d2942","toSide":"left"},
@@ -50,7 +51,6 @@
 		{"id":"09cfc5da388e326f","fromNode":"04d4a04fdd554da7","fromSide":"top","toNode":"937964567666cb78","toSide":"top","label":"Подсказывают эти активности"},
 		{"id":"84b4ac41c9a525e9","fromNode":"04d4a04fdd554da7","fromSide":"top","toNode":"12661931a62cb975","toSide":"bottom","label":"Раскрывают информацию о животных"},
 		{"id":"f81701f4ec8e0915","fromNode":"0ab40166fa2f362f","fromSide":"right","toNode":"30928abe2b4af39c","toSide":"left"},
-		{"id":"3e1c7a3330d916d0","fromNode":"937964567666cb78","fromSide":"bottom","toNode":"a690b8bfebee59f1","toSide":"left"},
 		{"id":"5a8168bbecf1cda0","fromNode":"d6a823e552606d11","fromSide":"bottom","toNode":"b27d57b70a645890","toSide":"left"},
 		{"id":"38adfb6fbab074b4","fromNode":"aa051ea19eb76e97","fromSide":"bottom","toNode":"b27d57b70a645890","toSide":"top"},
 		{"id":"d3dc8cf92c4a5967","fromNode":"12661931a62cb975","fromSide":"right","toNode":"b63dbc0bb03c2ae3","toSide":"left"},
@@ -73,6 +73,7 @@
 		{"id":"0d1bbfada0680c91","fromNode":"3b24e3f01ccddca6","fromSide":"right","toNode":"8328fa43f0330832","toSide":"left"},
 		{"id":"d59c3b070c89f990","fromNode":"e0da41c1df0a2f10","fromSide":"right","toNode":"8328fa43f0330832","toSide":"left"},
 		{"id":"00db1405a29cea52","fromNode":"a690b8bfebee59f1","fromSide":"right","toNode":"ac1f6282b2b55fe0","toSide":"left"},
-		{"id":"f5cff5b86dd7b7eb","fromNode":"937964567666cb78","fromSide":"bottom","toNode":"2d4ba5a242209996","toSide":"top"}
+		{"id":"f5cff5b86dd7b7eb","fromNode":"937964567666cb78","fromSide":"bottom","toNode":"2d4ba5a242209996","toSide":"top"},
+		{"id":"0768474161128dc6","fromNode":"ac1f6282b2b55fe0","fromSide":"bottom","toNode":"3bf28b21eb9f452d","toSide":"top"}
 	]
 }
