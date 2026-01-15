@@ -23,7 +23,8 @@
 		{"id":"0ab40166fa2f362f","type":"text","text":"Встреча с [[Точка интереса]]\n","x":400,"y":-1840,"width":280,"height":80},
 		{"id":"b63dbc0bb03c2ae3","type":"text","text":"Охота","x":3400,"y":-2244,"width":250,"height":60},
 		{"id":"2e82f4d0f91a412a","type":"text","text":"Получение наград (освежевать)","x":3840,"y":-2258,"width":250,"height":89},
-		{"id":"ba2fba7fae68741a","x":2190,"y":-1714,"width":400,"height":287,"type":"file","file":"Существо/Признаки присутствия.md"}
+		{"id":"ba2fba7fae68741a","x":2190,"y":-1714,"width":400,"height":287,"type":"file","file":"Существо/Признаки присутствия.md"},
+		{"id":"3efbc0c22c4c2108","x":636,"y":-645,"width":250,"height":60,"type":"text","text":""}
 	],
 	"edges":[
 		{"id":"90651aea7aad171d","fromNode":"b27d57b70a645890","fromSide":"right","toNode":"1cf90184229d2942","toSide":"left"},
