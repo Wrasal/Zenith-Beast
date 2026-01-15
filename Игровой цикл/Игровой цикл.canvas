@@ -19,8 +19,8 @@
 		{"id":"b27d57b70a645890","type":"text","text":"Путешествия до маркера [[Активности]]","x":120,"y":800,"width":250,"height":60,"color":"3"},
 		{"id":"a690b8bfebee59f1","type":"file","file":"Игровой цикл/Изменения квестов.md","x":810,"y":160,"width":400,"height":400},
 		{"id":"b63dbc0bb03c2ae3","type":"text","text":"Охота","x":2640,"y":-2505,"width":250,"height":60},
-		{"id":"74519d35eb81af94","x":2640,"y":-2260,"width":250,"height":60,"type":"text","text":"Изучение животного"},
-		{"id":"2e82f4d0f91a412a","x":2855,"y":-2711,"width":250,"height":60,"type":"text","text":"Получение наград(освеживать)"}
+		{"id":"74519d35eb81af94","x":2640,"y":-2260,"width":250,"height":60,"type":"text","text":"[[Изучение животного]]"},
+		{"id":"2e82f4d0f91a412a","x":2855,"y":-2740,"width":250,"height":89,"type":"text","text":"Получение наград (освежевать)"}
 	],
 	"edges":[
 		{"id":"90651aea7aad171d","fromNode":"b27d57b70a645890","fromSide":"right","toNode":"1cf90184229d2942","toSide":"left"},
