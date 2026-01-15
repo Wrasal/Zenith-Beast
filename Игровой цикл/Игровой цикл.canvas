@@ -13,10 +13,10 @@
 		{"id":"3aa243b2149083ca","type":"text","text":"Успех","x":1820,"y":545,"width":250,"height":60},
 		{"id":"8328fa43f0330832","type":"text","text":"Конец","x":2300,"y":545,"width":250,"height":60},
 		{"id":"1edbd1b53de2bf5c","type":"text","text":"Выполнение [[Активности]]","x":980,"y":515,"width":250,"height":60},
-		{"id":"a690b8bfebee59f1","type":"file","file":"Игровой цикл/Изменения квестов.md","x":670,"y":955,"width":400,"height":400},
 		{"id":"6c9a1df8ea37948d","x":1380,"y":415,"width":250,"height":60,"type":"text","text":"Обычное прохождение\n"},
 		{"id":"1cf90184229d2942","type":"text","text":"Достижение маркера","x":520,"y":515,"width":250,"height":60},
-		{"id":"b27d57b70a645890","type":"text","text":"Путешествия до маркера [[Активности]]","x":20,"y":515,"width":250,"height":60,"color":"3"}
+		{"id":"b27d57b70a645890","type":"text","text":"Путешествия до маркера [[Активности]]","x":20,"y":515,"width":250,"height":60,"color":"3"},
+		{"id":"a690b8bfebee59f1","type":"file","file":"Игровой цикл/Изменения квестов.md","x":650,"y":955,"width":400,"height":400}
 	],
 	"edges":[
 		{"id":"94efc0c72e2635f1","fromNode":"d6a823e552606d11","fromSide":"right","toNode":"b27d57b70a645890","toSide":"left"},
@@ -34,6 +34,7 @@
 		{"id":"2464b9285be2b028","fromNode":"3aa243b2149083ca","fromSide":"bottom","toNode":"1edbd1b53de2bf5c","toSide":"bottom","label":"При не удаче"},
 		{"id":"09cfc5da388e326f","fromNode":"04d4a04fdd554da7","fromSide":"top","toNode":"937964567666cb78","toSide":"left","label":"Подсказывают эти активности"},
 		{"id":"84b4ac41c9a525e9","fromNode":"04d4a04fdd554da7","fromSide":"top","toNode":"12661931a62cb975","toSide":"bottom","label":"Раскрывают информацию о животных"},
-		{"id":"f81701f4ec8e0915","fromNode":"0ab40166fa2f362f","fromSide":"right","toNode":"30928abe2b4af39c","toSide":"left"}
+		{"id":"f81701f4ec8e0915","fromNode":"0ab40166fa2f362f","fromSide":"right","toNode":"30928abe2b4af39c","toSide":"left"},
+		{"id":"3e1c7a3330d916d0","fromNode":"937964567666cb78","fromSide":"bottom","toNode":"a690b8bfebee59f1","toSide":"left"}
 	]
 }
