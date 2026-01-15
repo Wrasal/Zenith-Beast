@@ -24,7 +24,7 @@
 		{"id":"b63dbc0bb03c2ae3","type":"text","text":"Охота","x":3400,"y":-2244,"width":250,"height":60},
 		{"id":"2e82f4d0f91a412a","type":"text","text":"Получение наград (освежевать)","x":3840,"y":-2258,"width":250,"height":89},
 		{"id":"ba2fba7fae68741a","x":2190,"y":-1714,"width":400,"height":287,"type":"file","file":"Существо/Признаки присутствия.md"},
-		{"id":"3efbc0c22c4c2108","x":636,"y":-645,"width":250,"height":60,"type":"text","text":""}
+		{"id":"3efbc0c22c4c2108","x":960,"y":-625,"width":250,"height":69,"type":"text","text":"Глядение на мир"}
 	],
 	"edges":[
 		{"id":"90651aea7aad171d","fromNode":"b27d57b70a645890","fromSide":"right","toNode":"1cf90184229d2942","toSide":"left"},
@@ -55,6 +55,7 @@
 		{"id":"4cd9e9d00983ae54","fromNode":"b63dbc0bb03c2ae3","fromSide":"right","toNode":"2e82f4d0f91a412a","toSide":"left"},
 		{"id":"30327693189f06ec","fromNode":"74519d35eb81af94","fromSide":"right","toNode":"e43b5f39dbf8fac9","toSide":"left"},
 		{"id":"2bc2b3847d9437af","fromNode":"e43b5f39dbf8fac9","fromSide":"top","toNode":"b63dbc0bb03c2ae3","toSide":"bottom"},
-		{"id":"b312a56fd806360a","fromNode":"b63dbc0bb03c2ae3","fromSide":"bottom","toNode":"e43b5f39dbf8fac9","toSide":"top"}
+		{"id":"b312a56fd806360a","fromNode":"b63dbc0bb03c2ae3","fromSide":"bottom","toNode":"e43b5f39dbf8fac9","toSide":"top"},
+		{"id":"2763f4204dbd4007","fromNode":"aa051ea19eb76e97","fromSide":"right","toNode":"3efbc0c22c4c2108","toSide":"left"}
 	]
 }
