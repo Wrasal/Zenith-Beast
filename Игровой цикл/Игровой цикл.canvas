@@ -1,6 +1,5 @@
 {
 	"nodes":[
-		{"id":"42f978b9362b8bbc","x":1938,"y":-835,"width":250,"height":60,"type":"text","text":""},
 		{"id":"b27d57b70a645890","type":"text","text":"Путешествия до маркера [[Активности]]","x":100,"y":220,"width":250,"height":60,"color":"3"},
 		{"id":"1cf90184229d2942","type":"text","text":"Достижение маркера","x":520,"y":220,"width":250,"height":60},
 		{"id":"1edbd1b53de2bf5c","type":"text","text":"Выполнение [[Активности]]","x":880,"y":220,"width":250,"height":60},
@@ -11,12 +10,13 @@
 		{"id":"8328fa43f0330832","type":"text","text":"Конец","x":1780,"y":120,"width":250,"height":60},
 		{"id":"0ab40166fa2f362f","type":"text","text":"Встреча с [[Точки интереса]]\n","x":540,"y":-1080,"width":280,"height":73},
 		{"id":"f5746fbeb111ede1","type":"text","text":"С испытанием","x":940,"y":-1200,"width":250,"height":60},
-		{"id":"61b3e9bf93b3bcf2","type":"text","text":"Прохождение испытания","x":1285,"y":-1200,"width":250,"height":60},
-		{"id":"ac27883433499157","x":1620,"y":-1200,"width":294,"height":60,"type":"text","text":"Получения вознаграждения"},
 		{"id":"12661931a62cb975","x":540,"y":-620,"width":250,"height":60,"type":"text","text":"Охота\\Изучение животных"},
 		{"id":"615bc2a513a8d8a9","x":1507,"y":-947,"width":250,"height":60,"type":"text","text":"Изучения точки"},
 		{"id":"5b5b285c66d88a54","type":"text","text":"Без испытания","x":1160,"y":-947,"width":250,"height":60},
-		{"id":"7f702ef265257095","x":1980,"y":-1007,"width":250,"height":60,"type":"text","text":"Конец"}
+		{"id":"7f702ef265257095","x":2240,"y":-1007,"width":250,"height":60,"type":"text","text":"Конец"},
+		{"id":"ac27883433499157","x":1946,"y":-1200,"width":294,"height":60,"type":"text","text":"Получения вознаграждения"},
+		{"id":"61b3e9bf93b3bcf2","type":"text","text":"Прохождение испытания","x":1560,"y":-1200,"width":250,"height":60},
+		{"id":"7b70a48bffe7f846","x":1257,"y":-1200,"width":250,"height":60,"type":"text","text":"Оценка возможности прохождения"}
 	],
 	"edges":[
 		{"id":"94efc0c72e2635f1","fromNode":"d6a823e552606d11","fromSide":"right","toNode":"b27d57b70a645890","toSide":"left"},
@@ -32,12 +32,15 @@
 		{"id":"4e1b9db26c9b4939","fromNode":"aa051ea19eb76e97","fromSide":"right","toNode":"0ab40166fa2f362f","toSide":"left"},
 		{"id":"a8e93e5a17d20de1","fromNode":"0ab40166fa2f362f","fromSide":"right","toNode":"5b5b285c66d88a54","toSide":"left"},
 		{"id":"6dfe1022682bbc52","fromNode":"0ab40166fa2f362f","fromSide":"right","toNode":"f5746fbeb111ede1","toSide":"left"},
-		{"id":"bc3a806b628011bc","fromNode":"f5746fbeb111ede1","fromSide":"right","toNode":"61b3e9bf93b3bcf2","toSide":"left"},
 		{"id":"9e8980e39564d8bd","fromNode":"61b3e9bf93b3bcf2","fromSide":"right","toNode":"ac27883433499157","toSide":"left"},
 		{"id":"db3f6c0c22576c23","fromNode":"ac27883433499157","fromSide":"right","toNode":"7f702ef265257095","toSide":"left"},
-		{"id":"721f286c71548111","fromNode":"7f702ef265257095","fromSide":"top","toNode":"aa051ea19eb76e97","toSide":"top"},
+		{"id":"721f286c71548111","fromNode":"7f702ef265257095","fromSide":"bottom","toNode":"aa051ea19eb76e97","toSide":"top"},
 		{"id":"5d971ff245f5a814","fromNode":"aa051ea19eb76e97","fromSide":"right","toNode":"12661931a62cb975","toSide":"left"},
 		{"id":"55999d11d11c460e","fromNode":"5b5b285c66d88a54","fromSide":"right","toNode":"615bc2a513a8d8a9","toSide":"left"},
-		{"id":"397e39baa64acde6","fromNode":"615bc2a513a8d8a9","fromSide":"right","toNode":"7f702ef265257095","toSide":"left"}
+		{"id":"397e39baa64acde6","fromNode":"615bc2a513a8d8a9","fromSide":"right","toNode":"7f702ef265257095","toSide":"left"},
+		{"id":"caf29c83856bb46e","fromNode":"f5746fbeb111ede1","fromSide":"right","toNode":"7b70a48bffe7f846","toSide":"left"},
+		{"id":"79816de0668b1558","fromNode":"7b70a48bffe7f846","fromSide":"right","toNode":"61b3e9bf93b3bcf2","toSide":"left"},
+		{"id":"65b8e130a0a06215","fromNode":"7b70a48bffe7f846","fromSide":"right","toNode":"61b3e9bf93b3bcf2","toSide":"left"},
+		{"id":"16c9f840609f1c09","fromNode":"7b70a48bffe7f846","fromSide":"right","toNode":"61b3e9bf93b3bcf2","toSide":"left"}
 	]
 }
