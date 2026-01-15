@@ -1,12 +1,9 @@
 {
 	"nodes":[
 		{"id":"6a526e2fa1b6121c","type":"group","x":-480,"y":80,"width":3224,"height":1689,"label":"Сценарий миссий"},
-		{"id":"30928abe2b4af39c","x":1040,"y":-2480,"width":1555,"height":1155,"type":"group","label":"Точки интерса и их связи"},
+		{"id":"30928abe2b4af39c","x":800,"y":-2480,"width":1555,"height":1155,"type":"group","label":"Точки интерса и их связи"},
 		{"id":"d6a823e552606d11","type":"text","text":"[[Подготовка к экспедиции]]\\высадка","x":-720,"y":-616,"width":250,"height":60},
 		{"id":"aa051ea19eb76e97","type":"text","text":"Изучения мира","x":120,"y":-625,"width":250,"height":69},
-		{"id":"937964567666cb78","x":2115,"y":-1600,"width":340,"height":100,"type":"text","text":"Активность для изменения миссий[[Изменения квестов]] и [[Изменения карты]]"},
-		{"id":"04d4a04fdd554da7","x":1155,"y":-1442,"width":250,"height":93,"type":"text","text":"Нарративные находки, для сюжета"},
-		{"id":"12661931a62cb975","type":"text","text":"Охота\\Изучение животных","x":1155,"y":-2100,"width":250,"height":60},
 		{"id":"0ab40166fa2f362f","type":"text","text":"Встреча с [[Точка интереса]]\n","x":380,"y":-1940,"width":280,"height":58},
 		{"id":"ec1a29b982535990","x":1355,"y":830,"width":250,"height":60,"type":"text","text":"Альт. Путь\n"},
 		{"id":"24337d9d85454e36","x":1355,"y":890,"width":250,"height":60,"type":"text","text":"Альт. путь ..."},
@@ -16,7 +13,10 @@
 		{"id":"1cf90184229d2942","type":"text","text":"Достижение маркера","x":495,"y":800,"width":250,"height":60},
 		{"id":"b27d57b70a645890","type":"text","text":"Путешествия до маркера [[Активности]]","x":-5,"y":800,"width":250,"height":60,"color":"3"},
 		{"id":"6c9a1df8ea37948d","x":1355,"y":680,"width":250,"height":60,"type":"text","text":"Обычное прохождение\n"},
-		{"id":"a690b8bfebee59f1","type":"file","file":"Игровой цикл/Изменения квестов.md","x":680,"y":160,"width":400,"height":400}
+		{"id":"a690b8bfebee59f1","type":"file","file":"Игровой цикл/Изменения квестов.md","x":680,"y":160,"width":400,"height":400},
+		{"id":"937964567666cb78","x":870,"y":-1520,"width":340,"height":120,"type":"text","text":"Активность для изменения миссий[[Изменения квестов]] и [[Изменения карты]]"},
+		{"id":"04d4a04fdd554da7","x":1880,"y":-1506,"width":250,"height":93,"type":"text","text":"Нарративные находки, для сюжета"},
+		{"id":"12661931a62cb975","type":"text","text":"Охота\\Изучение животных","x":1880,"y":-2260,"width":250,"height":60}
 	],
 	"edges":[
 		{"id":"94efc0c72e2635f1","fromNode":"d6a823e552606d11","fromSide":"right","toNode":"b27d57b70a645890","toSide":"left"},
@@ -32,7 +32,7 @@
 		{"id":"1e37fdcf9c9f3b71","fromNode":"ec1a29b982535990","fromSide":"right","toNode":"3aa243b2149083ca","toSide":"left"},
 		{"id":"c0f9ea2ef5c5aa26","fromNode":"6c9a1df8ea37948d","fromSide":"right","toNode":"3aa243b2149083ca","toSide":"left"},
 		{"id":"2464b9285be2b028","fromNode":"3aa243b2149083ca","fromSide":"bottom","toNode":"1edbd1b53de2bf5c","toSide":"bottom","label":"При не удаче"},
-		{"id":"09cfc5da388e326f","fromNode":"04d4a04fdd554da7","fromSide":"top","toNode":"937964567666cb78","toSide":"left","label":"Подсказывают эти активности"},
+		{"id":"09cfc5da388e326f","fromNode":"04d4a04fdd554da7","fromSide":"top","toNode":"937964567666cb78","toSide":"top","label":"Подсказывают эти активности"},
 		{"id":"84b4ac41c9a525e9","fromNode":"04d4a04fdd554da7","fromSide":"top","toNode":"12661931a62cb975","toSide":"bottom","label":"Раскрывают информацию о животных"},
 		{"id":"f81701f4ec8e0915","fromNode":"0ab40166fa2f362f","fromSide":"right","toNode":"30928abe2b4af39c","toSide":"left"},
 		{"id":"3e1c7a3330d916d0","fromNode":"937964567666cb78","fromSide":"bottom","toNode":"a690b8bfebee59f1","toSide":"left"}
