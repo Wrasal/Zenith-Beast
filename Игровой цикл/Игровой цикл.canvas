@@ -6,13 +6,14 @@
 		{"id":"d6a823e552606d11","type":"text","text":"[[Подготовка к экспедиции]]\\высадка","x":-720,"y":-616,"width":250,"height":60},
 		{"id":"aa051ea19eb76e97","type":"text","text":"Изучения мира","x":120,"y":-625,"width":250,"height":69},
 		{"id":"0ab40166fa2f362f","type":"text","text":"Встреча с [[Точка интереса]]\n","x":490,"y":-629,"width":280,"height":73},
-		{"id":"12661931a62cb975","type":"text","text":"Охота\\Изучение животных","x":520,"y":-1120,"width":250,"height":60},
 		{"id":"a690b8bfebee59f1","type":"file","file":"Игровой цикл/Изменения квестов.md","x":570,"y":660,"width":400,"height":400},
 		{"id":"8328fa43f0330832","type":"text","text":"Конец","x":2200,"y":250,"width":250,"height":60},
 		{"id":"3aa243b2149083ca","type":"text","text":"Успех","x":1720,"y":250,"width":250,"height":60},
 		{"id":"6c9a1df8ea37948d","x":1280,"y":120,"width":250,"height":60,"type":"text","text":"Обычное прохождение\n"},
 		{"id":"ec1a29b982535990","x":1280,"y":250,"width":250,"height":60,"type":"text","text":"Альт. Путь\n"},
-		{"id":"24337d9d85454e36","x":1280,"y":310,"width":250,"height":60,"type":"text","text":"Альт. путь ..."}
+		{"id":"24337d9d85454e36","x":1280,"y":310,"width":250,"height":60,"type":"text","text":"Альт. путь ..."},
+		{"id":"12661931a62cb975","type":"text","text":"Охота\\Изучение животных","x":920,"y":-1120,"width":250,"height":60},
+		{"id":"937964567666cb78","x":940,"y":-625,"width":360,"height":64,"type":"text","text":"Активность для изменения миссий[[Изменения квестов]]"}
 	],
 	"edges":[
 		{"id":"94efc0c72e2635f1","fromNode":"d6a823e552606d11","fromSide":"right","toNode":"b27d57b70a645890","toSide":"left"},
@@ -22,12 +23,13 @@
 		{"id":"94ca7fd0e125f4fe","fromNode":"d6a823e552606d11","fromSide":"right","toNode":"aa051ea19eb76e97","toSide":"left"},
 		{"id":"ad96f34df0f1f6c7","fromNode":"b27d57b70a645890","fromSide":"top","toNode":"aa051ea19eb76e97","toSide":"bottom"},
 		{"id":"4e1b9db26c9b4939","fromNode":"aa051ea19eb76e97","fromSide":"right","toNode":"0ab40166fa2f362f","toSide":"left"},
-		{"id":"5d971ff245f5a814","fromNode":"aa051ea19eb76e97","fromSide":"right","toNode":"12661931a62cb975","toSide":"left"},
 		{"id":"5219e403e7dd1fa8","fromNode":"1edbd1b53de2bf5c","fromSide":"right","toNode":"6c9a1df8ea37948d","toSide":"left"},
 		{"id":"3cdcbba2a02dad40","fromNode":"1edbd1b53de2bf5c","fromSide":"right","toNode":"ec1a29b982535990","toSide":"left"},
 		{"id":"5096e8361ccd0f6c","fromNode":"a690b8bfebee59f1","fromSide":"right","toNode":"ec1a29b982535990","toSide":"left"},
 		{"id":"1e37fdcf9c9f3b71","fromNode":"ec1a29b982535990","fromSide":"right","toNode":"3aa243b2149083ca","toSide":"left"},
 		{"id":"c0f9ea2ef5c5aa26","fromNode":"6c9a1df8ea37948d","fromSide":"right","toNode":"3aa243b2149083ca","toSide":"left"},
-		{"id":"2464b9285be2b028","fromNode":"3aa243b2149083ca","fromSide":"bottom","toNode":"1edbd1b53de2bf5c","toSide":"bottom","label":"При не удаче"}
+		{"id":"2464b9285be2b028","fromNode":"3aa243b2149083ca","fromSide":"bottom","toNode":"1edbd1b53de2bf5c","toSide":"bottom","label":"При не удаче"},
+		{"id":"90182827bdaef612","fromNode":"0ab40166fa2f362f","fromSide":"right","toNode":"12661931a62cb975","toSide":"left"},
+		{"id":"0c04363cf74e3bcf","fromNode":"0ab40166fa2f362f","fromSide":"right","toNode":"937964567666cb78","toSide":"left"}
 	]
 }
