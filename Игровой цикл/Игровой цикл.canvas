@@ -7,8 +7,8 @@
 		{"id":"3aa243b2149083ca","x":1240,"y":120,"width":250,"height":60,"type":"text","text":"Успех"},
 		{"id":"5da915c925b97009","x":1240,"y":300,"width":250,"height":60,"type":"text","text":"Неудачно"},
 		{"id":"8328fa43f0330832","x":1740,"y":-120,"width":250,"height":60,"type":"text","text":"Конец"},
-		{"id":"aa051ea19eb76e97","x":100,"y":-180,"width":250,"height":69,"type":"text","text":"Изучения мира"},
-		{"id":"0ab40166fa2f362f","type":"text","text":"Встреча с точками интереса\n","x":520,"y":-170,"width":250,"height":50}
+		{"id":"aa051ea19eb76e97","x":100,"y":-184,"width":250,"height":69,"type":"text","text":"Изучения мира"},
+		{"id":"0ab40166fa2f362f","type":"text","text":"Встреча с точками интереса\n","x":520,"y":-190,"width":280,"height":70}
 	],
 	"edges":[
 		{"id":"94efc0c72e2635f1","fromNode":"d6a823e552606d11","fromSide":"right","toNode":"b27d57b70a645890","toSide":"left"},
