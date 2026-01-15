@@ -1,6 +1,9 @@
 {
 	"nodes":[
-		{"id":"1a37310531a06b62","x":-1044,"y":-711,"width":250,"height":60,"type":"text","text":"Животное"}
+		{"id":"1a37310531a06b62","x":-1044,"y":-711,"width":250,"height":60,"type":"text","text":"Животное"},
+		{"id":"4a2753f612836f51","x":-1640,"y":-520,"width":250,"height":60,"type":"text","text":"Поиск пищи"}
 	],
-	"edges":[]
+	"edges":[
+		{"id":"e10956350652695a","fromNode":"1a37310531a06b62","fromSide":"bottom","toNode":"4a2753f612836f51","toSide":"top"}
+	]
 }
