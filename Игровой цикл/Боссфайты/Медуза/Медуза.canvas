@@ -5,12 +5,14 @@
 		{"id":"9397ed03fd7ed02c","type":"text","text":"Конец","x":980,"y":-80,"width":250,"height":60},
 		{"id":"4156a1565accebb2","type":"text","text":"[[Фаза 3]] погоня отстреливание головы","x":540,"y":-135,"width":320,"height":170},
 		{"id":"358c9223cff56701","type":"text","text":"[[Фаза 2]] - отстреливание Ротовых полостей","x":140,"y":-120,"width":317,"height":140},
-		{"id":"b92ed6800d12db07","x":-274,"y":-80,"width":250,"height":60,"type":"text","text":"Фаза 1 - Пробитие щита"}
+		{"id":"b92ed6800d12db07","x":-274,"y":-80,"width":250,"height":60,"type":"text","text":"[[Фаза 1]] - Пробитие щита"}
 	],
 	"edges":[
 		{"id":"40027c516c7cd007","fromNode":"dbb805436a985d78","fromSide":"right","toNode":"358c9223cff56701","toSide":"left"},
 		{"id":"e44b5a69839ddf34","fromNode":"358c9223cff56701","fromSide":"right","toNode":"4156a1565accebb2","toSide":"left"},
 		{"id":"7f024035cf49758b","fromNode":"4156a1565accebb2","fromSide":"right","toNode":"9397ed03fd7ed02c","toSide":"left"},
-		{"id":"2c0646d6bba77652","fromNode":"dbb805436a985d78","fromSide":"right","toNode":"b92ed6800d12db07","toSide":"left"}
+		{"id":"2c0646d6bba77652","fromNode":"dbb805436a985d78","fromSide":"right","toNode":"b92ed6800d12db07","toSide":"left"},
+		{"id":"376daf806286367d","fromNode":"b92ed6800d12db07","fromSide":"right","toNode":"358c9223cff56701","toSide":"left"},
+		{"id":"15d662138f6cbad4","fromNode":"b92ed6800d12db07","fromSide":"right","toNode":"358c9223cff56701","toSide":"left"}
 	]
 }
