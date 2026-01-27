@@ -6,6 +6,7 @@
 		{"id":"606ac43ae2796396","type":"group","x":4880,"y":-2260,"width":1240,"height":500,"label":"Сценарий охоты"},
 		{"id":"2f3efee8f8d7d6e8","type":"group","x":-1160,"y":1360,"width":1060,"height":420,"label":"Выполнени контаркта"},
 		{"id":"250b66c414e5e237","type":"group","x":2098,"y":660,"width":1445,"height":300,"label":"Боссфайты"},
+		{"id":"b066a4b8087df7d9","type":"group","x":1120,"y":1840,"width":1445,"height":300,"label":"Боссфайты"},
 		{"id":"80f5bb3ff96efec4","type":"group","x":2098,"y":80,"width":860,"height":420,"label":"Контракт"},
 		{"id":"0f8975d17961bdf2","type":"group","x":-1160,"y":2060,"width":1060,"height":340,"color":"6","label":"Свободное пространство"},
 		{"id":"fe76ee3bf9e63327","type":"group","x":-1840,"y":1360,"width":460,"height":420,"label":"Сидим в хабе"},
@@ -18,7 +19,6 @@
 		{"id":"3aa243b2149083ca","type":"text","text":"Успех","x":2780,"y":240,"width":100,"height":60},
 		{"id":"87dd795e461def41","type":"text","text":"Сценарий прохождения ...","x":2458,"y":300,"width":250,"height":60},
 		{"id":"8328fa43f0330832","type":"text","text":"Конец","x":3920,"y":580,"width":250,"height":60},
-		{"id":"a690b8bfebee59f1","type":"file","file":"Игровой цикл/Изменения квестов.md","x":1480,"y":420,"width":400,"height":400},
 		{"id":"6b347fd8fe639bf8","type":"text","text":"Доп задания...","x":2458,"y":100,"width":250,"height":60},
 		{"id":"6c9a1df8ea37948d","type":"text","text":"Сценарий прохождения 1","x":2458,"y":180,"width":250,"height":60},
 		{"id":"ec1a29b982535990","type":"text","text":"Сценарий прохождения 2","x":2458,"y":240,"width":250,"height":60},
@@ -49,7 +49,6 @@
 		{"id":"449e0ef3f05865fd","type":"text","text":"Влияют на дальнейшее прохождение","x":-465,"y":1540,"width":350,"height":60},
 		{"id":"9eb6dbe29f3325e9","type":"text","text":"Выполняем просьбы","x":-1140,"y":1460,"width":220,"height":60},
 		{"id":"a34ee07e60cac280","type":"text","text":"Изучения мира","x":-1140,"y":1540,"width":180,"height":60},
-		{"id":"150db7f5ce8b0828","type":"text","text":"Глядение на мир","x":-800,"y":1620,"width":220,"height":60},
 		{"id":"a118e22b2d4e7f2b","type":"text","text":"Изучать кодекс","x":-1140,"y":1700,"width":180,"height":60},
 		{"id":"5bc5b433f4c5f5a4","type":"text","text":"Изучение активности","x":3500,"y":-760,"width":250,"height":60},
 		{"id":"4bb3e64447cabc77","type":"text","text":"Награда... ","x":3988,"y":-763,"width":250,"height":60},
@@ -58,7 +57,13 @@
 		{"id":"add5c0ad42c8f168","type":"text","text":"Болтаем с НПС","x":-1820,"y":1460,"width":180,"height":60},
 		{"id":"f0386e01c8990a85","type":"text","text":"Билдимся","x":-1820,"y":1540,"width":180,"height":60},
 		{"id":"97218b6e3c06ab0e","type":"text","text":"Изучать кодекс","x":-1820,"y":1620,"width":180,"height":60},
-		{"id":"326848fed1860252","type":"text","text":"Пойти погулять","x":-1820,"y":1700,"width":180,"height":60,"color":"6"}
+		{"id":"326848fed1860252","type":"text","text":"Пойти погулять","x":-1820,"y":1700,"width":180,"height":60,"color":"6"},
+		{"id":"150db7f5ce8b0828","type":"text","text":"Глядение на мир","x":-800,"y":1700,"width":220,"height":60},
+		{"id":"17f5d988808dba82","type":"text","text":"Убийственный способ","x":1605,"y":1860,"width":250,"height":60},
+		{"id":"6501cce067fbf9ad","type":"text","text":"Альт. способ","x":1605,"y":2000,"width":250,"height":60},
+		{"id":"f9d7a1af2197fe87","type":"text","text":"Успех","x":1980,"y":1860,"width":250,"height":60},
+		{"id":"91038b6e4ac7a692","type":"text","text":"Успех с последующем изменением мира","x":1980,"y":2000,"width":250,"height":60},
+		{"id":"ff855e527b1e78c5","type":"text","text":"Боссфайты","x":1165,"y":1920,"width":250,"height":60}
 	],
 	"edges":[
 		{"id":"cdf0cdb1b879db79","fromNode":"b27d57b70a645890","fromSide":"right","toNode":"1edbd1b53de2bf5c","toSide":"left"},
@@ -91,7 +96,6 @@
 		{"id":"2f71ea66169a0516","fromNode":"ac1f6282b2b55fe0","fromSide":"right","toNode":"e0da41c1df0a2f10","toSide":"left"},
 		{"id":"0d1bbfada0680c91","fromNode":"3b24e3f01ccddca6","fromSide":"right","toNode":"8328fa43f0330832","toSide":"left"},
 		{"id":"d59c3b070c89f990","fromNode":"e0da41c1df0a2f10","fromSide":"right","toNode":"8328fa43f0330832","toSide":"left"},
-		{"id":"00db1405a29cea52","fromNode":"a690b8bfebee59f1","fromSide":"right","toNode":"ac1f6282b2b55fe0","toSide":"left"},
 		{"id":"f5cff5b86dd7b7eb","fromNode":"937964567666cb78","fromSide":"bottom","toNode":"2d4ba5a242209996","toSide":"top"},
 		{"id":"fae9e3d4d9419f90","fromNode":"937964567666cb78","fromSide":"right","toNode":"5bc5b433f4c5f5a4","toSide":"left"},
 		{"id":"c9aae63bd64ada7c","fromNode":"5bc5b433f4c5f5a4","fromSide":"right","toNode":"4bb3e64447cabc77","toSide":"left"},
@@ -112,6 +116,10 @@
 		{"id":"d2ca4d8dac5f2423","fromNode":"add5c0ad42c8f168","fromSide":"right","toNode":"9eb6dbe29f3325e9","toSide":"left"},
 		{"id":"4c0b26be5102587f","fromNode":"6d3765177167f54d","fromSide":"right","toNode":"46779c4141e20356","toSide":"left"},
 		{"id":"69a11f7a0983d43c","fromNode":"a34ee07e60cac280","fromSide":"right","toNode":"150db7f5ce8b0828","toSide":"left"},
-		{"id":"9ac875c241197c07","fromNode":"326848fed1860252","fromSide":"right","toNode":"0f8975d17961bdf2","toSide":"left"}
+		{"id":"9ac875c241197c07","fromNode":"326848fed1860252","fromSide":"right","toNode":"0f8975d17961bdf2","toSide":"left"},
+		{"id":"25f2ba565a28ea60","fromNode":"17f5d988808dba82","fromSide":"right","toNode":"f9d7a1af2197fe87","toSide":"left"},
+		{"id":"493a94aa5f68dd56","fromNode":"ff855e527b1e78c5","fromSide":"right","toNode":"17f5d988808dba82","toSide":"left"},
+		{"id":"76ad8db09f4bd9a0","fromNode":"6501cce067fbf9ad","fromSide":"right","toNode":"91038b6e4ac7a692","toSide":"left"},
+		{"id":"19f68e59c17a6713","fromNode":"ff855e527b1e78c5","fromSide":"right","toNode":"6501cce067fbf9ad","toSide":"left"}
 	]
 }
