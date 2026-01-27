@@ -1,7 +1,6 @@
 {
 	"nodes":[
 		{"id":"3a1c714ee2fb8a7d","type":"group","x":2320,"y":-2400,"width":3880,"height":1840,"color":"1","label":"Группа без названия"},
-		{"id":"30928abe2b4af39c","type":"group","x":2720,"y":-2280,"width":2000,"height":1280,"label":"Точки интерса и их связи"},
 		{"id":"606ac43ae2796396","type":"group","x":4880,"y":-2260,"width":1240,"height":500,"label":"Сценарий охоты"},
 		{"id":"0f8975d17961bdf2","type":"group","x":-1220,"y":1400,"width":1040,"height":420,"label":"Свободное пространство"},
 		{"id":"19a4699f5621cdd9","x":-1560,"y":1100,"width":1280,"height":220,"type":"group","label":"Главный цикл"},
@@ -12,13 +11,11 @@
 		{"id":"2e82f4d0f91a412a","type":"text","text":"Получение наград (освежевать)","x":5760,"y":-2178,"width":250,"height":89},
 		{"id":"b63dbc0bb03c2ae3","type":"text","text":"Охота","x":5320,"y":-2164,"width":250,"height":60},
 		{"id":"ba2fba7fae68741a","type":"file","file":"Существо/Признаки присутствия.md","x":4110,"y":-1634,"width":400,"height":287},
-		{"id":"12661931a62cb975","type":"text","text":"Охота\\Изучение животных","x":3860,"y":-2180,"width":250,"height":60},
 		{"id":"04d4a04fdd554da7","type":"text","text":"Начало","x":3500,"y":-1473,"width":250,"height":93},
 		{"id":"5bc5b433f4c5f5a4","type":"text","text":"Изучение активности","x":3500,"y":-760,"width":250,"height":60},
 		{"id":"4bb3e64447cabc77","type":"text","text":"Награда... ","x":3988,"y":-763,"width":250,"height":60},
 		{"id":"2d4ba5a242209996","type":"text","text":"Изменяет мир","x":2835,"y":-1198,"width":250,"height":60},
 		{"id":"937964567666cb78","type":"text","text":"Активность для изменения миссий[[Изменения квестов]] и [[Изменения карты]]","x":2790,"y":-1440,"width":340,"height":120},
-		{"id":"6f67bbeee41a1e06","type":"text","text":"Место добычи [[Ресурсы]]","x":2820,"y":-2240,"width":250,"height":60},
 		{"id":"0ab40166fa2f362f","type":"text","text":"Встреча с [[Точка интереса]]\n","x":2380,"y":-1680,"width":280,"height":80},
 		{"id":"609963b0034cabb6","type":"file","file":"Игровой цикл/Контракты/Медуза/Медуза.canvas","x":-785,"y":2060,"width":400,"height":400},
 		{"id":"055944be4ddb6db5","type":"text","text":"Начало игры","x":-1540,"y":1120,"width":250,"height":60},
@@ -44,13 +41,15 @@
 		{"id":"a118e22b2d4e7f2b","type":"text","text":"Изучать кодекс - всегда","x":-1540,"y":1720,"width":250,"height":60},
 		{"id":"449e0ef3f05865fd","type":"text","text":"Влияют на дальнейшее прохождение","x":-540,"y":1500,"width":350,"height":60},
 		{"id":"3da4067edd019775","x":-140,"y":1720,"width":161,"height":60,"type":"text","text":"Покинуть акт"},
-		{"id":"37fc59ab56e72e24","x":3560,"y":-1258,"width":250,"height":60,"type":"text","text":"Нарративные находки для сюжета"}
+		{"id":"37fc59ab56e72e24","x":3560,"y":-1258,"width":250,"height":60,"type":"text","text":"Нарративные находки для сюжета"},
+		{"id":"6f67bbeee41a1e06","type":"text","text":"Место добычи [[Ресурсы]]","x":2960,"y":-2100,"width":250,"height":60},
+		{"id":"12661931a62cb975","type":"text","text":"Охота\\Изучение животных","x":3810,"y":-1820,"width":250,"height":60}
 	],
 	"edges":[
 		{"id":"09cfc5da388e326f","fromNode":"0ab40166fa2f362f","fromSide":"right","toNode":"937964567666cb78","toSide":"top","label":"Подсказывают эти активности"},
-		{"id":"84b4ac41c9a525e9","fromNode":"04d4a04fdd554da7","fromSide":"top","toNode":"12661931a62cb975","toSide":"bottom","label":"Раскрывают информацию о животных"},
+		{"id":"84b4ac41c9a525e9","fromNode":"0ab40166fa2f362f","fromSide":"right","toNode":"12661931a62cb975","toSide":"left","label":"Раскрывают информацию о животных"},
 		{"id":"d3dc8cf92c4a5967","fromNode":"12661931a62cb975","fromSide":"right","toNode":"b63dbc0bb03c2ae3","toSide":"left"},
-		{"id":"55ee79616c8298c1","fromNode":"04d4a04fdd554da7","fromSide":"top","toNode":"6f67bbeee41a1e06","toSide":"bottom","label":"Подсказывают где находятся"},
+		{"id":"55ee79616c8298c1","fromNode":"0ab40166fa2f362f","fromSide":"right","toNode":"6f67bbeee41a1e06","toSide":"left","label":"Подсказывают где находятся"},
 		{"id":"8666651fc45bd872","fromNode":"12661931a62cb975","fromSide":"right","toNode":"74519d35eb81af94","toSide":"left"},
 		{"id":"118b825b9a8d9813","fromNode":"74519d35eb81af94","fromSide":"right","toNode":"b63dbc0bb03c2ae3","toSide":"left"},
 		{"id":"78bfdb1340d68cea","fromNode":"74519d35eb81af94","fromSide":"left","toNode":"12661931a62cb975","toSide":"right"},
