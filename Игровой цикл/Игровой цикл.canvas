@@ -10,9 +10,6 @@
 		{"id":"12661931a62cb975","type":"text","text":"Охота\\Изучение животных","x":1940,"y":-2260,"width":250,"height":60},
 		{"id":"6f67bbeee41a1e06","type":"text","text":"Место добычи [[Ресурсы]]","x":900,"y":-2320,"width":250,"height":60},
 		{"id":"04d4a04fdd554da7","type":"text","text":"Нарративные находки для сюжета","x":1580,"y":-1553,"width":250,"height":93},
-		{"id":"aa051ea19eb76e97","type":"text","text":"Изучения мира","x":120,"y":-625,"width":250,"height":69},
-		{"id":"3efbc0c22c4c2108","type":"text","text":"Глядение на мир","x":960,"y":-625,"width":250,"height":69},
-		{"id":"d6a823e552606d11","type":"text","text":"[[Подготовка к экспедиции]]\\высадка","x":-720,"y":-616,"width":250,"height":76},
 		{"id":"937964567666cb78","type":"text","text":"Активность для изменения миссий[[Изменения квестов]] и [[Изменения карты]]","x":870,"y":-1520,"width":340,"height":120},
 		{"id":"ec1a29b982535990","type":"text","text":"Альт. Путь\n","x":1355,"y":830,"width":250,"height":60},
 		{"id":"b27d57b70a645890","type":"text","text":"Путешествия до маркера [[Активности]]","x":120,"y":800,"width":250,"height":60,"color":"3"},
@@ -34,13 +31,16 @@
 		{"id":"3b24e3f01ccddca6","type":"text","text":"Успех","x":1795,"y":1260,"width":250,"height":60},
 		{"id":"ac1f6282b2b55fe0","type":"text","text":"Альт. способ","x":1420,"y":1400,"width":250,"height":60},
 		{"id":"e0be7a93acfb3de4","type":"text","text":"Убийственный способ","x":1420,"y":1260,"width":250,"height":60},
-		{"id":"8979105cbac77923","type":"text","text":"Боссфайты","x":980,"y":1320,"width":250,"height":60}
+		{"id":"8979105cbac77923","type":"text","text":"Боссфайты","x":980,"y":1320,"width":250,"height":60},
+		{"id":"aa051ea19eb76e97","type":"text","text":"Изучения мира","x":120,"y":-625,"width":250,"height":69},
+		{"id":"d6a823e552606d11","type":"text","text":"[[Подготовка к экспедиции]]\\высадка","x":-720,"y":-616,"width":250,"height":76},
+		{"id":"3efbc0c22c4c2108","type":"text","text":"Глядение на мир","x":960,"y":-625,"width":250,"height":69}
 	],
 	"edges":[
 		{"id":"90651aea7aad171d","fromNode":"b27d57b70a645890","fromSide":"right","toNode":"1cf90184229d2942","toSide":"left"},
 		{"id":"cdf0cdb1b879db79","fromNode":"1cf90184229d2942","fromSide":"right","toNode":"1edbd1b53de2bf5c","toSide":"left"},
 		{"id":"8ca72c7f79fd5524","fromNode":"3aa243b2149083ca","fromSide":"right","toNode":"8328fa43f0330832","toSide":"left"},
-		{"id":"94ca7fd0e125f4fe","fromNode":"d6a823e552606d11","fromSide":"right","toNode":"aa051ea19eb76e97","toSide":"left"},
+		{"id":"94ca7fd0e125f4fe","fromNode":"d6a823e552606d11","fromSide":"right","toNode":"aa051ea19eb76e97","toSide":"left","color":"1"},
 		{"id":"ad96f34df0f1f6c7","fromNode":"b27d57b70a645890","fromSide":"top","toNode":"aa051ea19eb76e97","toSide":"bottom"},
 		{"id":"4e1b9db26c9b4939","fromNode":"aa051ea19eb76e97","fromSide":"right","toNode":"0ab40166fa2f362f","toSide":"left"},
 		{"id":"5219e403e7dd1fa8","fromNode":"1edbd1b53de2bf5c","fromSide":"right","toNode":"6c9a1df8ea37948d","toSide":"left"},
