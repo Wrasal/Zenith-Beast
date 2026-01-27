@@ -35,11 +35,14 @@
 		{"id":"a118e22b2d4e7f2b","type":"text","text":"Изучать кодекс - всегда","x":-1765,"y":2000,"width":250,"height":60},
 		{"id":"055944be4ddb6db5","x":-2070,"y":920,"width":250,"height":60,"type":"text","text":"Начало игры"},
 		{"id":"50968ff55221e8d3","type":"text","text":"1 акт","x":-1730,"y":920,"width":250,"height":60},
-		{"id":"c9b427a35557f3ea","type":"text","text":"n контракт","x":-1400,"y":920,"width":250,"height":60},
-		{"id":"d4507c60fe14566d","type":"text","text":"Последний контракт","x":-1080,"y":920,"width":250,"height":60},
+		{"id":"c9b427a35557f3ea","type":"text","text":"n акт","x":-1400,"y":920,"width":250,"height":60},
+		{"id":"d4507c60fe14566d","type":"text","text":"Последний акт","x":-1080,"y":920,"width":250,"height":60},
 		{"id":"2b8fd800d135fb7a","type":"text","text":"Свободное пространство","x":-1730,"y":980,"width":250,"height":60},
 		{"id":"924efabfc8550d49","type":"text","text":"Свободное пространство","x":-1400,"y":980,"width":250,"height":60},
-		{"id":"87d149f484238025","type":"text","text":"Свободное пространство","x":-1080,"y":980,"width":250,"height":60}
+		{"id":"87d149f484238025","type":"text","text":"Свободное пространство","x":-1080,"y":980,"width":250,"height":60},
+		{"id":"8f2184eae2ade67e","type":"text","text":"Сюжетные контракты","x":-1730,"y":1040,"width":250,"height":60},
+		{"id":"969dc5144002f49d","type":"text","text":"Сюжетные контракты","x":-1400,"y":1040,"width":250,"height":60},
+		{"id":"7efe1786f07219e4","type":"text","text":"Сюжетные контракты","x":-1080,"y":1040,"width":250,"height":60}
 	],
 	"edges":[
 		{"id":"09cfc5da388e326f","fromNode":"04d4a04fdd554da7","fromSide":"top","toNode":"937964567666cb78","toSide":"top","label":"Подсказывают эти активности"},
