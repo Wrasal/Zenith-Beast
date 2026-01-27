@@ -33,7 +33,13 @@
 		{"id":"f0386e01c8990a85","type":"text","text":"Билдимся","x":-1820,"y":1540,"width":180,"height":60},
 		{"id":"e85280517ee49c4a","type":"text","text":"Поти погулять","x":-1820,"y":1620,"width":180,"height":60},
 		{"id":"a118e22b2d4e7f2b","type":"text","text":"Изучать кодекс - всегда","x":-1765,"y":2000,"width":250,"height":60},
-		{"id":"055944be4ddb6db5","x":-1427,"y":1182,"width":250,"height":60,"type":"text","text":"Начало игры"}
+		{"id":"055944be4ddb6db5","x":-2070,"y":920,"width":250,"height":60,"type":"text","text":"Начало игры"},
+		{"id":"50968ff55221e8d3","type":"text","text":"1 контракт","x":-1730,"y":920,"width":250,"height":60},
+		{"id":"c9b427a35557f3ea","type":"text","text":"n контракт","x":-1400,"y":920,"width":250,"height":60},
+		{"id":"d4507c60fe14566d","type":"text","text":"Последний контракт","x":-1080,"y":920,"width":250,"height":60},
+		{"id":"2b8fd800d135fb7a","type":"text","text":"Свободное пространство","x":-1730,"y":980,"width":250,"height":60},
+		{"id":"924efabfc8550d49","type":"text","text":"Свободное пространство","x":-1400,"y":980,"width":250,"height":60},
+		{"id":"87d149f484238025","type":"text","text":"Свободное пространство","x":-1080,"y":980,"width":250,"height":60}
 	],
 	"edges":[
 		{"id":"09cfc5da388e326f","fromNode":"04d4a04fdd554da7","fromSide":"top","toNode":"937964567666cb78","toSide":"top","label":"Подсказывают эти активности"},
@@ -61,6 +67,9 @@
 		{"id":"4c0b26be5102587f","fromNode":"6d3765177167f54d","fromSide":"right","toNode":"46779c4141e20356","toSide":"left"},
 		{"id":"69a11f7a0983d43c","fromNode":"a34ee07e60cac280","fromSide":"right","toNode":"150db7f5ce8b0828","toSide":"left"},
 		{"id":"e84a294cb3608408","fromNode":"2f3efee8f8d7d6e8","fromSide":"bottom","toNode":"609963b0034cabb6","toSide":"left"},
-		{"id":"4d059bc5785439fb","fromNode":"e85280517ee49c4a","fromSide":"right","toNode":"0f8975d17961bdf2","toSide":"left"}
+		{"id":"4d059bc5785439fb","fromNode":"e85280517ee49c4a","fromSide":"right","toNode":"0f8975d17961bdf2","toSide":"left"},
+		{"id":"8a3a85e8293c9fb6","fromNode":"055944be4ddb6db5","fromSide":"right","toNode":"50968ff55221e8d3","toSide":"left"},
+		{"id":"394a8418f81ab273","fromNode":"50968ff55221e8d3","fromSide":"right","toNode":"c9b427a35557f3ea","toSide":"left"},
+		{"id":"9746540995c33a32","fromNode":"c9b427a35557f3ea","fromSide":"right","toNode":"d4507c60fe14566d","toSide":"left"}
 	]
 }
