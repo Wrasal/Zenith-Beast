@@ -5,8 +5,7 @@
 		{"id":"9397ed03fd7ed02c","type":"text","text":"Конец","x":980,"y":-80,"width":250,"height":60},
 		{"id":"4156a1565accebb2","type":"text","text":"[[Фаза 3]] погоня добивание","x":540,"y":-135,"width":320,"height":170},
 		{"id":"358c9223cff56701","type":"text","text":"[[Фаза 2]] - отстреливание Ротовых полостей","x":140,"y":-120,"width":317,"height":140},
-		{"id":"b92ed6800d12db07","type":"text","text":"[[Фаза 1]] - Пробитие щита","x":-274,"y":-80,"width":250,"height":60},
-		{"id":"6714fca945351b4a","type":"text","text":"Пассивное состояние","x":-660,"y":-1040,"width":240,"height":60}
+		{"id":"b92ed6800d12db07","type":"text","text":"[[Фаза 1]] - Пробитие щита","x":-274,"y":-80,"width":250,"height":60}
 	],
 	"edges":[
 		{"id":"e44b5a69839ddf34","fromNode":"358c9223cff56701","fromSide":"right","toNode":"4156a1565accebb2","toSide":"left"},
