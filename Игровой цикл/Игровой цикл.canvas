@@ -5,6 +5,7 @@
 		{"id":"606ac43ae2796396","type":"group","x":2960,"y":-2340,"width":1240,"height":500,"label":"Сценарий охоты"},
 		{"id":"250b66c414e5e237","type":"group","x":458,"y":1220,"width":1445,"height":300,"label":"Боссфайты"},
 		{"id":"80f5bb3ff96efec4","type":"group","x":458,"y":640,"width":860,"height":420,"label":"Контракт"},
+		{"id":"e1099306586b0bbb","x":815,"y":504,"width":250,"height":60,"type":"text","text":""},
 		{"id":"8328fa43f0330832","type":"text","text":"Конец","x":2280,"y":1140,"width":250,"height":60},
 		{"id":"5bc5b433f4c5f5a4","type":"text","text":"Изучение активности","x":1580,"y":-840,"width":250,"height":60},
 		{"id":"4bb3e64447cabc77","type":"text","text":"Награда... ","x":2068,"y":-843,"width":250,"height":60},
