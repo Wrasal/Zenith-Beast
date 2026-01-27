@@ -4,9 +4,9 @@
 		{"id":"6a526e2fa1b6121c","type":"group","x":1440,"y":-400,"width":2944,"height":1609,"label":"Сценарий активности"},
 		{"id":"30928abe2b4af39c","type":"group","x":2720,"y":-2280,"width":2000,"height":1280,"label":"Точки интерса и их связи"},
 		{"id":"606ac43ae2796396","type":"group","x":4880,"y":-2260,"width":1240,"height":500,"label":"Сценарий охоты"},
+		{"id":"e287ede17f8f7879","x":685,"y":2026,"width":1555,"height":374,"type":"group","label":"Контракт - Добыть жидкость с самки мидузы"},
 		{"id":"2f3efee8f8d7d6e8","type":"group","x":-1160,"y":1360,"width":1060,"height":420,"label":"Выполнени контаркта"},
 		{"id":"250b66c414e5e237","type":"group","x":2098,"y":660,"width":1445,"height":300,"label":"Боссфайты"},
-		{"id":"b066a4b8087df7d9","type":"group","x":1120,"y":1840,"width":1445,"height":300,"label":"Боссфайты"},
 		{"id":"80f5bb3ff96efec4","type":"group","x":2098,"y":80,"width":860,"height":420,"label":"Контракт"},
 		{"id":"0f8975d17961bdf2","type":"group","x":-1160,"y":2060,"width":1060,"height":340,"color":"6","label":"Свободное пространство"},
 		{"id":"fe76ee3bf9e63327","type":"group","x":-1840,"y":1360,"width":460,"height":420,"label":"Сидим в хабе"},
@@ -58,12 +58,7 @@
 		{"id":"f0386e01c8990a85","type":"text","text":"Билдимся","x":-1820,"y":1540,"width":180,"height":60},
 		{"id":"97218b6e3c06ab0e","type":"text","text":"Изучать кодекс","x":-1820,"y":1620,"width":180,"height":60},
 		{"id":"326848fed1860252","type":"text","text":"Пойти погулять","x":-1820,"y":1700,"width":180,"height":60,"color":"6"},
-		{"id":"150db7f5ce8b0828","type":"text","text":"Глядение на мир","x":-800,"y":1700,"width":220,"height":60},
-		{"id":"17f5d988808dba82","type":"text","text":"Убийственный способ","x":1605,"y":1860,"width":250,"height":60},
-		{"id":"6501cce067fbf9ad","type":"text","text":"Альт. способ","x":1605,"y":2000,"width":250,"height":60},
-		{"id":"f9d7a1af2197fe87","type":"text","text":"Успех","x":1980,"y":1860,"width":250,"height":60},
-		{"id":"91038b6e4ac7a692","type":"text","text":"Успех с последующем изменением мира","x":1980,"y":2000,"width":250,"height":60},
-		{"id":"ff855e527b1e78c5","type":"text","text":"Боссфайты","x":1165,"y":1920,"width":250,"height":60}
+		{"id":"150db7f5ce8b0828","type":"text","text":"Глядение на мир","x":-800,"y":1700,"width":220,"height":60}
 	],
 	"edges":[
 		{"id":"cdf0cdb1b879db79","fromNode":"b27d57b70a645890","fromSide":"right","toNode":"1edbd1b53de2bf5c","toSide":"left"},
@@ -116,10 +111,6 @@
 		{"id":"d2ca4d8dac5f2423","fromNode":"add5c0ad42c8f168","fromSide":"right","toNode":"9eb6dbe29f3325e9","toSide":"left"},
 		{"id":"4c0b26be5102587f","fromNode":"6d3765177167f54d","fromSide":"right","toNode":"46779c4141e20356","toSide":"left"},
 		{"id":"69a11f7a0983d43c","fromNode":"a34ee07e60cac280","fromSide":"right","toNode":"150db7f5ce8b0828","toSide":"left"},
-		{"id":"9ac875c241197c07","fromNode":"326848fed1860252","fromSide":"right","toNode":"0f8975d17961bdf2","toSide":"left"},
-		{"id":"25f2ba565a28ea60","fromNode":"17f5d988808dba82","fromSide":"right","toNode":"f9d7a1af2197fe87","toSide":"left"},
-		{"id":"493a94aa5f68dd56","fromNode":"ff855e527b1e78c5","fromSide":"right","toNode":"17f5d988808dba82","toSide":"left"},
-		{"id":"76ad8db09f4bd9a0","fromNode":"6501cce067fbf9ad","fromSide":"right","toNode":"91038b6e4ac7a692","toSide":"left"},
-		{"id":"19f68e59c17a6713","fromNode":"ff855e527b1e78c5","fromSide":"right","toNode":"6501cce067fbf9ad","toSide":"left"}
+		{"id":"9ac875c241197c07","fromNode":"326848fed1860252","fromSide":"right","toNode":"0f8975d17961bdf2","toSide":"left"}
 	]
 }
