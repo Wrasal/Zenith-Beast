@@ -47,7 +47,8 @@
 		{"id":"add5c0ad42c8f168","type":"text","text":"Болтаем с НПС","x":-1280,"y":1200,"width":180,"height":80},
 		{"id":"6d3765177167f54d","type":"text","text":"Отправляемся выполнять следующий контракт","x":-1280,"y":1280,"width":260,"height":80},
 		{"id":"97218b6e3c06ab0e","type":"text","text":"Изучать кодекс","x":-1280,"y":1360,"width":180,"height":80},
-		{"id":"a118e22b2d4e7f2b","type":"text","text":"Изучать кодекс","x":-780,"y":1360,"width":180,"height":80}
+		{"id":"a118e22b2d4e7f2b","type":"text","text":"Изучать кодекс","x":-780,"y":1360,"width":180,"height":80},
+		{"id":"a34ee07e60cac280","type":"text","text":"Изучения мира","x":-340,"y":900,"width":250,"height":69}
 	],
 	"edges":[
 		{"id":"cdf0cdb1b879db79","fromNode":"b27d57b70a645890","fromSide":"right","toNode":"1edbd1b53de2bf5c","toSide":"left"},
