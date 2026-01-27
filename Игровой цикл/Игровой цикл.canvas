@@ -25,16 +25,16 @@
 		{"id":"3efbc0c22c4c2108","type":"text","text":"Глядение на мир","x":780,"y":-20,"width":220,"height":69},
 		{"id":"aa051ea19eb76e97","type":"text","text":"Изучения мира","x":280,"y":300,"width":250,"height":69},
 		{"id":"a690b8bfebee59f1","type":"file","file":"Игровой цикл/Изменения квестов.md","x":-160,"y":980,"width":400,"height":400},
-		{"id":"ec1a29b982535990","type":"text","text":"Альт. Путь\n","x":878,"y":830,"width":250,"height":60},
-		{"id":"3aa243b2149083ca","type":"text","text":"Успех","x":1318,"y":830,"width":250,"height":60},
-		{"id":"24337d9d85454e36","type":"text","text":"Альт. путь ...","x":878,"y":890,"width":250,"height":60},
 		{"id":"1edbd1b53de2bf5c","type":"text","text":"Выполнение [[Контракт|контракта]]","x":478,"y":800,"width":250,"height":60},
-		{"id":"6c9a1df8ea37948d","type":"text","text":"Обычное прохождение\n","x":878,"y":680,"width":250,"height":60},
 		{"id":"3b24e3f01ccddca6","type":"text","text":"Успех","x":1318,"y":1240,"width":250,"height":60},
 		{"id":"8979105cbac77923","type":"text","text":"Боссфайты","x":503,"y":1300,"width":250,"height":60},
 		{"id":"ac1f6282b2b55fe0","type":"text","text":"Альт. способ","x":943,"y":1380,"width":250,"height":60},
 		{"id":"e0da41c1df0a2f10","type":"text","text":"Успех с последующем изменением мира","x":1318,"y":1380,"width":250,"height":60},
-		{"id":"e0be7a93acfb3de4","type":"text","text":"Убийственный способ","x":943,"y":1240,"width":250,"height":60}
+		{"id":"e0be7a93acfb3de4","type":"text","text":"Убийственный способ","x":943,"y":1240,"width":250,"height":60},
+		{"id":"6c9a1df8ea37948d","type":"text","text":"Сценарий прохождения 1","x":818,"y":740,"width":250,"height":60},
+		{"id":"87dd795e461def41","type":"text","text":"Сценарий прохождения ...","x":818,"y":860,"width":250,"height":60},
+		{"id":"ec1a29b982535990","type":"text","text":"Сценарий прохождения 2","x":818,"y":800,"width":250,"height":60},
+		{"id":"3aa243b2149083ca","type":"text","text":"Успех","x":1140,"y":800,"width":100,"height":60}
 	],
 	"edges":[
 		{"id":"cdf0cdb1b879db79","fromNode":"b27d57b70a645890","fromSide":"right","toNode":"1edbd1b53de2bf5c","toSide":"left"},
@@ -42,7 +42,6 @@
 		{"id":"4e1b9db26c9b4939","fromNode":"aa051ea19eb76e97","fromSide":"right","toNode":"0ab40166fa2f362f","toSide":"left"},
 		{"id":"5219e403e7dd1fa8","fromNode":"1edbd1b53de2bf5c","fromSide":"right","toNode":"6c9a1df8ea37948d","toSide":"left"},
 		{"id":"3cdcbba2a02dad40","fromNode":"1edbd1b53de2bf5c","fromSide":"right","toNode":"ec1a29b982535990","toSide":"left"},
-		{"id":"5096e8361ccd0f6c","fromNode":"a690b8bfebee59f1","fromSide":"right","toNode":"ec1a29b982535990","toSide":"left"},
 		{"id":"1e37fdcf9c9f3b71","fromNode":"ec1a29b982535990","fromSide":"right","toNode":"3aa243b2149083ca","toSide":"left"},
 		{"id":"c0f9ea2ef5c5aa26","fromNode":"6c9a1df8ea37948d","fromSide":"right","toNode":"3aa243b2149083ca","toSide":"left"},
 		{"id":"2464b9285be2b028","fromNode":"3aa243b2149083ca","fromSide":"bottom","toNode":"1edbd1b53de2bf5c","toSide":"bottom","label":"При не удаче"},
@@ -73,8 +72,10 @@
 		{"id":"a689e1411aaae1cc","fromNode":"ac1f6282b2b55fe0","fromSide":"bottom","toNode":"2d4ba5a242209996","toSide":"bottom"},
 		{"id":"fae9e3d4d9419f90","fromNode":"937964567666cb78","fromSide":"right","toNode":"5bc5b433f4c5f5a4","toSide":"left"},
 		{"id":"c9aae63bd64ada7c","fromNode":"5bc5b433f4c5f5a4","fromSide":"right","toNode":"4bb3e64447cabc77","toSide":"left"},
-		{"id":"3272d263dec5539f","fromNode":"b27d57b70a645890","fromSide":"right","toNode":"aa051ea19eb76e97","toSide":"left","color":"5"},
+		{"id":"3272d263dec5539f","fromNode":"b27d57b70a645890","fromSide":"right","toNode":"aa051ea19eb76e97","toSide":"left"},
 		{"id":"bb1ae21c55d97840","fromNode":"d6a823e552606d11","fromSide":"right","toNode":"a018ae2da1827a40","toSide":"left"},
-		{"id":"c969d778230077f5","fromNode":"a018ae2da1827a40","fromSide":"right","toNode":"b27d57b70a645890","toSide":"left"}
+		{"id":"c969d778230077f5","fromNode":"a018ae2da1827a40","fromSide":"right","toNode":"b27d57b70a645890","toSide":"left"},
+		{"id":"7eb524f97f9b9511","fromNode":"1edbd1b53de2bf5c","fromSide":"right","toNode":"87dd795e461def41","toSide":"left"},
+		{"id":"b85f7180ead9a603","fromNode":"87dd795e461def41","fromSide":"right","toNode":"3aa243b2149083ca","toSide":"left"}
 	]
 }
