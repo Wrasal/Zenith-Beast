@@ -34,7 +34,8 @@
 		{"id":"6c9a1df8ea37948d","type":"text","text":"Сценарий прохождения 1","x":818,"y":740,"width":250,"height":60},
 		{"id":"87dd795e461def41","type":"text","text":"Сценарий прохождения ...","x":818,"y":860,"width":250,"height":60},
 		{"id":"ec1a29b982535990","type":"text","text":"Сценарий прохождения 2","x":818,"y":800,"width":250,"height":60},
-		{"id":"3aa243b2149083ca","type":"text","text":"Успех","x":1140,"y":800,"width":100,"height":60}
+		{"id":"3aa243b2149083ca","type":"text","text":"Успех","x":1140,"y":800,"width":100,"height":60},
+		{"id":"6b347fd8fe639bf8","type":"text","text":"Доп задания...","x":818,"y":660,"width":250,"height":60}
 	],
 	"edges":[
 		{"id":"cdf0cdb1b879db79","fromNode":"b27d57b70a645890","fromSide":"right","toNode":"1edbd1b53de2bf5c","toSide":"left"},
@@ -69,13 +70,15 @@
 		{"id":"d59c3b070c89f990","fromNode":"e0da41c1df0a2f10","fromSide":"right","toNode":"8328fa43f0330832","toSide":"left"},
 		{"id":"00db1405a29cea52","fromNode":"a690b8bfebee59f1","fromSide":"right","toNode":"ac1f6282b2b55fe0","toSide":"left"},
 		{"id":"f5cff5b86dd7b7eb","fromNode":"937964567666cb78","fromSide":"bottom","toNode":"2d4ba5a242209996","toSide":"top"},
-		{"id":"a689e1411aaae1cc","fromNode":"ac1f6282b2b55fe0","fromSide":"bottom","toNode":"2d4ba5a242209996","toSide":"bottom"},
+		{"id":"a689e1411aaae1cc","fromNode":"6a526e2fa1b6121c","fromSide":"bottom","toNode":"2d4ba5a242209996","toSide":"bottom"},
 		{"id":"fae9e3d4d9419f90","fromNode":"937964567666cb78","fromSide":"right","toNode":"5bc5b433f4c5f5a4","toSide":"left"},
 		{"id":"c9aae63bd64ada7c","fromNode":"5bc5b433f4c5f5a4","fromSide":"right","toNode":"4bb3e64447cabc77","toSide":"left"},
 		{"id":"3272d263dec5539f","fromNode":"b27d57b70a645890","fromSide":"right","toNode":"aa051ea19eb76e97","toSide":"left"},
 		{"id":"bb1ae21c55d97840","fromNode":"d6a823e552606d11","fromSide":"right","toNode":"a018ae2da1827a40","toSide":"left"},
 		{"id":"c969d778230077f5","fromNode":"a018ae2da1827a40","fromSide":"right","toNode":"b27d57b70a645890","toSide":"left"},
 		{"id":"7eb524f97f9b9511","fromNode":"1edbd1b53de2bf5c","fromSide":"right","toNode":"87dd795e461def41","toSide":"left"},
-		{"id":"b85f7180ead9a603","fromNode":"87dd795e461def41","fromSide":"right","toNode":"3aa243b2149083ca","toSide":"left"}
+		{"id":"b85f7180ead9a603","fromNode":"87dd795e461def41","fromSide":"right","toNode":"3aa243b2149083ca","toSide":"left"},
+		{"id":"0d651ad4b2a74faf","fromNode":"1edbd1b53de2bf5c","fromSide":"right","toNode":"6b347fd8fe639bf8","toSide":"left"},
+		{"id":"efdabdc03d119646","fromNode":"6b347fd8fe639bf8","fromSide":"right","toNode":"3aa243b2149083ca","toSide":"left"}
 	]
 }
