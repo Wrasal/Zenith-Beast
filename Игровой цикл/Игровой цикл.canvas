@@ -5,8 +5,8 @@
 		{"id":"606ac43ae2796396","type":"group","x":3300,"y":-2320,"width":1240,"height":500,"label":"Сценарий охоты"},
 		{"id":"250b66c414e5e237","type":"group","x":798,"y":1240,"width":1445,"height":300,"label":"Боссфайты"},
 		{"id":"80f5bb3ff96efec4","type":"group","x":798,"y":660,"width":860,"height":420,"label":"Контракт"},
-		{"id":"2f3efee8f8d7d6e8","x":-805,"y":1100,"width":685,"height":200,"type":"group","label":"Выполнени контаркта"},
-		{"id":"fe76ee3bf9e63327","x":-1340,"y":1100,"width":380,"height":360,"type":"group","label":"Сидим в хабе"},
+		{"id":"2f3efee8f8d7d6e8","x":-805,"y":1100,"width":685,"height":360,"type":"group","label":"Выполнени контаркта"},
+		{"id":"fe76ee3bf9e63327","x":-1300,"y":1100,"width":380,"height":360,"type":"group","label":"Сидим в хабе"},
 		{"id":"0ab40166fa2f362f","type":"text","text":"Встреча с [[Точка интереса]]\n","x":800,"y":-1740,"width":280,"height":80},
 		{"id":"ba2fba7fae68741a","type":"file","file":"Существо/Признаки присутствия.md","x":2530,"y":-1694,"width":400,"height":287},
 		{"id":"937964567666cb78","type":"text","text":"Активность для изменения миссий[[Изменения квестов]] и [[Изменения карты]]","x":1210,"y":-1500,"width":340,"height":120},
@@ -42,12 +42,12 @@
 		{"id":"a018ae2da1827a40","type":"text","text":"Выбор контракта","x":-140,"y":800,"width":180,"height":80},
 		{"id":"1edbd1b53de2bf5c","type":"text","text":"Выполнение [[Контракт|контракта]]","x":820,"y":800,"width":250,"height":80},
 		{"id":"d6a823e552606d11","type":"text","text":"[[Подготовка к экспедиции]] в [[Хаб]]","x":-820,"y":800,"width":320,"height":80},
-		{"id":"a118e22b2d4e7f2b","type":"text","text":"Изучать кодекс","x":-785,"y":1200,"width":180,"height":80},
 		{"id":"b447ea39448c833d","type":"text","text":"Победа","x":-420,"y":1200,"width":250,"height":80},
-		{"id":"97218b6e3c06ab0e","type":"text","text":"Изучать кодекс","x":-1320,"y":1120,"width":180,"height":80},
-		{"id":"f0386e01c8990a85","type":"text","text":"Билдимся","x":-1320,"y":1200,"width":180,"height":80},
-		{"id":"add5c0ad42c8f168","type":"text","text":"Болтаем с НПС","x":-1320,"y":1280,"width":180,"height":80},
-		{"id":"6d3765177167f54d","type":"text","text":"Отправляемся выполнять следующий контракт","x":-1320,"y":1360,"width":260,"height":80}
+		{"id":"f0386e01c8990a85","type":"text","text":"Билдимся","x":-1280,"y":1120,"width":180,"height":80},
+		{"id":"add5c0ad42c8f168","type":"text","text":"Болтаем с НПС","x":-1280,"y":1200,"width":180,"height":80},
+		{"id":"6d3765177167f54d","type":"text","text":"Отправляемся выполнять следующий контракт","x":-1280,"y":1280,"width":260,"height":80},
+		{"id":"97218b6e3c06ab0e","type":"text","text":"Изучать кодекс","x":-1280,"y":1360,"width":180,"height":80},
+		{"id":"a118e22b2d4e7f2b","type":"text","text":"Изучать кодекс","x":-780,"y":1360,"width":180,"height":80}
 	],
 	"edges":[
 		{"id":"cdf0cdb1b879db79","fromNode":"b27d57b70a645890","fromSide":"right","toNode":"1edbd1b53de2bf5c","toSide":"left"},
@@ -95,6 +95,6 @@
 		{"id":"f6c53e5a30ad45e7","fromNode":"262a42080953a458","fromSide":"right","toNode":"d297bf1196a6d6d1","toSide":"left"},
 		{"id":"3148d52a388a5919","fromNode":"adfb4b1307210897","fromSide":"right","toNode":"262a42080953a458","toSide":"left"},
 		{"id":"abb3e8526e86bff7","fromNode":"6d3765177167f54d","fromSide":"right","toNode":"2f3efee8f8d7d6e8","toSide":"left"},
-		{"id":"9313b7ce18287b93","fromNode":"add5c0ad42c8f168","fromSide":"right","toNode":"2f3efee8f8d7d6e8","toSide":"left","label":"Могу"}
+		{"id":"9313b7ce18287b93","fromNode":"add5c0ad42c8f168","fromSide":"right","toNode":"2f3efee8f8d7d6e8","toSide":"left","label":"Могут дать доп. квесты"}
 	]
 }
