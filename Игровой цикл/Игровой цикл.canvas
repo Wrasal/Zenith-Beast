@@ -23,25 +23,23 @@
 		{"id":"e0da41c1df0a2f10","type":"text","text":"Успех с последующем изменением мира","x":1795,"y":1400,"width":250,"height":60},
 		{"id":"3b24e3f01ccddca6","type":"text","text":"Успех","x":1795,"y":1260,"width":250,"height":60},
 		{"id":"ac1f6282b2b55fe0","type":"text","text":"Альт. способ","x":1420,"y":1400,"width":250,"height":60},
-		{"id":"aa051ea19eb76e97","type":"text","text":"Изучения мира","x":120,"y":-625,"width":250,"height":69},
 		{"id":"d6a823e552606d11","type":"text","text":"[[Подготовка к экспедиции]]\\высадка","x":-720,"y":-616,"width":250,"height":76},
-		{"id":"3efbc0c22c4c2108","type":"text","text":"Глядение на мир","x":960,"y":-625,"width":250,"height":69},
-		{"id":"b27d57b70a645890","type":"text","text":"Путешествия до маркера [[Активности]]","x":120,"y":800,"width":250,"height":80,"color":"3"},
-		{"id":"1cf90184229d2942","type":"text","text":"Достижение маркера","x":495,"y":800,"width":250,"height":60},
-		{"id":"a690b8bfebee59f1","type":"file","file":"Игровой цикл/Изменения квестов.md","x":-180,"y":1000,"width":400,"height":400},
-		{"id":"1edbd1b53de2bf5c","type":"text","text":"Выполнение [[Активности]]","x":955,"y":800,"width":250,"height":60},
 		{"id":"ec1a29b982535990","type":"text","text":"Альт. Путь\n","x":1355,"y":830,"width":250,"height":60},
 		{"id":"24337d9d85454e36","type":"text","text":"Альт. путь ...","x":1355,"y":890,"width":250,"height":60},
 		{"id":"6c9a1df8ea37948d","type":"text","text":"Обычное прохождение\n","x":1355,"y":680,"width":250,"height":60},
 		{"id":"e0be7a93acfb3de4","type":"text","text":"Убийственный способ","x":1420,"y":1260,"width":250,"height":60},
-		{"id":"8979105cbac77923","type":"text","text":"Боссфайты","x":980,"y":1320,"width":250,"height":60}
+		{"id":"b27d57b70a645890","type":"text","text":"Путешествия до маркера [[Активности]]","x":120,"y":800,"width":250,"height":60,"color":"3"},
+		{"id":"1cf90184229d2942","type":"text","text":"Достижение маркера","x":495,"y":800,"width":250,"height":60},
+		{"id":"a690b8bfebee59f1","type":"file","file":"Игровой цикл/Изменения квестов.md","x":-180,"y":1000,"width":400,"height":400},
+		{"id":"1edbd1b53de2bf5c","type":"text","text":"Выполнение [[Активности]]","x":955,"y":800,"width":250,"height":60},
+		{"id":"8979105cbac77923","type":"text","text":"Боссфайты","x":980,"y":1320,"width":250,"height":60},
+		{"id":"3efbc0c22c4c2108","type":"text","text":"Глядение на мир","x":960,"y":-625,"width":250,"height":69},
+		{"id":"aa051ea19eb76e97","type":"text","text":"Изучения мира","x":120,"y":620,"width":250,"height":69}
 	],
 	"edges":[
 		{"id":"90651aea7aad171d","fromNode":"b27d57b70a645890","fromSide":"right","toNode":"1cf90184229d2942","toSide":"left"},
 		{"id":"cdf0cdb1b879db79","fromNode":"1cf90184229d2942","fromSide":"right","toNode":"1edbd1b53de2bf5c","toSide":"left"},
 		{"id":"8ca72c7f79fd5524","fromNode":"3aa243b2149083ca","fromSide":"right","toNode":"8328fa43f0330832","toSide":"left"},
-		{"id":"94ca7fd0e125f4fe","fromNode":"d6a823e552606d11","fromSide":"right","toNode":"aa051ea19eb76e97","toSide":"left","color":"1"},
-		{"id":"ad96f34df0f1f6c7","fromNode":"b27d57b70a645890","fromSide":"top","toNode":"aa051ea19eb76e97","toSide":"bottom"},
 		{"id":"4e1b9db26c9b4939","fromNode":"aa051ea19eb76e97","fromSide":"right","toNode":"0ab40166fa2f362f","toSide":"left"},
 		{"id":"5219e403e7dd1fa8","fromNode":"1edbd1b53de2bf5c","fromSide":"right","toNode":"6c9a1df8ea37948d","toSide":"left"},
 		{"id":"3cdcbba2a02dad40","fromNode":"1edbd1b53de2bf5c","fromSide":"right","toNode":"ec1a29b982535990","toSide":"left"},
@@ -53,7 +51,6 @@
 		{"id":"84b4ac41c9a525e9","fromNode":"04d4a04fdd554da7","fromSide":"top","toNode":"12661931a62cb975","toSide":"bottom","label":"Раскрывают информацию о животных"},
 		{"id":"f81701f4ec8e0915","fromNode":"0ab40166fa2f362f","fromSide":"right","toNode":"30928abe2b4af39c","toSide":"left"},
 		{"id":"5a8168bbecf1cda0","fromNode":"d6a823e552606d11","fromSide":"bottom","toNode":"b27d57b70a645890","toSide":"left"},
-		{"id":"38adfb6fbab074b4","fromNode":"aa051ea19eb76e97","fromSide":"bottom","toNode":"b27d57b70a645890","toSide":"top"},
 		{"id":"d3dc8cf92c4a5967","fromNode":"12661931a62cb975","fromSide":"right","toNode":"b63dbc0bb03c2ae3","toSide":"left"},
 		{"id":"55ee79616c8298c1","fromNode":"04d4a04fdd554da7","fromSide":"top","toNode":"6f67bbeee41a1e06","toSide":"bottom","label":"Подсказывают где находятся"},
 		{"id":"8666651fc45bd872","fromNode":"12661931a62cb975","fromSide":"right","toNode":"74519d35eb81af94","toSide":"left"},
@@ -77,6 +74,7 @@
 		{"id":"f5cff5b86dd7b7eb","fromNode":"937964567666cb78","fromSide":"bottom","toNode":"2d4ba5a242209996","toSide":"top"},
 		{"id":"a689e1411aaae1cc","fromNode":"ac1f6282b2b55fe0","fromSide":"bottom","toNode":"2d4ba5a242209996","toSide":"bottom"},
 		{"id":"fae9e3d4d9419f90","fromNode":"937964567666cb78","fromSide":"right","toNode":"5bc5b433f4c5f5a4","toSide":"left"},
-		{"id":"c9aae63bd64ada7c","fromNode":"5bc5b433f4c5f5a4","fromSide":"right","toNode":"4bb3e64447cabc77","toSide":"left"}
+		{"id":"c9aae63bd64ada7c","fromNode":"5bc5b433f4c5f5a4","fromSide":"right","toNode":"4bb3e64447cabc77","toSide":"left"},
+		{"id":"3272d263dec5539f","fromNode":"b27d57b70a645890","fromSide":"top","toNode":"aa051ea19eb76e97","toSide":"bottom"}
 	]
 }
