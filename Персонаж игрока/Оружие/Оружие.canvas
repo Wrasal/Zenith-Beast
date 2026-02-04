@@ -1,5 +1,6 @@
 {
 	"nodes":[
+		{"id":"46b196219633fcd5","x":-500,"y":-260,"width":260,"height":440,"type":"group","label":"Тип"},
 		{"id":"60cbc0a820a1bc8a","x":-80,"y":-260,"width":380,"height":220,"type":"group","label":"Кастомизация"},
 		{"id":"96f8450abb4f8f2b","type":"text","text":"Винтовка\\первичное","x":-480,"y":-240,"width":220,"height":60},
 		{"id":"96dea8ac797a80ed","type":"text","text":"Средний бой","x":-60,"y":-240,"width":160,"height":60},
