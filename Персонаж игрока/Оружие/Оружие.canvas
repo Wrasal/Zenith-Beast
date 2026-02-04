@@ -1,8 +1,8 @@
 {
 	"nodes":[
-		{"id":"27d4bdc434247476","type":"group","x":-500,"y":-260,"width":800,"height":300,"label":"Первичное"},
 		{"id":"96dea8ac797a80ed","type":"text","text":"[[Кастомизация]]","x":-140,"y":-240,"width":160,"height":60},
-		{"id":"96f8450abb4f8f2b","type":"text","text":"Винтовка\n","x":-480,"y":-240,"width":137,"height":60}
+		{"id":"be236e9693814902","x":-480,"y":96,"width":137,"height":60,"type":"text","text":"Вторичное"},
+		{"id":"96f8450abb4f8f2b","type":"text","text":"Винтовка\\первичное","x":-480,"y":-240,"width":220,"height":60}
 	],
 	"edges":[
 		{"id":"5eb8e056abe0b3f7","fromNode":"96f8450abb4f8f2b","fromSide":"right","toNode":"96dea8ac797a80ed","toSide":"left"}
