@@ -1,6 +1,8 @@
 {
 	"nodes":[
-		{"id":"e8189859f46f342a","x":-125,"y":-30,"width":250,"height":60,"type":"text","text":"Селектор Оружия"}
+		{"id":"bff1430a68c14f7d","x":-212,"y":-39,"width":250,"height":60,"type":"text","text":"Винтовка\\первичное"},
+		{"id":"850a4b5f9202baeb","x":-212,"y":640,"width":250,"height":60,"type":"text","text":"Гранаты"},
+		{"id":"e2fd1dd3c11630a3","x":-212,"y":260,"width":250,"height":60,"type":"text","text":"Вторичное"}
 	],
 	"edges":[]
 }
