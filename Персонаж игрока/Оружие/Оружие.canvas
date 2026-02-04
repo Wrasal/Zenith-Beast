@@ -1,5 +1,6 @@
 {
 	"nodes":[
+		{"id":"27d4bdc434247476","x":-540,"y":-300,"width":740,"height":220,"type":"group","label":"Первичное"},
 		{"id":"96dea8ac797a80ed","x":-180,"y":-280,"width":160,"height":60,"type":"text","text":"[[Кастомизация]]"},
 		{"id":"96f8450abb4f8f2b","type":"text","text":"Винтовка\n","x":-520,"y":-280,"width":137,"height":60}
 	],
