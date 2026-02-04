@@ -11,7 +11,7 @@
 		{"id":"0b37fc47618f2272","x":280,"y":1000,"width":250,"height":60,"type":"text","text":"Граната побега"},
 		{"id":"6a9b1cb2329f5974","type":"text","text":"Спобности","x":280,"y":240,"width":250,"height":60},
 		{"id":"108967091933c3a5","x":280,"y":380,"width":250,"height":60,"type":"text","text":"Установка зиплайна"},
-		{"id":"1075d0975f8d4daf","x":280,"y":520,"width":250,"height":60,"type":"text","text":"Подствольник для мин"},
+		{"id":"1075d0975f8d4daf","x":280,"y":520,"width":250,"height":60,"type":"text","text":"Подствольник для мин/гранат"},
 		{"id":"19b71c80abb1ee6c","x":700,"y":180,"width":250,"height":60,"type":"text","text":"Рикошетная метка"},
 		{"id":"a7333a1149c5f1dc","x":700,"y":460,"width":250,"height":60,"type":"text","text":"Мина - паутина"},
 		{"id":"9a9f8dfe47db092e","x":700,"y":600,"width":250,"height":60,"type":"text","text":"Мина - дымовая"}
