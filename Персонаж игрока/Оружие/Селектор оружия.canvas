@@ -5,11 +5,12 @@
 		{"id":"e7cff80f6edb663d","type":"text","text":"Дальнее","x":280,"y":-39,"width":250,"height":60},
 		{"id":"fd407a1d183c003a","type":"text","text":"Среднее","x":280,"y":80,"width":250,"height":60},
 		{"id":"e2fd1dd3c11630a3","type":"text","text":"Вторичное","x":-212,"y":380,"width":250,"height":60},
-		{"id":"6a9b1cb2329f5974","type":"text","text":"Спобности","x":280,"y":380,"width":250,"height":60},
 		{"id":"850a4b5f9202baeb","type":"text","text":"Прочее","x":-212,"y":860,"width":250,"height":60},
-		{"id":"108967091933c3a5","x":280,"y":520,"width":250,"height":60,"type":"text","text":"Установка зиплайна"},
 		{"id":"eccb37dc747c4e91","x":280,"y":860,"width":250,"height":60,"type":"text","text":"Крюк кошка"},
-		{"id":"0b37fc47618f2272","x":253,"y":995,"width":250,"height":60,"type":"text","text":"Дымавая\\с"}
+		{"id":"0b37fc47618f2272","x":280,"y":1000,"width":250,"height":60,"type":"text","text":"Граната побега"},
+		{"id":"6a9b1cb2329f5974","type":"text","text":"Спобности","x":280,"y":240,"width":250,"height":60},
+		{"id":"108967091933c3a5","x":280,"y":380,"width":250,"height":60,"type":"text","text":"Установка зиплайна"},
+		{"id":"1075d0975f8d4daf","x":280,"y":520,"width":250,"height":60,"type":"text","text":"Подствольник для мин"}
 	],
 	"edges":[
 		{"id":"f4aa50dc9033e2b1","fromNode":"bff1430a68c14f7d","fromSide":"right","toNode":"e7cff80f6edb663d","toSide":"left"},
@@ -17,6 +18,7 @@
 		{"id":"0bde258b860c5c0c","fromNode":"e2fd1dd3c11630a3","fromSide":"right","toNode":"6a9b1cb2329f5974","toSide":"left"},
 		{"id":"ccb5b0a87a3587db","fromNode":"850a4b5f9202baeb","fromSide":"right","toNode":"eccb37dc747c4e91","toSide":"left"},
 		{"id":"2d388ef1ef7db64b","fromNode":"e2fd1dd3c11630a3","fromSide":"right","toNode":"108967091933c3a5","toSide":"left"},
-		{"id":"cc9dbd5278f20eb7","fromNode":"850a4b5f9202baeb","fromSide":"right","toNode":"0b37fc47618f2272","toSide":"left"}
+		{"id":"cc9dbd5278f20eb7","fromNode":"850a4b5f9202baeb","fromSide":"right","toNode":"0b37fc47618f2272","toSide":"left"},
+		{"id":"7bdde6ef7675a852","fromNode":"e2fd1dd3c11630a3","fromSide":"right","toNode":"1075d0975f8d4daf","toSide":"left"}
 	]
 }
