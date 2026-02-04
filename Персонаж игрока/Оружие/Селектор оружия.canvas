@@ -1,5 +1,6 @@
 {
 	"nodes":[
+		{"id":"77b011108b3a591c","x":260,"y":-59,"width":980,"height":659,"type":"group","label":"Кастомизация\\вариация"},
 		{"id":"5052942e63bf27e3","type":"group","x":-232,"y":-59,"width":290,"height":1039,"label":"Тип"},
 		{"id":"bff1430a68c14f7d","type":"text","text":"Винтовка\\первичное","x":-212,"y":-39,"width":250,"height":60},
 		{"id":"e7cff80f6edb663d","type":"text","text":"Дальнее","x":280,"y":-39,"width":250,"height":60},
