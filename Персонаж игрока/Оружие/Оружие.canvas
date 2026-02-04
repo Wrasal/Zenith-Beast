@@ -5,10 +5,12 @@
 		{"id":"96f8450abb4f8f2b","type":"text","text":"Винтовка\\первичное","x":-480,"y":-240,"width":220,"height":60},
 		{"id":"96dea8ac797a80ed","type":"text","text":"Средний бой","x":-60,"y":-240,"width":160,"height":60},
 		{"id":"8bd475682e588485","x":-60,"y":-120,"width":160,"height":60,"type":"text","text":"Дальний бой"},
-		{"id":"be236e9693814902","type":"text","text":"Вторичное","x":-480,"y":100,"width":137,"height":60}
+		{"id":"be236e9693814902","type":"text","text":"Вторичное","x":-480,"y":100,"width":137,"height":60},
+		{"id":"624737929ad09d59","x":-60,"y":100,"width":160,"height":60,"type":"text","text":"Крюк - кошка"}
 	],
 	"edges":[
 		{"id":"5eb8e056abe0b3f7","fromNode":"96f8450abb4f8f2b","fromSide":"right","toNode":"96dea8ac797a80ed","toSide":"left"},
-		{"id":"f698defa5b91187a","fromNode":"96f8450abb4f8f2b","fromSide":"right","toNode":"8bd475682e588485","toSide":"left"}
+		{"id":"f698defa5b91187a","fromNode":"96f8450abb4f8f2b","fromSide":"right","toNode":"8bd475682e588485","toSide":"left"},
+		{"id":"835fb5e2292fab9f","fromNode":"be236e9693814902","fromSide":"right","toNode":"624737929ad09d59","toSide":"left"}
 	]
 }
