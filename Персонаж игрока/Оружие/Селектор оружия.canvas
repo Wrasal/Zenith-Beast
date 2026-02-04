@@ -12,9 +12,8 @@
 		{"id":"6a9b1cb2329f5974","type":"text","text":"Спобности","x":280,"y":240,"width":250,"height":60},
 		{"id":"108967091933c3a5","x":280,"y":380,"width":250,"height":60,"type":"text","text":"Установка зиплайна"},
 		{"id":"1075d0975f8d4daf","x":280,"y":520,"width":250,"height":60,"type":"text","text":"Подствольник для мин/гранат"},
-		{"id":"19b71c80abb1ee6c","x":700,"y":180,"width":250,"height":60,"type":"text","text":"Рикошетная метка"},
-		{"id":"a7333a1149c5f1dc","x":700,"y":460,"width":250,"height":60,"type":"text","text":"Мина - паутина"},
-		{"id":"9a9f8dfe47db092e","x":700,"y":600,"width":250,"height":60,"type":"text","text":"Мина - дымовая"}
+		{"id":"a7333a1149c5f1dc","x":620,"y":520,"width":250,"height":60,"type":"text","text":"Мина - паутина"},
+		{"id":"19b71c80abb1ee6c","x":640,"y":240,"width":250,"height":60,"type":"text","text":"Рикошетная метка"}
 	],
 	"edges":[
 		{"id":"f4aa50dc9033e2b1","fromNode":"bff1430a68c14f7d","fromSide":"right","toNode":"e7cff80f6edb663d","toSide":"left"},
@@ -25,7 +24,6 @@
 		{"id":"cc9dbd5278f20eb7","fromNode":"850a4b5f9202baeb","fromSide":"right","toNode":"0b37fc47618f2272","toSide":"left"},
 		{"id":"7bdde6ef7675a852","fromNode":"e2fd1dd3c11630a3","fromSide":"right","toNode":"1075d0975f8d4daf","toSide":"left"},
 		{"id":"58132562de1bf195","fromNode":"6a9b1cb2329f5974","fromSide":"right","toNode":"19b71c80abb1ee6c","toSide":"left"},
-		{"id":"42cde29c0e02c401","fromNode":"1075d0975f8d4daf","fromSide":"right","toNode":"a7333a1149c5f1dc","toSide":"left"},
-		{"id":"2c32e7b348c6188e","fromNode":"1075d0975f8d4daf","fromSide":"right","toNode":"9a9f8dfe47db092e","toSide":"left"}
+		{"id":"42cde29c0e02c401","fromNode":"1075d0975f8d4daf","fromSide":"right","toNode":"a7333a1149c5f1dc","toSide":"left"}
 	]
 }
