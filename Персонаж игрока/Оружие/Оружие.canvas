@@ -2,7 +2,9 @@
 	"nodes":[
 		{"id":"85b247f23177779f","x":-547,"y":-156,"width":167,"height":60,"type":"text","text":"Первичное\n"},
 		{"id":"717540205df07468","x":-547,"y":60,"width":167,"height":60,"type":"text","text":"Вторичное\n"},
-		{"id":"96f8450abb4f8f2b","x":-260,"y":-156,"width":137,"height":60,"type":"text","text":"Винтовка\n"}
+		{"id":"96f8450abb4f8f2b","x":-260,"y":-320,"width":137,"height":60,"type":"text","text":"Винтовка\n"}
 	],
-	"edges":[]
+	"edges":[
+		{"id":"502d158670ce6964","fromNode":"85b247f23177779f","fromSide":"right","toNode":"96f8450abb4f8f2b","toSide":"left"}
+	]
 }
