@@ -1,8 +1,16 @@
 {
 	"nodes":[
+		{"id":"5052942e63bf27e3","x":-232,"y":-59,"width":290,"height":1039,"type":"group","label":"Тип"},
 		{"id":"bff1430a68c14f7d","x":-212,"y":-39,"width":250,"height":60,"type":"text","text":"Винтовка\\первичное"},
 		{"id":"850a4b5f9202baeb","x":-212,"y":640,"width":250,"height":60,"type":"text","text":"Гранаты"},
-		{"id":"e2fd1dd3c11630a3","x":-212,"y":260,"width":250,"height":60,"type":"text","text":"Вторичное"}
+		{"id":"e2fd1dd3c11630a3","x":-212,"y":260,"width":250,"height":60,"type":"text","text":"Вторичное"},
+		{"id":"e7cff80f6edb663d","x":280,"y":-39,"width":250,"height":60,"type":"text","text":"Дальнее"},
+		{"id":"fd407a1d183c003a","x":280,"y":80,"width":250,"height":60,"type":"text","text":"Среднее"},
+		{"id":"6a9b1cb2329f5974","x":280,"y":260,"width":250,"height":60,"type":"text","text":"Спобности"}
 	],
-	"edges":[]
+	"edges":[
+		{"id":"f4aa50dc9033e2b1","fromNode":"bff1430a68c14f7d","fromSide":"right","toNode":"e7cff80f6edb663d","toSide":"left"},
+		{"id":"a7dd6e90636694a7","fromNode":"bff1430a68c14f7d","fromSide":"right","toNode":"fd407a1d183c003a","toSide":"left"},
+		{"id":"0bde258b860c5c0c","fromNode":"e2fd1dd3c11630a3","fromSide":"right","toNode":"6a9b1cb2329f5974","toSide":"left"}
+	]
 }
