@@ -10,8 +10,8 @@
 		{"id":"19b71c80abb1ee6c","type":"text","text":"Рикошетная метка","x":640,"y":240,"width":250,"height":60},
 		{"id":"eccb37dc747c4e91","type":"text","text":"[[Крюк кошка]]","x":280,"y":860,"width":250,"height":60},
 		{"id":"0b37fc47618f2272","type":"text","text":"Граната побега","x":280,"y":1000,"width":250,"height":60},
-		{"id":"1075d0975f8d4daf","type":"text","text":"Подствольник для мин/гранат","x":280,"y":520,"width":250,"height":60},
-		{"id":"a7333a1149c5f1dc","type":"text","text":"Мина - паутина","x":620,"y":520,"width":250,"height":60},
+		{"id":"1075d0975f8d4daf","type":"text","text":"Подствольник для ловушек/гранат - липучек","x":280,"y":520,"width":250,"height":60},
+		{"id":"a7333a1149c5f1dc","type":"text","text":"Ловушка - паутина","x":620,"y":520,"width":250,"height":60},
 		{"id":"ee726d8d3f112d93","x":280,"y":80,"width":250,"height":60,"type":"text","text":"Дальность боя"},
 		{"id":"bf3d2ae3c8f4cfd4","x":280,"y":-39,"width":250,"height":60,"type":"text","text":"Подача патронов"}
 	],
