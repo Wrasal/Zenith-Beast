@@ -2,12 +2,14 @@
 	"nodes":[
 		{"id":"4b40f3b37c2310f4","x":-180,"y":-200,"width":250,"height":60,"type":"text","text":"Горизонатльный"},
 		{"id":"b3e0a80e47c97979","x":-180,"y":50,"width":250,"height":60,"type":"text","text":"Кусты(фу)"},
-		{"id":"9d9ccd8418ac60bd","x":983,"y":50,"width":250,"height":60,"type":"text","text":"Вертикальный\n"},
-		{"id":"ec39feeb85b353c0","x":600,"y":52,"width":250,"height":60,"type":"text","text":"Крюк кошка"}
+		{"id":"9d9ccd8418ac60bd","x":980,"y":52,"width":250,"height":60,"type":"text","text":"Вертикальный\n"},
+		{"id":"ec39feeb85b353c0","x":600,"y":52,"width":250,"height":60,"type":"text","text":"Крюк кошка"},
+		{"id":"485670f6acfe6d57","x":-456,"y":55,"width":250,"height":60,"type":"text","text":""}
 	],
 	"edges":[
 		{"id":"41d349e38fede420","fromNode":"4b40f3b37c2310f4","fromSide":"bottom","toNode":"b3e0a80e47c97979","toSide":"top"},
 		{"id":"b69e904b5ed83f51","fromNode":"9d9ccd8418ac60bd","fromSide":"left","toNode":"ec39feeb85b353c0","toSide":"right"},
-		{"id":"9452fea903316191","fromNode":"ec39feeb85b353c0","fromSide":"left","toNode":"b3e0a80e47c97979","toSide":"right"}
+		{"id":"9452fea903316191","fromNode":"ec39feeb85b353c0","fromSide":"left","toNode":"b3e0a80e47c97979","toSide":"right","label":"Мхи, ветки"},
+		{"id":"9ffd85950d862b00","fromNode":"4b40f3b37c2310f4","fromSide":"bottom","toNode":"485670f6acfe6d57","toSide":"top"}
 	]
 }
