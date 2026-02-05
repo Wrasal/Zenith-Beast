@@ -6,7 +6,7 @@
 		{"id":"19a4699f5621cdd9","type":"group","x":-1560,"y":960,"width":1280,"height":220,"label":"Главный цикл"},
 		{"id":"fe76ee3bf9e63327","type":"group","x":-1560,"y":1400,"width":220,"height":260,"label":"Сидим в хабе"},
 		{"id":"2f3efee8f8d7d6e8","type":"group","x":-1200,"y":1700,"width":500,"height":100,"label":"Выполнени контаркта"},
-		{"id":"ba2fba7fae68741a","type":"file","file":"Существо/Признаки присутствия.md","x":4110,"y":-1634,"width":400,"height":287},
+		{"id":"ba2fba7fae68741a","type":"file","file":"Фауна/Существо/Признаки присутствия.md","x":4110,"y":-1634,"width":400,"height":287},
 		{"id":"0ab40166fa2f362f","type":"text","text":"Встреча с [[Точка интереса]]\n","x":2380,"y":-1680,"width":280,"height":80},
 		{"id":"055944be4ddb6db5","type":"text","text":"Начало игры","x":-1540,"y":980,"width":250,"height":60},
 		{"id":"6f67bbeee41a1e06","type":"text","text":"Место добычи [[Ресурсы]]","x":2960,"y":-2100,"width":250,"height":60},
