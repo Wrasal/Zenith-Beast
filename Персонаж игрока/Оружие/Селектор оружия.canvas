@@ -8,7 +8,7 @@
 		{"id":"e2fd1dd3c11630a3","type":"text","text":"Вторичное","x":-212,"y":380,"width":250,"height":60},
 		{"id":"850a4b5f9202baeb","type":"text","text":"Прочее","x":-212,"y":860,"width":250,"height":60},
 		{"id":"6a9b1cb2329f5974","type":"text","text":"Спобности","x":280,"y":240,"width":250,"height":60},
-		{"id":"108967091933c3a5","type":"text","text":"","x":280,"y":380,"width":250,"height":60},
+		{"id":"108967091933c3a5","type":"text","text":"Сканер животного","x":280,"y":380,"width":250,"height":60},
 		{"id":"19b71c80abb1ee6c","type":"text","text":"Рикошетная метка","x":640,"y":240,"width":250,"height":60},
 		{"id":"eccb37dc747c4e91","type":"text","text":"Крюк кошка","x":280,"y":860,"width":250,"height":60},
 		{"id":"0b37fc47618f2272","type":"text","text":"Граната побега","x":280,"y":1000,"width":250,"height":60},
