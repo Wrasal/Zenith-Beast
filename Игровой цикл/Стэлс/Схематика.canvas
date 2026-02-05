@@ -1,11 +1,12 @@
 {
 	"nodes":[
-		{"id":"9d9ccd8418ac60bd","x":1320,"y":52,"width":250,"height":60,"type":"text","text":"Вертикальный\n"},
-		{"id":"ec39feeb85b353c0","x":840,"y":52,"width":250,"height":60,"type":"text","text":"Крюк кошка"},
-		{"id":"4b40f3b37c2310f4","x":-275,"y":-260,"width":250,"height":60,"type":"text","text":"Горизонатльный"},
-		{"id":"b3e0a80e47c97979","x":100,"y":52,"width":250,"height":60,"type":"text","text":"Кусты(фу)"},
-		{"id":"171886224eba3c9a","x":-275,"y":52,"width":250,"height":60,"type":"text","text":"Пути"},
-		{"id":"485670f6acfe6d57","x":-640,"y":52,"width":250,"height":60,"type":"text","text":"Объекты на карте"}
+		{"id":"9d9ccd8418ac60bd","type":"text","text":"Вертикальный\n","x":1320,"y":52,"width":250,"height":60},
+		{"id":"ec39feeb85b353c0","type":"text","text":"Крюк кошка","x":840,"y":52,"width":250,"height":60},
+		{"id":"4b40f3b37c2310f4","type":"text","text":"Горизонатльный","x":-275,"y":-260,"width":250,"height":60},
+		{"id":"b3e0a80e47c97979","type":"text","text":"Кусты(фу)","x":100,"y":52,"width":250,"height":60},
+		{"id":"171886224eba3c9a","type":"text","text":"Пути","x":-275,"y":52,"width":250,"height":60},
+		{"id":"485670f6acfe6d57","type":"text","text":"Объекты на карте","x":-640,"y":52,"width":250,"height":60},
+		{"id":"43821488e07c5012","x":414,"y":317,"width":250,"height":60,"type":"text","text":"это всё Наработки"}
 	],
 	"edges":[
 		{"id":"41d349e38fede420","fromNode":"4b40f3b37c2310f4","fromSide":"bottom","toNode":"b3e0a80e47c97979","toSide":"top"},
