@@ -14,8 +14,8 @@
 		{"id":"a7333a1149c5f1dc","type":"text","text":"[[Ловушка - паутина ]](тяжелая)","x":620,"y":440,"width":250,"height":60},
 		{"id":"eccb37dc747c4e91","type":"text","text":"[[Крюк кошка]]","x":280,"y":1100,"width":250,"height":60},
 		{"id":"0b37fc47618f2272","type":"text","text":"Граната побега","x":280,"y":860,"width":250,"height":60},
-		{"id":"03d02f8c14e375ef","x":639,"y":860,"width":250,"height":60,"type":"text","text":"Дымовая граната"},
-		{"id":"2f4c767950df110f","x":280,"y":640,"width":250,"height":60,"type":"text","text":"Дротики усыпления"}
+		{"id":"03d02f8c14e375ef","type":"text","text":"Дымовая граната","x":639,"y":860,"width":250,"height":60},
+		{"id":"2f4c767950df110f","type":"text","text":"Ловушк","x":280,"y":640,"width":250,"height":60}
 	],
 	"edges":[
 		{"id":"0bde258b860c5c0c","fromNode":"e2fd1dd3c11630a3","fromSide":"right","toNode":"6a9b1cb2329f5974","toSide":"left"},
