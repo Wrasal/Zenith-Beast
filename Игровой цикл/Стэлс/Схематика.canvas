@@ -6,7 +6,7 @@
 		{"id":"b3e0a80e47c97979","type":"text","text":"Кусты(фу)","x":100,"y":52,"width":250,"height":60},
 		{"id":"171886224eba3c9a","type":"text","text":"Пути","x":-275,"y":52,"width":250,"height":60},
 		{"id":"485670f6acfe6d57","type":"text","text":"Объекты на карте","x":-640,"y":52,"width":250,"height":60},
-		{"id":"43821488e07c5012","x":414,"y":317,"width":250,"height":60,"type":"text","text":"это всё Наработки"}
+		{"id":"43821488e07c5012","x":140,"y":-480,"width":420,"height":180,"type":"text","text":"это всё Наработки"}
 	],
 	"edges":[
 		{"id":"41d349e38fede420","fromNode":"4b40f3b37c2310f4","fromSide":"bottom","toNode":"b3e0a80e47c97979","toSide":"top"},
