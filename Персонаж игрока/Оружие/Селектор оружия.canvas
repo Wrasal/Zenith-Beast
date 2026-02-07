@@ -14,11 +14,11 @@
 		{"id":"0b37fc47618f2272","type":"text","text":"Взрыва стрела","x":280,"y":410,"width":250,"height":60},
 		{"id":"850a4b5f9202baeb","type":"text","text":"Вторичное (мини арбалет на предплечье)","x":-212,"y":560,"width":250,"height":60},
 		{"id":"d6d3ad1a8fbab0ce","x":700,"y":410,"width":250,"height":60,"type":"text","text":"Ультразвуковой хлопок"},
-		{"id":"5948c0db6c4ad359","type":"text","text":"Парализующий газ","x":700,"y":560,"width":250,"height":60},
-		{"id":"a7333a1149c5f1dc","type":"text","text":"[[Ловушка - паутина ]](тяжелая)","x":700,"y":740,"width":250,"height":60},
 		{"id":"2f4c767950df110f","type":"text","text":"Ловушки","x":280,"y":620,"width":250,"height":60},
 		{"id":"f91f36b70c5627d7","x":280,"y":860,"width":250,"height":60,"type":"text","text":"Приманки"},
-		{"id":"03cee6d3d6bd17ac","x":700,"y":260,"width":250,"height":60,"type":"text","text":"Липкая жижа"}
+		{"id":"03cee6d3d6bd17ac","x":700,"y":260,"width":250,"height":60,"type":"text","text":"Липкая жижа"},
+		{"id":"a7333a1149c5f1dc","type":"text","text":"[[Ловушка - паутина ]](тяжелая)","x":700,"y":760,"width":250,"height":60},
+		{"id":"5948c0db6c4ad359","type":"text","text":"Парализующий газ","x":700,"y":560,"width":250,"height":60}
 	],
 	"edges":[
 		{"id":"cc9dbd5278f20eb7","fromNode":"850a4b5f9202baeb","fromSide":"right","toNode":"0b37fc47618f2272","toSide":"left"},
