@@ -23,11 +23,12 @@
 		{"id":"eccb37dc747c4e91","type":"text","text":"[[Крюк кошка]]","x":280,"y":1280,"width":250,"height":60},
 		{"id":"108967091933c3a5","type":"text","text":"Сканер животного ","x":280,"y":1400,"width":250,"height":60},
 		{"id":"8a0cf4cc8465c8c3","type":"text","text":"Встроенные гаджеты\\Прочее","x":-212,"y":1280,"width":250,"height":60},
-		{"id":"98581adeb23af918","x":280,"y":820,"width":250,"height":60,"type":"text","text":"Дротики"},
 		{"id":"b44a7c7b7f391451","x":760,"y":-520,"width":250,"height":60,"type":"text","text":"Тяжелые"},
 		{"id":"4ef37ba3bacf3aa3","x":760,"y":-460,"width":250,"height":60,"type":"text","text":"Обычные"},
 		{"id":"d6392805cef5f52e","x":760,"y":-400,"width":250,"height":60,"type":"text","text":"...."},
-		{"id":"bff1430a68c14f7d","type":"text","text":"Винтовка\\первичное","x":-212,"y":-30,"width":250,"height":60}
+		{"id":"bff1430a68c14f7d","type":"text","text":"Винтовка\\первичное","x":-212,"y":-30,"width":250,"height":60},
+		{"id":"98581adeb23af918","x":280,"y":880,"width":250,"height":60,"type":"text","text":"Дротики"},
+		{"id":"585dd53ba0945b4b","x":629,"y":916,"width":250,"height":60,"type":"text","text":"Транквлизаторные"}
 	],
 	"edges":[
 		{"id":"cc9dbd5278f20eb7","fromNode":"850a4b5f9202baeb","fromSide":"right","toNode":"0b37fc47618f2272","toSide":"left"},
@@ -46,6 +47,7 @@
 		{"id":"ca2389288ac915c8","fromNode":"bff1430a68c14f7d","fromSide":"right","toNode":"ef5077f5f47adeda","toSide":"left"},
 		{"id":"b45e51d4ea087b00","fromNode":"ef5077f5f47adeda","fromSide":"right","toNode":"a9ef2890c4eef02c","toSide":"left"},
 		{"id":"6838738f30aea2cc","fromNode":"850a4b5f9202baeb","fromSide":"right","toNode":"98581adeb23af918","toSide":"left"},
-		{"id":"e2e2f730335c9ff4","fromNode":"d03e3beb6289a276","fromSide":"right","toNode":"e89124da07ba5f77","toSide":"left"}
+		{"id":"e2e2f730335c9ff4","fromNode":"d03e3beb6289a276","fromSide":"right","toNode":"e89124da07ba5f77","toSide":"left"},
+		{"id":"b6682edf41c05f3a","fromNode":"98581adeb23af918","fromSide":"right","toNode":"585dd53ba0945b4b","toSide":"left"}
 	]
 }
