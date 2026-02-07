@@ -8,7 +8,6 @@
 		{"id":"104c1c778f2d20bd","type":"text","text":"[[Плазмаган]]","x":-600,"y":470,"width":250,"height":60,"color":"5"},
 		{"id":"e2fd1dd3c11630a3","type":"text","text":"Вторичное","x":-600,"y":560,"width":250,"height":60,"color":"5"},
 		{"id":"0b37fc47618f2272","type":"text","text":"Взрыва стрела","x":280,"y":410,"width":250,"height":60},
-		{"id":"850a4b5f9202baeb","type":"text","text":"Вторичное (мини арбалет на предплечье)","x":-212,"y":560,"width":250,"height":60},
 		{"id":"d6d3ad1a8fbab0ce","type":"text","text":"Ультразвуковой хлопок","x":700,"y":410,"width":250,"height":60},
 		{"id":"2f4c767950df110f","type":"text","text":"Ловушки","x":280,"y":620,"width":250,"height":60},
 		{"id":"03cee6d3d6bd17ac","type":"text","text":"Липкая жижа","x":700,"y":260,"width":250,"height":60},
@@ -28,7 +27,8 @@
 		{"id":"108967091933c3a5","type":"text","text":"Сканер животного ","x":280,"y":1540,"width":250,"height":60},
 		{"id":"8a0cf4cc8465c8c3","type":"text","text":"Встроенные гаджеты\\Прочее","x":-212,"y":1420,"width":250,"height":60},
 		{"id":"98581adeb23af918","x":280,"y":940,"width":250,"height":60,"type":"text","text":"Дротики"},
-		{"id":"585dd53ba0945b4b","x":700,"y":1040,"width":250,"height":60,"type":"text","text":"Транквлизаторные"}
+		{"id":"585dd53ba0945b4b","x":700,"y":1040,"width":250,"height":60,"type":"text","text":"Транквлизаторные"},
+		{"id":"850a4b5f9202baeb","type":"text","text":"Вторичное (мини арбалет на предплечье)","x":-200,"y":620,"width":250,"height":60}
 	],
 	"edges":[
 		{"id":"cc9dbd5278f20eb7","fromNode":"850a4b5f9202baeb","fromSide":"right","toNode":"0b37fc47618f2272","toSide":"left"},
