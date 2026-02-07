@@ -10,7 +10,6 @@
 		{"id":"0b37fc47618f2272","type":"text","text":"Взрыв стрела","x":280,"y":410,"width":250,"height":60},
 		{"id":"d03e3beb6289a276","type":"text","text":"Огнестрел","x":280,"y":-60,"width":250,"height":60},
 		{"id":"45633ad80ed9b9f6","type":"text","text":"Лазер","x":280,"y":0,"width":250,"height":60},
-		{"id":"bff1430a68c14f7d","type":"text","text":"Винтовка\\первичное","x":-212,"y":-30,"width":250,"height":60},
 		{"id":"8a0cf4cc8465c8c3","type":"text","text":"Встроенные гаджеты\\Прочее","x":-212,"y":1420,"width":250,"height":60},
 		{"id":"850a4b5f9202baeb","type":"text","text":"Вторичное ([[мини арбалет]] на предплечье)","x":-220,"y":620,"width":250,"height":60},
 		{"id":"2f4c767950df110f","type":"text","text":"Бомбы - ловушки","x":280,"y":620,"width":250,"height":60},
@@ -29,7 +28,8 @@
 		{"id":"b44a7c7b7f391451","type":"text","text":"Тяжелые","x":760,"y":-480,"width":250,"height":60},
 		{"id":"4ef37ba3bacf3aa3","type":"text","text":"Обычные","x":760,"y":-420,"width":250,"height":60},
 		{"id":"d6392805cef5f52e","type":"text","text":"....","x":760,"y":-360,"width":250,"height":60},
-		{"id":"03cee6d3d6bd17ac","type":"text","text":"Липкая жижа","x":860,"y":260,"width":250,"height":60}
+		{"id":"03cee6d3d6bd17ac","type":"text","text":"Липкая жижа","x":860,"y":260,"width":250,"height":60},
+		{"id":"bff1430a68c14f7d","type":"text","text":"Винтовка\\первичное","x":-220,"y":-30,"width":250,"height":60}
 	],
 	"edges":[
 		{"id":"cc9dbd5278f20eb7","fromNode":"850a4b5f9202baeb","fromSide":"right","toNode":"0b37fc47618f2272","toSide":"left"},
