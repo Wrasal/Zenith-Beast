@@ -2,7 +2,7 @@
 	"nodes":[
 		{"id":"77b011108b3a591c","type":"group","x":240,"y":220,"width":1080,"height":1400,"label":"Кастомизация\\вариация"},
 		{"id":"5052942e63bf27e3","type":"group","x":-260,"y":-59,"width":318,"height":1579,"label":"Тип"},
-		{"id":"e89124da07ba5f77","x":740,"y":-540,"width":290,"height":220,"type":"group","label":"Патроны"},
+		{"id":"e89124da07ba5f77","x":740,"y":-500,"width":290,"height":220,"type":"group","label":"Патроны"},
 		{"id":"ef5077f5f47adeda","type":"group","x":260,"y":-80,"width":290,"height":160,"label":"Класс оружия"},
 		{"id":"a9ef2890c4eef02c","type":"group","x":740,"y":-80,"width":290,"height":160,"label":"Обвесы"},
 		{"id":"104c1c778f2d20bd","type":"text","text":"[[Плазмаган]]","x":-600,"y":470,"width":250,"height":60,"color":"5"},
@@ -17,9 +17,6 @@
 		{"id":"45633ad80ed9b9f6","type":"text","text":"Лазер","x":280,"y":0,"width":250,"height":60},
 		{"id":"bf3d2ae3c8f4cfd4","type":"text","text":"Подача патронов","x":760,"y":-60,"width":250,"height":60},
 		{"id":"ee726d8d3f112d93","type":"text","text":"Дальность боя","x":760,"y":0,"width":250,"height":60},
-		{"id":"b44a7c7b7f391451","x":760,"y":-520,"width":250,"height":60,"type":"text","text":"Тяжелые"},
-		{"id":"4ef37ba3bacf3aa3","x":760,"y":-460,"width":250,"height":60,"type":"text","text":"Обычные"},
-		{"id":"d6392805cef5f52e","x":760,"y":-400,"width":250,"height":60,"type":"text","text":"...."},
 		{"id":"bff1430a68c14f7d","type":"text","text":"Винтовка\\первичное","x":-212,"y":-30,"width":250,"height":60},
 		{"id":"f91f36b70c5627d7","type":"text","text":"Приманки","x":280,"y":1180,"width":250,"height":60},
 		{"id":"03d02f8c14e375ef","type":"text","text":"Дымовая","x":280,"y":1320,"width":250,"height":60},
@@ -28,7 +25,10 @@
 		{"id":"8a0cf4cc8465c8c3","type":"text","text":"Встроенные гаджеты\\Прочее","x":-212,"y":1420,"width":250,"height":60},
 		{"id":"98581adeb23af918","x":280,"y":940,"width":250,"height":60,"type":"text","text":"Дротики"},
 		{"id":"585dd53ba0945b4b","x":700,"y":1040,"width":250,"height":60,"type":"text","text":"Транквлизаторные"},
-		{"id":"850a4b5f9202baeb","type":"text","text":"Вторичное (мини арбалет на предплечье)","x":-200,"y":620,"width":250,"height":60}
+		{"id":"850a4b5f9202baeb","type":"text","text":"Вторичное (мини арбалет на предплечье)","x":-200,"y":620,"width":250,"height":60},
+		{"id":"b44a7c7b7f391451","x":760,"y":-480,"width":250,"height":60,"type":"text","text":"Тяжелые"},
+		{"id":"4ef37ba3bacf3aa3","x":760,"y":-420,"width":250,"height":60,"type":"text","text":"Обычные"},
+		{"id":"d6392805cef5f52e","x":760,"y":-360,"width":250,"height":60,"type":"text","text":"...."}
 	],
 	"edges":[
 		{"id":"cc9dbd5278f20eb7","fromNode":"850a4b5f9202baeb","fromSide":"right","toNode":"0b37fc47618f2272","toSide":"left"},
