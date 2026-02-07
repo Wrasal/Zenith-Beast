@@ -17,7 +17,7 @@
 		{"id":"5948c0db6c4ad359","type":"text","text":"Парализующий газ","x":659,"y":470,"width":250,"height":60},
 		{"id":"a7333a1149c5f1dc","type":"text","text":"[[Ловушка - паутина ]](тяжелая)","x":659,"y":650,"width":250,"height":60},
 		{"id":"d6d3ad1a8fbab0ce","x":659,"y":320,"width":250,"height":60,"type":"text","text":"Ультразвуковой хлопок"},
-		{"id":"03cee6d3d6bd17ac","x":722,"y":808,"width":250,"height":60,"type":"text","text":"Шрапнель"}
+		{"id":"03cee6d3d6bd17ac","x":659,"y":760,"width":250,"height":60,"type":"text","text":"Липкая жижа"}
 	],
 	"edges":[
 		{"id":"cc9dbd5278f20eb7","fromNode":"850a4b5f9202baeb","fromSide":"right","toNode":"0b37fc47618f2272","toSide":"left"},
