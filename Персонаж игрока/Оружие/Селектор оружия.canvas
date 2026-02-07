@@ -17,7 +17,6 @@
 		{"id":"5948c0db6c4ad359","type":"text","text":"Парализующий газ","x":860,"y":410,"width":250,"height":60},
 		{"id":"d6d3ad1a8fbab0ce","type":"text","text":"Ультразвуковой хлопок","x":860,"y":620,"width":250,"height":60},
 		{"id":"a7333a1149c5f1dc","type":"text","text":"[[Ловушка - паутина ]](тяжелая)","x":860,"y":740,"width":250,"height":60},
-		{"id":"03d02f8c14e375ef","type":"text","text":"Дымовая","x":280,"y":1320,"width":250,"height":60},
 		{"id":"eccb37dc747c4e91","type":"text","text":"[[Крюк кошка]]","x":280,"y":1420,"width":250,"height":60},
 		{"id":"108967091933c3a5","type":"text","text":"Сканер животного ","x":280,"y":1540,"width":250,"height":60},
 		{"id":"1e810324bf0ff3cc","type":"text","text":"Метка","x":860,"y":910,"width":250,"height":60},
@@ -29,7 +28,8 @@
 		{"id":"d6392805cef5f52e","type":"text","text":"....","x":760,"y":-360,"width":250,"height":60},
 		{"id":"03cee6d3d6bd17ac","type":"text","text":"Липкая жижа","x":860,"y":260,"width":250,"height":60},
 		{"id":"bff1430a68c14f7d","type":"text","text":"Винтовка\\первичное","x":-220,"y":-30,"width":250,"height":60},
-		{"id":"f91f36b70c5627d7","type":"text","text":"Приманки","x":860,"y":1200,"width":250,"height":60}
+		{"id":"f91f36b70c5627d7","type":"text","text":"Приманки","x":860,"y":1200,"width":250,"height":60},
+		{"id":"03d02f8c14e375ef","type":"text","text":"Дым","x":280,"y":1170,"width":250,"height":60}
 	],
 	"edges":[
 		{"id":"cc9dbd5278f20eb7","fromNode":"850a4b5f9202baeb","fromSide":"right","toNode":"0b37fc47618f2272","toSide":"left"},
