@@ -19,7 +19,6 @@
 		{"id":"eccb37dc747c4e91","type":"text","text":"[[Крюк кошка]]","x":280,"y":1420,"width":250,"height":60},
 		{"id":"108967091933c3a5","type":"text","text":"Сканер животного ","x":280,"y":1540,"width":250,"height":60},
 		{"id":"8a0cf4cc8465c8c3","type":"text","text":"Встроенные гаджеты\\Прочее","x":-212,"y":1420,"width":250,"height":60},
-		{"id":"850a4b5f9202baeb","type":"text","text":"Вторичное (мини арбалет на предплечье)","x":-200,"y":620,"width":250,"height":60},
 		{"id":"b44a7c7b7f391451","x":760,"y":-480,"width":250,"height":60,"type":"text","text":"Тяжелые"},
 		{"id":"4ef37ba3bacf3aa3","x":760,"y":-420,"width":250,"height":60,"type":"text","text":"Обычные"},
 		{"id":"d6392805cef5f52e","x":760,"y":-360,"width":250,"height":60,"type":"text","text":"...."},
@@ -28,8 +27,9 @@
 		{"id":"5948c0db6c4ad359","type":"text","text":"Парализующий газ","x":860,"y":410,"width":250,"height":60},
 		{"id":"d6d3ad1a8fbab0ce","type":"text","text":"Ультразвуковой хлопок","x":860,"y":620,"width":250,"height":60},
 		{"id":"a7333a1149c5f1dc","type":"text","text":"[[Ловушка - паутина ]](тяжелая)","x":860,"y":740,"width":250,"height":60},
-		{"id":"1e810324bf0ff3cc","x":860,"y":910,"width":250,"height":60,"type":"text","text":""},
-		{"id":"585dd53ba0945b4b","x":860,"y":1040,"width":250,"height":70,"type":"text","text":"Транквлизаторные"}
+		{"id":"1e810324bf0ff3cc","x":860,"y":910,"width":250,"height":60,"type":"text","text":"Метка"},
+		{"id":"585dd53ba0945b4b","x":860,"y":1040,"width":250,"height":70,"type":"text","text":"Транквлизаторные"},
+		{"id":"850a4b5f9202baeb","type":"text","text":"Вторичное (мини арбалет на предплечье)","x":-220,"y":620,"width":250,"height":60}
 	],
 	"edges":[
 		{"id":"cc9dbd5278f20eb7","fromNode":"850a4b5f9202baeb","fromSide":"right","toNode":"0b37fc47618f2272","toSide":"left"},
