@@ -29,7 +29,7 @@
 		{"id":"a7333a1149c5f1dc","type":"text","text":"[[Ловушка - паутина ]](тяжелая)","x":860,"y":740,"width":250,"height":60},
 		{"id":"1e810324bf0ff3cc","x":860,"y":910,"width":250,"height":60,"type":"text","text":"Метка"},
 		{"id":"585dd53ba0945b4b","x":860,"y":1040,"width":250,"height":70,"type":"text","text":"Транквлизаторные"},
-		{"id":"850a4b5f9202baeb","type":"text","text":"Вторичное (мини арбалет на предплечье)","x":-220,"y":620,"width":250,"height":60}
+		{"id":"850a4b5f9202baeb","type":"text","text":"Вторичное ([[мини арбалет]] на предплечье)","x":-220,"y":620,"width":250,"height":60}
 	],
 	"edges":[
 		{"id":"cc9dbd5278f20eb7","fromNode":"850a4b5f9202baeb","fromSide":"right","toNode":"0b37fc47618f2272","toSide":"left"},
