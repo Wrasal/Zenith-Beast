@@ -27,9 +27,9 @@
 		{"id":"03cee6d3d6bd17ac","type":"text","text":"Липкая жижа","x":880,"y":260,"width":250,"height":60},
 		{"id":"5948c0db6c4ad359","type":"text","text":"Парализующий газ","x":860,"y":410,"width":250,"height":60},
 		{"id":"d6d3ad1a8fbab0ce","type":"text","text":"Ультразвуковой хлопок","x":860,"y":620,"width":250,"height":60},
-		{"id":"a7333a1149c5f1dc","type":"text","text":"[[Ловушка - паутина ]](тяжелая)","x":640,"y":740,"width":250,"height":60},
-		{"id":"1e810324bf0ff3cc","x":825,"y":910,"width":250,"height":60,"type":"text","text":""},
-		{"id":"585dd53ba0945b4b","x":825,"y":1040,"width":250,"height":70,"type":"text","text":"Транквлизаторные"}
+		{"id":"a7333a1149c5f1dc","type":"text","text":"[[Ловушка - паутина ]](тяжелая)","x":860,"y":740,"width":250,"height":60},
+		{"id":"1e810324bf0ff3cc","x":860,"y":910,"width":250,"height":60,"type":"text","text":""},
+		{"id":"585dd53ba0945b4b","x":860,"y":1040,"width":250,"height":70,"type":"text","text":"Транквлизаторные"}
 	],
 	"edges":[
 		{"id":"cc9dbd5278f20eb7","fromNode":"850a4b5f9202baeb","fromSide":"right","toNode":"0b37fc47618f2272","toSide":"left"},
