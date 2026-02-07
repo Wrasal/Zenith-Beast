@@ -9,25 +9,25 @@
 		{"id":"108967091933c3a5","type":"text","text":"Сканер животного ","x":280,"y":1220,"width":250,"height":60},
 		{"id":"104c1c778f2d20bd","type":"text","text":"[[Плазмаган]]","x":-600,"y":470,"width":250,"height":60},
 		{"id":"e2fd1dd3c11630a3","type":"text","text":"Вторичное","x":-600,"y":560,"width":250,"height":60},
-		{"id":"0b37fc47618f2272","type":"text","text":"Взрыва стрела","x":300,"y":470,"width":250,"height":60},
-		{"id":"5948c0db6c4ad359","x":659,"y":620,"width":250,"height":60,"type":"text","text":"Парализующий газ"},
-		{"id":"2f4c767950df110f","type":"text","text":"Ловушки","x":300,"y":830,"width":250,"height":60},
-		{"id":"03d02f8c14e375ef","type":"text","text":"Дымовая","x":659,"y":470,"width":250,"height":60},
-		{"id":"a7333a1149c5f1dc","type":"text","text":"[[Ловушка - паутина ]](тяжелая)","x":659,"y":830,"width":250,"height":60},
-		{"id":"850a4b5f9202baeb","type":"text","text":"Вторичное (мини арбалет на предплечье)","x":-212,"y":650,"width":250,"height":60},
-		{"id":"8a0cf4cc8465c8c3","x":-212,"y":1130,"width":250,"height":60,"type":"text","text":"Встроенные гаджеты"}
+		{"id":"03d02f8c14e375ef","type":"text","text":"Дымовая","x":280,"y":1000,"width":250,"height":60},
+		{"id":"8a0cf4cc8465c8c3","x":-212,"y":1100,"width":250,"height":60,"type":"text","text":"Встроенные гаджеты"},
+		{"id":"850a4b5f9202baeb","type":"text","text":"Вторичное (мини арбалет на предплечье)","x":-212,"y":470,"width":250,"height":60},
+		{"id":"0b37fc47618f2272","type":"text","text":"Взрыва стрела","x":300,"y":320,"width":250,"height":60},
+		{"id":"2f4c767950df110f","type":"text","text":"Ловушки","x":280,"y":650,"width":250,"height":60},
+		{"id":"5948c0db6c4ad359","x":659,"y":470,"width":250,"height":60,"type":"text","text":"Парализующий газ"},
+		{"id":"a7333a1149c5f1dc","type":"text","text":"[[Ловушка - паутина ]](тяжелая)","x":659,"y":650,"width":250,"height":60}
 	],
 	"edges":[
 		{"id":"cc9dbd5278f20eb7","fromNode":"850a4b5f9202baeb","fromSide":"right","toNode":"0b37fc47618f2272","toSide":"left"},
 		{"id":"7f0aec89253f0dda","fromNode":"bff1430a68c14f7d","fromSide":"right","toNode":"bf3d2ae3c8f4cfd4","toSide":"left"},
 		{"id":"05922fc71a51e1ec","fromNode":"bff1430a68c14f7d","fromSide":"right","toNode":"ee726d8d3f112d93","toSide":"left"},
-		{"id":"6ad2d3ee56f1a6d8","fromNode":"0b37fc47618f2272","fromSide":"right","toNode":"03d02f8c14e375ef","toSide":"left"},
 		{"id":"264453aae0cade69","fromNode":"850a4b5f9202baeb","fromSide":"right","toNode":"2f4c767950df110f","toSide":"left"},
 		{"id":"5f5036dc91e620ba","fromNode":"e2fd1dd3c11630a3","fromSide":"right","toNode":"104c1c778f2d20bd","toSide":"left"},
 		{"id":"59da4d81ab656d14","fromNode":"2f4c767950df110f","fromSide":"right","toNode":"a7333a1149c5f1dc","toSide":"left"},
 		{"id":"1b6297cdec35119e","fromNode":"0b37fc47618f2272","fromSide":"right","toNode":"5948c0db6c4ad359","toSide":"left"},
 		{"id":"d42aa3b2cfbdcfc8","fromNode":"2f4c767950df110f","fromSide":"right","toNode":"5948c0db6c4ad359","toSide":"left"},
 		{"id":"a417493d77c3ef6b","fromNode":"8a0cf4cc8465c8c3","fromSide":"right","toNode":"eccb37dc747c4e91","toSide":"left"},
-		{"id":"2e1efe2be9b9aeec","fromNode":"8a0cf4cc8465c8c3","fromSide":"right","toNode":"108967091933c3a5","toSide":"left"}
+		{"id":"2e1efe2be9b9aeec","fromNode":"8a0cf4cc8465c8c3","fromSide":"right","toNode":"108967091933c3a5","toSide":"left"},
+		{"id":"a0ffb64ec83bd5ed","fromNode":"8a0cf4cc8465c8c3","fromSide":"right","toNode":"03d02f8c14e375ef","toSide":"left"}
 	]
 }
