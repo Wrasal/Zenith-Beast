@@ -2,6 +2,7 @@
 	"nodes":[
 		{"id":"77b011108b3a591c","type":"group","x":260,"y":220,"width":1060,"height":780,"label":"Кастомизация\\вариация"},
 		{"id":"5052942e63bf27e3","type":"group","x":-260,"y":-59,"width":318,"height":1579,"label":"Тип"},
+		{"id":"e89124da07ba5f77","x":740,"y":-540,"width":290,"height":220,"type":"group","label":"Патроны"},
 		{"id":"ef5077f5f47adeda","type":"group","x":260,"y":-80,"width":290,"height":160,"label":"Класс оружия"},
 		{"id":"a9ef2890c4eef02c","type":"group","x":740,"y":-80,"width":290,"height":160,"label":"Обвесы"},
 		{"id":"bff1430a68c14f7d","type":"text","text":"Винтовка\\первичное","x":-212,"y":-39,"width":250,"height":60},
@@ -18,13 +19,15 @@
 		{"id":"45633ad80ed9b9f6","type":"text","text":"Лазер","x":280,"y":0,"width":250,"height":60},
 		{"id":"bf3d2ae3c8f4cfd4","type":"text","text":"Подача патронов","x":760,"y":-60,"width":250,"height":60},
 		{"id":"ee726d8d3f112d93","type":"text","text":"Дальность боя","x":760,"y":0,"width":250,"height":60},
-		{"id":"b44a7c7b7f391451","x":760,"y":-440,"width":250,"height":60,"type":"text","text":""},
 		{"id":"f91f36b70c5627d7","type":"text","text":"Приманки","x":280,"y":1040,"width":250,"height":60},
 		{"id":"03d02f8c14e375ef","type":"text","text":"Дымовая","x":280,"y":1180,"width":250,"height":60},
 		{"id":"eccb37dc747c4e91","type":"text","text":"[[Крюк кошка]]","x":280,"y":1280,"width":250,"height":60},
 		{"id":"108967091933c3a5","type":"text","text":"Сканер животного ","x":280,"y":1400,"width":250,"height":60},
 		{"id":"8a0cf4cc8465c8c3","type":"text","text":"Встроенные гаджеты\\Прочее","x":-212,"y":1280,"width":250,"height":60},
-		{"id":"98581adeb23af918","x":280,"y":820,"width":250,"height":60,"type":"text","text":"Дротики"}
+		{"id":"98581adeb23af918","x":280,"y":820,"width":250,"height":60,"type":"text","text":"Дротики"},
+		{"id":"b44a7c7b7f391451","x":760,"y":-520,"width":250,"height":60,"type":"text","text":"Тяжелые"},
+		{"id":"4ef37ba3bacf3aa3","x":760,"y":-460,"width":250,"height":60,"type":"text","text":""},
+		{"id":"d6392805cef5f52e","x":760,"y":-400,"width":250,"height":60,"type":"text","text":""}
 	],
 	"edges":[
 		{"id":"cc9dbd5278f20eb7","fromNode":"850a4b5f9202baeb","fromSide":"right","toNode":"0b37fc47618f2272","toSide":"left"},
@@ -42,7 +45,7 @@
 		{"id":"2bee8bd376d2d7d9","fromNode":"8a0cf4cc8465c8c3","fromSide":"right","toNode":"f91f36b70c5627d7","toSide":"left"},
 		{"id":"ca2389288ac915c8","fromNode":"bff1430a68c14f7d","fromSide":"right","toNode":"ef5077f5f47adeda","toSide":"left"},
 		{"id":"b45e51d4ea087b00","fromNode":"ef5077f5f47adeda","fromSide":"right","toNode":"a9ef2890c4eef02c","toSide":"left"},
-		{"id":"f863fdac39baa3ac","fromNode":"d03e3beb6289a276","fromSide":"right","toNode":"b44a7c7b7f391451","toSide":"left"},
-		{"id":"6838738f30aea2cc","fromNode":"850a4b5f9202baeb","fromSide":"right","toNode":"98581adeb23af918","toSide":"left"}
+		{"id":"6838738f30aea2cc","fromNode":"850a4b5f9202baeb","fromSide":"right","toNode":"98581adeb23af918","toSide":"left"},
+		{"id":"e2e2f730335c9ff4","fromNode":"d03e3beb6289a276","fromSide":"right","toNode":"e89124da07ba5f77","toSide":"left"}
 	]
 }
