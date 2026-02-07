@@ -14,7 +14,8 @@
 		{"id":"0b37fc47618f2272","type":"text","text":"Граната побега","x":280,"y":860,"width":250,"height":60},
 		{"id":"03d02f8c14e375ef","type":"text","text":"Дымовая граната","x":639,"y":860,"width":250,"height":60},
 		{"id":"108967091933c3a5","type":"text","text":"Сканер животного","x":280,"y":1220,"width":250,"height":60},
-		{"id":"2f4c767950df110f","type":"text","text":"Ловушки с парализуещим газом ","x":280,"y":980,"width":250,"height":60}
+		{"id":"2f4c767950df110f","type":"text","text":"Ловушки","x":280,"y":980,"width":250,"height":60},
+		{"id":"5948c0db6c4ad359","x":639,"y":980,"width":250,"height":60,"type":"text","text":"Парализующий газ"}
 	],
 	"edges":[
 		{"id":"ccb5b0a87a3587db","fromNode":"850a4b5f9202baeb","fromSide":"right","toNode":"eccb37dc747c4e91","toSide":"left"},
@@ -26,6 +27,7 @@
 		{"id":"05922fc71a51e1ec","fromNode":"bff1430a68c14f7d","fromSide":"right","toNode":"ee726d8d3f112d93","toSide":"left"},
 		{"id":"6ad2d3ee56f1a6d8","fromNode":"0b37fc47618f2272","fromSide":"right","toNode":"03d02f8c14e375ef","toSide":"left"},
 		{"id":"264453aae0cade69","fromNode":"850a4b5f9202baeb","fromSide":"right","toNode":"2f4c767950df110f","toSide":"left"},
-		{"id":"5f5036dc91e620ba","fromNode":"e2fd1dd3c11630a3","fromSide":"right","toNode":"104c1c778f2d20bd","toSide":"left"}
+		{"id":"5f5036dc91e620ba","fromNode":"e2fd1dd3c11630a3","fromSide":"right","toNode":"104c1c778f2d20bd","toSide":"left"},
+		{"id":"f69c4f4a558da5b9","fromNode":"2f4c767950df110f","fromSide":"right","toNode":"5948c0db6c4ad359","toSide":"left"}
 	]
 }
