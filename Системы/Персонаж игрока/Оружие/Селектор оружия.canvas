@@ -5,6 +5,7 @@
 		{"id":"e89124da07ba5f77","type":"group","x":1175,"y":-500,"width":290,"height":220,"label":"Патроны"},
 		{"id":"ef5077f5f47adeda","type":"group","x":675,"y":-80,"width":290,"height":160,"label":"Класс оружия"},
 		{"id":"a9ef2890c4eef02c","type":"group","x":1175,"y":-80,"width":290,"height":160,"label":"Обвесы"},
+		{"id":"0311083d09fd897e","x":200,"y":-80,"width":290,"height":160,"type":"group","label":"Вид"},
 		{"id":"104c1c778f2d20bd","type":"text","text":"[[Плазмаган]]","x":-600,"y":470,"width":250,"height":60,"color":"5"},
 		{"id":"e2fd1dd3c11630a3","type":"text","text":"Вторичное","x":-600,"y":560,"width":250,"height":60,"color":"5"},
 		{"id":"bff1430a68c14f7d","type":"text","text":"Первичное","x":-220,"y":-30,"width":250,"height":60},
@@ -47,13 +48,14 @@
 		{"id":"43173272cb3d7fea","fromNode":"2f4c767950df110f","fromSide":"right","toNode":"d6d3ad1a8fbab0ce","toSide":"left"},
 		{"id":"cdd9bc2e7d2e997a","fromNode":"0b37fc47618f2272","fromSide":"right","toNode":"03cee6d3d6bd17ac","toSide":"left"},
 		{"id":"2bee8bd376d2d7d9","fromNode":"8a0cf4cc8465c8c3","fromSide":"right","toNode":"f91f36b70c5627d7","toSide":"left"},
-		{"id":"ca2389288ac915c8","fromNode":"bff1430a68c14f7d","fromSide":"right","toNode":"ef5077f5f47adeda","toSide":"left"},
+		{"id":"ca2389288ac915c8","fromNode":"bff1430a68c14f7d","fromSide":"right","toNode":"0311083d09fd897e","toSide":"left"},
 		{"id":"b45e51d4ea087b00","fromNode":"ef5077f5f47adeda","fromSide":"right","toNode":"a9ef2890c4eef02c","toSide":"left"},
 		{"id":"6838738f30aea2cc","fromNode":"850a4b5f9202baeb","fromSide":"right","toNode":"98581adeb23af918","toSide":"left"},
 		{"id":"e2e2f730335c9ff4","fromNode":"d03e3beb6289a276","fromSide":"right","toNode":"e89124da07ba5f77","toSide":"left"},
 		{"id":"b6682edf41c05f3a","fromNode":"98581adeb23af918","fromSide":"right","toNode":"585dd53ba0945b4b","toSide":"left"},
 		{"id":"ab4f163c32b5a3c0","fromNode":"98581adeb23af918","fromSide":"right","toNode":"1e810324bf0ff3cc","toSide":"left"},
 		{"id":"8b8e16bfe035d59e","fromNode":"98581adeb23af918","fromSide":"right","toNode":"d6d3ad1a8fbab0ce","toSide":"left"},
-		{"id":"ecdb29e37d240ea7","fromNode":"0b37fc47618f2272","fromSide":"right","toNode":"f91f36b70c5627d7","toSide":"left"}
+		{"id":"ecdb29e37d240ea7","fromNode":"0b37fc47618f2272","fromSide":"right","toNode":"f91f36b70c5627d7","toSide":"left"},
+		{"id":"32da7b8985f19b55","fromNode":"0311083d09fd897e","fromSide":"right","toNode":"ef5077f5f47adeda","toSide":"left"}
 	]
 }
