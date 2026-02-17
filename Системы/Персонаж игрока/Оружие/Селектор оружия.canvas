@@ -33,7 +33,8 @@
 		{"id":"b44a7c7b7f391451","type":"text","text":"Тяжелые","x":1195,"y":-480,"width":250,"height":60},
 		{"id":"67afaab5d713f57f","x":220,"y":-60,"width":250,"height":60,"type":"text","text":"[[Винтовка]]"},
 		{"id":"7b32c4c4cdf03233","x":220,"y":0,"width":250,"height":60,"type":"text","text":""},
-		{"id":"95fa6ddb96c2003f","x":-220,"y":440,"width":250,"height":60,"type":"text","text":"Вторичное"}
+		{"id":"95fa6ddb96c2003f","x":-220,"y":440,"width":250,"height":60,"type":"text","text":"Вторичное"},
+		{"id":"3171aed418ba3435","x":220,"y":340,"width":250,"height":60,"type":"text","text":"[[Винчестер]]"}
 	],
 	"edges":[
 		{"id":"cc9dbd5278f20eb7","fromNode":"850a4b5f9202baeb","fromSide":"right","toNode":"0b37fc47618f2272","toSide":"left"},
