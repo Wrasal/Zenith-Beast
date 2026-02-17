@@ -35,7 +35,7 @@
 		{"id":"98581adeb23af918","type":"text","text":"Дротики","x":280,"y":1481,"width":250,"height":60},
 		{"id":"585dd53ba0945b4b","type":"text","text":"Транквлизаторные","x":860,"y":1551,"width":250,"height":70},
 		{"id":"4ef37ba3bacf3aa3","type":"text","text":"Обычные","x":1195,"y":430,"width":250,"height":60},
-		{"id":"d6392805cef5f52e","type":"text","text":"....","x":1195,"y":490,"width":250,"height":60},
+		{"id":"d6392805cef5f52e","type":"text","text":"Гибридные(магические)","x":1195,"y":490,"width":250,"height":60},
 		{"id":"b44a7c7b7f391451","type":"text","text":"Тяжелые","x":1195,"y":370,"width":250,"height":60}
 	],
 	"edges":[
