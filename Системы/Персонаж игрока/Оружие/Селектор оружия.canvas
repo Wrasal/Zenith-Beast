@@ -1,7 +1,7 @@
 {
 	"nodes":[
 		{"id":"77b011108b3a591c","type":"group","x":240,"y":731,"width":1080,"height":1400,"label":"Кастомизация\\вариация"},
-		{"id":"5052942e63bf27e3","type":"group","x":-260,"y":-59,"width":318,"height":1579,"label":"Тип"},
+		{"id":"5052942e63bf27e3","type":"group","x":-260,"y":-59,"width":318,"height":2170,"label":"Тип"},
 		{"id":"e89124da07ba5f77","type":"group","x":740,"y":-500,"width":290,"height":220,"label":"Вещества"},
 		{"id":"ef5077f5f47adeda","type":"group","x":240,"y":-80,"width":290,"height":160,"label":"Класс оружия"},
 		{"id":"a9ef2890c4eef02c","type":"group","x":740,"y":-80,"width":290,"height":160,"label":"Обвесы"},
