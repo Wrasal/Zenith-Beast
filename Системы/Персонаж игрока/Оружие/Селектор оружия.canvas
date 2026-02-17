@@ -7,7 +7,6 @@
 		{"id":"0311083d09fd897e","type":"group","x":200,"y":-80,"width":290,"height":160,"label":"Вид"},
 		{"id":"a9ef2890c4eef02c","type":"group","x":1175,"y":-80,"width":290,"height":160,"label":"Обвесы"},
 		{"id":"4de633c6a97ee58c","type":"group","x":200,"y":380,"width":290,"height":160,"label":"Вид"},
-		{"id":"e3796194e01d8946","x":413,"y":291,"width":250,"height":60,"type":"text","text":""},
 		{"id":"8a0cf4cc8465c8c3","type":"text","text":"Встроенные гаджеты\\Прочее","x":-212,"y":1931,"width":250,"height":60},
 		{"id":"bff1430a68c14f7d","type":"text","text":"Первичное","x":-220,"y":-30,"width":250,"height":60},
 		{"id":"0b37fc47618f2272","type":"text","text":"Взрыв стрела","x":280,"y":921,"width":250,"height":60},
