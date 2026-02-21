@@ -8,12 +8,14 @@
 		{"id":"f5e9404c7b797d8f","type":"text","text":"Босс-файт","x":981,"y":12,"width":250,"height":60},
 		{"id":"89cfa62db9f62330","type":"text","text":"Изучение животных","x":260,"y":360,"width":250,"height":60},
 		{"id":"68285a9f1bc8fb2c","type":"text","text":"Адаптация к локации (для игрока)","x":260,"y":420,"width":250,"height":80},
-		{"id":"5d9d299fa21813d8","type":"text","text":"По этапное обучение","x":260,"y":500,"width":250,"height":60}
+		{"id":"5d9d299fa21813d8","type":"text","text":"По этапное обучение","x":260,"y":500,"width":250,"height":60},
+		{"id":"a6d20faa1d053590","x":1492,"y":12,"width":328,"height":60,"type":"text","text":"Получение следующего задания"}
 	],
 	"edges":[
 		{"id":"b557759005334dc5","fromNode":"f5ccfa73fe4bffe7","fromSide":"right","toNode":"7dea4824cee4143f","toSide":"left"},
 		{"id":"84e27e1b789c4275","fromNode":"b02d384d16c59bdb","fromSide":"right","toNode":"1dde6e9fc5736805","toSide":"left"},
 		{"id":"3cdb9925736976d6","fromNode":"1dde6e9fc5736805","fromSide":"right","toNode":"f5e9404c7b797d8f","toSide":"left"},
-		{"id":"31e4c8a8c6f4f968","fromNode":"b02d384d16c59bdb","fromSide":"bottom","toNode":"a38b2953eca533ad","toSide":"top"}
+		{"id":"31e4c8a8c6f4f968","fromNode":"b02d384d16c59bdb","fromSide":"bottom","toNode":"a38b2953eca533ad","toSide":"top"},
+		{"id":"4e5284ecd41e33fb","fromNode":"f5e9404c7b797d8f","fromSide":"right","toNode":"a6d20faa1d053590","toSide":"left"}
 	]
 }
