@@ -1,9 +1,10 @@
 {
 	"nodes":[
 		{"id":"7dea4824cee4143f","x":200,"y":-116,"width":1140,"height":316,"type":"group","label":"Сбор данных\\Подготовка для босса"},
-		{"id":"f5ccfa73fe4bffe7","x":-220,"y":14,"width":260,"height":60,"type":"text","text":"Получение заказа на босса"},
-		{"id":"b02d384d16c59bdb","x":220,"y":16,"width":250,"height":56,"type":"text","text":"Выполнение экспедиций"},
-		{"id":"bae92d70a7d39f37","x":600,"y":16,"width":250,"height":56,"type":"text","text":""}
+		{"id":"f5ccfa73fe4bffe7","x":-220,"y":12,"width":260,"height":60,"type":"text","text":"Получение заказа на босса"},
+		{"id":"b02d384d16c59bdb","x":220,"y":-80,"width":250,"height":56,"type":"text","text":"Выполнение экспедиций"},
+		{"id":"bae92d70a7d39f37","x":220,"y":-24,"width":250,"height":56,"type":"text","text":"Выполнен"},
+		{"id":"f557410e4a70ca54","x":220,"y":32,"width":250,"height":60,"type":"text","text":"..."}
 	],
 	"edges":[
 		{"id":"b557759005334dc5","fromNode":"f5ccfa73fe4bffe7","fromSide":"right","toNode":"7dea4824cee4143f","toSide":"left"}
