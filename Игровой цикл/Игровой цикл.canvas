@@ -5,8 +5,9 @@
 		{"id":"b02d384d16c59bdb","x":220,"y":12,"width":320,"height":60,"type":"text","text":"Выполнение экспедиций (миссий)"},
 		{"id":"1dde6e9fc5736805","x":620,"y":-8,"width":250,"height":100,"type":"text","text":"Получение гаджетов, инструментов, оружия или улучшений для боса"},
 		{"id":"f5e9404c7b797d8f","x":981,"y":12,"width":250,"height":60,"type":"text","text":"Босс-файт"},
-		{"id":"68285a9f1bc8fb2c","x":255,"y":500,"width":250,"height":60,"type":"text","text":""},
-		{"id":"89cfa62db9f62330","x":240,"y":360,"width":250,"height":60,"type":"text","text":""}
+		{"id":"89cfa62db9f62330","x":240,"y":360,"width":250,"height":60,"type":"text","text":"Изучение животных"},
+		{"id":"68285a9f1bc8fb2c","x":240,"y":420,"width":250,"height":80,"type":"text","text":"Адаптация к локации (для игрока)"},
+		{"id":"5d9d299fa21813d8","x":240,"y":500,"width":250,"height":60,"type":"text","text":""}
 	],
 	"edges":[
 		{"id":"b557759005334dc5","fromNode":"f5ccfa73fe4bffe7","fromSide":"right","toNode":"7dea4824cee4143f","toSide":"left"},
