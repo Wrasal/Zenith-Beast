@@ -1,6 +1,9 @@
 {
 	"nodes":[
-		{"id":"80d9f3ebacb7fc3a","x":-160,"y":20,"width":250,"height":60,"type":"text","text":"Выбор экспедиции\n"}
+		{"id":"80d9f3ebacb7fc3a","type":"text","text":"Выбор экспедиции(миссии)\n","x":-160,"y":20,"width":260,"height":60},
+		{"id":"373b7dae6286956e","x":204,"y":22,"width":250,"height":60,"type":"text","text":""}
 	],
-	"edges":[]
+	"edges":[
+		{"id":"83da3e714fbfff4c","fromNode":"80d9f3ebacb7fc3a","fromSide":"right","toNode":"373b7dae6286956e","toSide":"left"}
+	]
 }
