@@ -1,6 +1,10 @@
 {
 	"nodes":[
-		{"id":"f5ccfa73fe4bffe7","x":-220,"y":-96,"width":260,"height":60,"type":"text","text":"Получение заказа на босса"}
+		{"id":"f5ccfa73fe4bffe7","x":-220,"y":-96,"width":260,"height":60,"type":"text","text":"Получение заказа на босса"},
+		{"id":"b02d384d16c59bdb","x":220,"y":-96,"width":250,"height":60,"type":"text","text":"Выполнение экспедиций"},
+		{"id":"bae92d70a7d39f37","x":220,"y":-36,"width":250,"height":60,"type":"text","text":""}
 	],
-	"edges":[]
+	"edges":[
+		{"id":"b557759005334dc5","fromNode":"f5ccfa73fe4bffe7","fromSide":"right","toNode":"b02d384d16c59bdb","toSide":"left"}
+	]
 }
