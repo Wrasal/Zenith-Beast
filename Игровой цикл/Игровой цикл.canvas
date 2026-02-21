@@ -8,7 +8,7 @@
 		{"id":"f5e9404c7b797d8f","type":"text","text":"Босс-файт","x":981,"y":12,"width":250,"height":60},
 		{"id":"89cfa62db9f62330","type":"text","text":"Изучение животных","x":260,"y":360,"width":250,"height":60},
 		{"id":"68285a9f1bc8fb2c","type":"text","text":"Адаптация к локации (для игрока)","x":260,"y":420,"width":250,"height":80},
-		{"id":"5d9d299fa21813d8","type":"text","text":"","x":260,"y":500,"width":250,"height":60}
+		{"id":"5d9d299fa21813d8","type":"text","text":"По этапное обучение","x":260,"y":500,"width":250,"height":60}
 	],
 	"edges":[
 		{"id":"b557759005334dc5","fromNode":"f5ccfa73fe4bffe7","fromSide":"right","toNode":"7dea4824cee4143f","toSide":"left"},
