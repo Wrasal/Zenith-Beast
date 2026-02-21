@@ -1,6 +1,7 @@
 {
 	"nodes":[
 		{"id":"7dea4824cee4143f","type":"group","x":200,"y":-116,"width":1140,"height":316,"label":"Сбор данных\\Подготовка для босса"},
+		{"id":"75ced021eeb3b8dc","x":600,"y":-740,"width":290,"height":480,"type":"group"},
 		{"id":"a38b2953eca533ad","type":"group","x":240,"y":340,"width":290,"height":360,"label":"Структура экспедиции"},
 		{"id":"f5ccfa73fe4bffe7","type":"text","text":"Получение заказа на босса","x":-220,"y":12,"width":260,"height":60},
 		{"id":"b02d384d16c59bdb","type":"text","text":"Выполнение экспедиций (миссий)","x":220,"y":12,"width":320,"height":60},
@@ -12,13 +13,14 @@
 		{"id":"a6d20faa1d053590","x":1492,"y":12,"width":328,"height":60,"type":"text","text":"Получение следующего задания"},
 		{"id":"d2b478ac958e9a30","x":260,"y":560,"width":250,"height":60,"type":"text","text":"Мини - босс (вариативно)"},
 		{"id":"1a69a7d4ccd35f2e","x":620,"y":-360,"width":250,"height":80,"type":"text","text":"Оружие или улучшения для него"},
-		{"id":"cc5ede05329eaf1c","x":620,"y":-420,"width":250,"height":60,"type":"text","text":""}
+		{"id":"cc5ede05329eaf1c","x":620,"y":-460,"width":250,"height":100,"type":"text","text":"Получения новых возможностей (мобильности, магии)"}
 	],
 	"edges":[
 		{"id":"b557759005334dc5","fromNode":"f5ccfa73fe4bffe7","fromSide":"right","toNode":"7dea4824cee4143f","toSide":"left"},
 		{"id":"84e27e1b789c4275","fromNode":"b02d384d16c59bdb","fromSide":"right","toNode":"1dde6e9fc5736805","toSide":"left"},
 		{"id":"3cdb9925736976d6","fromNode":"1dde6e9fc5736805","fromSide":"right","toNode":"f5e9404c7b797d8f","toSide":"left"},
 		{"id":"31e4c8a8c6f4f968","fromNode":"b02d384d16c59bdb","fromSide":"bottom","toNode":"a38b2953eca533ad","toSide":"top"},
-		{"id":"4e5284ecd41e33fb","fromNode":"f5e9404c7b797d8f","fromSide":"right","toNode":"a6d20faa1d053590","toSide":"left"}
+		{"id":"4e5284ecd41e33fb","fromNode":"f5e9404c7b797d8f","fromSide":"right","toNode":"a6d20faa1d053590","toSide":"left"},
+		{"id":"2ab775b33f9b5713","fromNode":"1dde6e9fc5736805","fromSide":"top","toNode":"75ced021eeb3b8dc","toSide":"bottom"}
 	]
 }
