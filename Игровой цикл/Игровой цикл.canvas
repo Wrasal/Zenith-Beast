@@ -1,7 +1,7 @@
 {
 	"nodes":[
 		{"id":"7dea4824cee4143f","type":"group","x":200,"y":-116,"width":1140,"height":316,"label":"Сбор данных\\Подготовка для босса"},
-		{"id":"a38b2953eca533ad","type":"group","x":240,"y":340,"width":290,"height":240,"label":"Структура экспедиции"},
+		{"id":"a38b2953eca533ad","type":"group","x":240,"y":340,"width":290,"height":360,"label":"Структура экспедиции"},
 		{"id":"f5ccfa73fe4bffe7","type":"text","text":"Получение заказа на босса","x":-220,"y":12,"width":260,"height":60},
 		{"id":"b02d384d16c59bdb","type":"text","text":"Выполнение экспедиций (миссий)","x":220,"y":12,"width":320,"height":60},
 		{"id":"1dde6e9fc5736805","type":"text","text":"Получение гаджетов, инструментов, оружия или улучшений для боса","x":620,"y":-8,"width":250,"height":100},
@@ -9,7 +9,8 @@
 		{"id":"89cfa62db9f62330","type":"text","text":"Изучение животных","x":260,"y":360,"width":250,"height":60},
 		{"id":"68285a9f1bc8fb2c","type":"text","text":"Адаптация к локации (для игрока)","x":260,"y":420,"width":250,"height":80},
 		{"id":"5d9d299fa21813d8","type":"text","text":"По этапное обучение","x":260,"y":500,"width":250,"height":60},
-		{"id":"a6d20faa1d053590","x":1492,"y":12,"width":328,"height":60,"type":"text","text":"Получение следующего задания"}
+		{"id":"a6d20faa1d053590","x":1492,"y":12,"width":328,"height":60,"type":"text","text":"Получение следующего задания"},
+		{"id":"d2b478ac958e9a30","x":260,"y":560,"width":250,"height":60,"type":"text","text":"Мини - босс (вариативно)"}
 	],
 	"edges":[
 		{"id":"b557759005334dc5","fromNode":"f5ccfa73fe4bffe7","fromSide":"right","toNode":"7dea4824cee4143f","toSide":"left"},
