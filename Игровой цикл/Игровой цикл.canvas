@@ -1,8 +1,8 @@
 {
 	"nodes":[
-		{"id":"7dea4824cee4143f","type":"group","x":200,"y":-116,"width":1140,"height":316,"label":"Сбор данных\\Подготовка для босса"},
-		{"id":"75ced021eeb3b8dc","x":600,"y":-740,"width":290,"height":480,"type":"group"},
+		{"id":"7dea4824cee4143f","type":"group","x":200,"y":-116,"width":740,"height":316,"label":"Сбор данных\\Подготовка для босса"},
 		{"id":"a38b2953eca533ad","type":"group","x":240,"y":340,"width":290,"height":360,"label":"Структура экспедиции"},
+		{"id":"75ced021eeb3b8dc","x":600,"y":-480,"width":290,"height":220,"type":"group"},
 		{"id":"f5ccfa73fe4bffe7","type":"text","text":"Получение заказа на босса","x":-220,"y":12,"width":260,"height":60},
 		{"id":"b02d384d16c59bdb","type":"text","text":"Выполнение экспедиций (миссий)","x":220,"y":12,"width":320,"height":60},
 		{"id":"1dde6e9fc5736805","type":"text","text":"Прогрессия ","x":620,"y":12,"width":250,"height":60},
@@ -10,11 +10,10 @@
 		{"id":"89cfa62db9f62330","type":"text","text":"Изучение животных","x":260,"y":360,"width":250,"height":60},
 		{"id":"68285a9f1bc8fb2c","type":"text","text":"Адаптация к локации (для игрока)","x":260,"y":420,"width":250,"height":80},
 		{"id":"5d9d299fa21813d8","type":"text","text":"По этапное обучение","x":260,"y":500,"width":250,"height":60},
-		{"id":"a6d20faa1d053590","x":1492,"y":12,"width":328,"height":60,"type":"text","text":"Получение следующего задания"},
 		{"id":"d2b478ac958e9a30","x":260,"y":560,"width":250,"height":60,"type":"text","text":"Мини - босс (вариативно)"},
 		{"id":"1a69a7d4ccd35f2e","x":620,"y":-360,"width":250,"height":80,"type":"text","text":"Оружие или улучшения для него"},
 		{"id":"cc5ede05329eaf1c","x":620,"y":-460,"width":250,"height":100,"type":"text","text":"Получения новых возможностей (мобильности, магии)"},
-		{"id":"be5803fd379e2a74","x":620,"y":-520,"width":250,"height":60,"type":"text","text":""}
+		{"id":"a6d20faa1d053590","x":1320,"y":12,"width":328,"height":60,"type":"text","text":"Получение следующего задания"}
 	],
 	"edges":[
 		{"id":"b557759005334dc5","fromNode":"f5ccfa73fe4bffe7","fromSide":"right","toNode":"7dea4824cee4143f","toSide":"left"},
