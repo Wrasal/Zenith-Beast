@@ -2,7 +2,7 @@
 	"nodes":[
 		{"id":"77b011108b3a591c","type":"group","x":925,"y":1560,"width":1080,"height":920,"label":"Кастомизация\\вариация"},
 		{"id":"5052942e63bf27e3","type":"group","x":-260,"y":-59,"width":318,"height":2899,"label":"Тип"},
-		{"id":"041aa1501bfa4ade","x":893,"y":832,"width":870,"height":388,"type":"group","label":"Кастомизация"},
+		{"id":"041aa1501bfa4ade","x":925,"y":820,"width":870,"height":571,"type":"group","label":"Кастомизация"},
 		{"id":"e89124da07ba5f77","type":"group","x":1175,"y":350,"width":290,"height":220,"label":"Патроны"},
 		{"id":"ef5077f5f47adeda","type":"group","x":675,"y":-80,"width":290,"height":160,"label":"Подтип"},
 		{"id":"0311083d09fd897e","type":"group","x":200,"y":-80,"width":290,"height":160,"label":"Вид"},
@@ -28,19 +28,19 @@
 		{"id":"98581adeb23af918","type":"text","text":"Дротики","x":965,"y":2310,"width":250,"height":60},
 		{"id":"03cee6d3d6bd17ac","type":"text","text":"Замораживающая","x":1545,"y":1600,"width":250,"height":60},
 		{"id":"5948c0db6c4ad359","type":"text","text":"Парализующий газ","x":1545,"y":1750,"width":250,"height":60},
-		{"id":"f91f36b70c5627d7","type":"text","text":"Приманки","x":1605,"y":2629,"width":250,"height":60},
-		{"id":"d6d3ad1a8fbab0ce","type":"text","text":"Ультразвуковой хлопок","x":1545,"y":1960,"width":250,"height":60},
 		{"id":"a7333a1149c5f1dc","type":"text","text":"[[Ловушка - паутина ]](тяжелая)","x":1545,"y":2080,"width":250,"height":60},
 		{"id":"1e810324bf0ff3cc","type":"text","text":"Метка","x":1545,"y":2250,"width":250,"height":60},
 		{"id":"585dd53ba0945b4b","type":"text","text":"Транквлизаторные","x":1545,"y":2380,"width":250,"height":70},
 		{"id":"8a0cf4cc8465c8c3","type":"text","text":"Встроенные гаджеты\\Магия","x":-220,"y":2689,"width":250,"height":60},
-		{"id":"6314953a7481d89b","type":"text","text":"ЗипЛайн","x":913,"y":852,"width":250,"height":60},
-		{"id":"ac96ddec3f2dd8b9","type":"text","text":"Дротики","x":913,"y":1060,"width":250,"height":60},
-		{"id":"929aa9211c57727c","type":"text","text":"Метка","x":1493,"y":1000,"width":250,"height":60},
-		{"id":"2be1af2824049d2e","type":"text","text":"Транквлизаторные","x":1493,"y":1130,"width":250,"height":70},
 		{"id":"03d02f8c14e375ef","type":"text","text":"Дым","x":360,"y":2499,"width":250,"height":60},
 		{"id":"eccb37dc747c4e91","type":"text","text":"[[Крюк кошка]]","x":360,"y":2749,"width":250,"height":60},
-		{"id":"108967091933c3a5","type":"text","text":"Сканер животного ","x":360,"y":2869,"width":250,"height":60}
+		{"id":"108967091933c3a5","type":"text","text":"Сканер животного ","x":360,"y":2869,"width":250,"height":60},
+		{"id":"6314953a7481d89b","type":"text","text":"ЗипЛайн","x":945,"y":852,"width":250,"height":60},
+		{"id":"ac96ddec3f2dd8b9","type":"text","text":"Дротики","x":945,"y":1060,"width":250,"height":60},
+		{"id":"929aa9211c57727c","type":"text","text":"Метка","x":1525,"y":1000,"width":250,"height":60},
+		{"id":"2be1af2824049d2e","type":"text","text":"Транквлизаторные","x":1525,"y":1130,"width":250,"height":70},
+		{"id":"923e7add7f48f3ef","type":"text","text":"[[Ловушка - паутина ]](тяжелая)","x":360,"y":2320,"width":250,"height":60},
+		{"id":"f91f36b70c5627d7","type":"text","text":"Приманки","x":1620,"y":2689,"width":250,"height":60}
 	],
 	"edges":[
 		{"id":"5f5036dc91e620ba","fromNode":"e2fd1dd3c11630a3","fromSide":"right","toNode":"104c1c778f2d20bd","toSide":"left"},
@@ -50,15 +50,12 @@
 		{"id":"a417493d77c3ef6b","fromNode":"8a0cf4cc8465c8c3","fromSide":"right","toNode":"eccb37dc747c4e91","toSide":"left"},
 		{"id":"2e1efe2be9b9aeec","fromNode":"8a0cf4cc8465c8c3","fromSide":"right","toNode":"108967091933c3a5","toSide":"left"},
 		{"id":"a0ffb64ec83bd5ed","fromNode":"8a0cf4cc8465c8c3","fromSide":"right","toNode":"03d02f8c14e375ef","toSide":"left"},
-		{"id":"1e18b1abdedf4461","fromNode":"0b37fc47618f2272","fromSide":"right","toNode":"d6d3ad1a8fbab0ce","toSide":"left"},
-		{"id":"43173272cb3d7fea","fromNode":"2f4c767950df110f","fromSide":"right","toNode":"d6d3ad1a8fbab0ce","toSide":"left"},
 		{"id":"cdd9bc2e7d2e997a","fromNode":"0b37fc47618f2272","fromSide":"right","toNode":"03cee6d3d6bd17ac","toSide":"left"},
 		{"id":"2bee8bd376d2d7d9","fromNode":"8a0cf4cc8465c8c3","fromSide":"right","toNode":"f91f36b70c5627d7","toSide":"left"},
 		{"id":"ca2389288ac915c8","fromNode":"bff1430a68c14f7d","fromSide":"right","toNode":"0311083d09fd897e","toSide":"left"},
 		{"id":"b45e51d4ea087b00","fromNode":"ef5077f5f47adeda","fromSide":"right","toNode":"a9ef2890c4eef02c","toSide":"left"},
 		{"id":"b6682edf41c05f3a","fromNode":"98581adeb23af918","fromSide":"right","toNode":"585dd53ba0945b4b","toSide":"left"},
 		{"id":"ab4f163c32b5a3c0","fromNode":"98581adeb23af918","fromSide":"right","toNode":"1e810324bf0ff3cc","toSide":"left"},
-		{"id":"8b8e16bfe035d59e","fromNode":"98581adeb23af918","fromSide":"right","toNode":"d6d3ad1a8fbab0ce","toSide":"left"},
 		{"id":"ecdb29e37d240ea7","fromNode":"0b37fc47618f2272","fromSide":"right","toNode":"f91f36b70c5627d7","toSide":"left"},
 		{"id":"32da7b8985f19b55","fromNode":"0311083d09fd897e","fromSide":"right","toNode":"ef5077f5f47adeda","toSide":"left"},
 		{"id":"39e5999f08cc4d7d","fromNode":"95fa6ddb96c2003f","fromSide":"right","toNode":"4de633c6a97ee58c","toSide":"left"},
@@ -67,6 +64,7 @@
 		{"id":"404b1e70081c7b0e","fromNode":"6ac88285b94a22ef","fromSide":"right","toNode":"77b011108b3a591c","toSide":"left"},
 		{"id":"26db5bb36bb15567","fromNode":"b3ba84c103d661c1","fromSide":"right","toNode":"041aa1501bfa4ade","toSide":"left"},
 		{"id":"4964adf2032bd591","fromNode":"ac96ddec3f2dd8b9","fromSide":"right","toNode":"2be1af2824049d2e","toSide":"left"},
-		{"id":"ce3cb2f8cd7fa87c","fromNode":"ac96ddec3f2dd8b9","fromSide":"right","toNode":"929aa9211c57727c","toSide":"left"}
+		{"id":"ce3cb2f8cd7fa87c","fromNode":"ac96ddec3f2dd8b9","fromSide":"right","toNode":"929aa9211c57727c","toSide":"left"},
+		{"id":"3889c5e71b0526da","fromNode":"8a0cf4cc8465c8c3","fromSide":"right","toNode":"923e7add7f48f3ef","toSide":"left"}
 	]
 }
