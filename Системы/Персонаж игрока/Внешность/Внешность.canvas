@@ -1,7 +1,8 @@
 {
 	"nodes":[
-		{"id":"1e0fea9a37189f9a","x":-155,"y":-150,"width":319,"height":400,"type":"file","file":"Системы/Персонаж игрока/Внешность/3eb296acda325c19a6fb3d65f7d33ea7.jpg"},
-		{"id":"b98a05d6d8e7ff30","x":-420,"y":-260,"width":301,"height":400,"type":"file","file":"Системы/Персонаж игрока/Внешность/4ae3bad8d7977aa076ab1c9b6fcd7dff.jpg"}
+		{"id":"b98a05d6d8e7ff30","type":"file","file":"Системы/Персонаж игрока/Внешность/4ae3bad8d7977aa076ab1c9b6fcd7dff.jpg","x":-520,"y":-550,"width":301,"height":400},
+		{"id":"960b5f7969c0110c","type":"file","file":"Системы/Персонаж игрока/Внешность/ab34ef85ed768ccb85a65d5a6eac0230.jpg","x":-809,"y":-550,"width":289,"height":400},
+		{"id":"1e0fea9a37189f9a","type":"file","file":"Системы/Персонаж игрока/Внешность/3eb296acda325c19a6fb3d65f7d33ea7.jpg","x":-180,"y":0,"width":319,"height":400}
 	],
 	"edges":[]
 }
