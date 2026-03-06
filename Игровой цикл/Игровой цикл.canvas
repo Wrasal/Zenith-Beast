@@ -1,7 +1,7 @@
 {
 	"nodes":[
 		{"id":"7dea4824cee4143f","type":"group","x":200,"y":-116,"width":740,"height":316,"label":"Сбор данных\\Подготовка для босса"},
-		{"id":"a38b2953eca533ad","type":"group","x":240,"y":340,"width":290,"height":360,"label":"Структура экспедиции"},
+		{"id":"a38b2953eca533ad","type":"group","x":240,"y":340,"width":290,"height":320,"label":"Структура экспедиции"},
 		{"id":"75ced021eeb3b8dc","type":"group","x":600,"y":-480,"width":290,"height":220},
 		{"id":"f5ccfa73fe4bffe7","type":"text","text":"Получение заказа на босса","x":-220,"y":12,"width":260,"height":60},
 		{"id":"b02d384d16c59bdb","type":"text","text":"Выполнение экспедиций (миссий)","x":220,"y":12,"width":320,"height":60},
