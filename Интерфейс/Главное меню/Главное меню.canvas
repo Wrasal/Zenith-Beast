@@ -1,7 +1,7 @@
 {
 	"nodes":[
 		{"id":"9b48a4ee89dae74b","x":-440,"y":-200,"width":250,"height":50,"type":"text","text":"Продолжить"},
-		{"id":"e9209136b2de8c3a","type":"text","text":"Начать новую игру","x":-125,"y":-25,"width":250,"height":50}
+		{"id":"e9209136b2de8c3a","type":"text","text":"Начать новую игру ","x":-125,"y":-25,"width":250,"height":50}
 	],
 	"edges":[]
 }
