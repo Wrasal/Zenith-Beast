@@ -1,14 +1,16 @@
 {
 	"nodes":[
 		{"id":"60e6bce93effb57d","type":"text","text":"Настройки","x":-440,"y":-150,"width":250,"height":50},
-		{"id":"79ea0dbc413a16b0","type":"text","text":"Выйти","x":-440,"y":-100,"width":250,"height":50},
-		{"id":"a738e3cf4dd1fab6","x":272,"y":-421,"width":250,"height":60,"type":"text","text":"Запускает игру с последнего сохранения"},
+		{"id":"79ea0dbc413a16b0","type":"text","text":"Выйти из игры","x":-440,"y":-100,"width":250,"height":50},
+		{"id":"a738e3cf4dd1fab6","type":"text","text":"Запускает игру с последнего сохранения","x":272,"y":-421,"width":250,"height":60},
 		{"id":"9b48a4ee89dae74b","type":"text","text":"Продолжить","x":-440,"y":-250,"width":250,"height":50},
 		{"id":"e9209136b2de8c3a","type":"text","text":"Начать новую игру ","x":-440,"y":-200,"width":250,"height":50},
-		{"id":"03a0f8a403c2f6be","x":272,"y":-361,"width":250,"height":60,"type":"text","text":"Запускает игру с нуля"}
+		{"id":"03a0f8a403c2f6be","type":"text","text":"Запускает игру с нуля","x":272,"y":-361,"width":250,"height":60},
+		{"id":"9b6487bef19f606e","x":272,"y":-250,"width":400,"height":400,"type":"file","file":"Интерфейс/Главное меню/Настройки главного меню/Настройки главного меню.canvas"}
 	],
 	"edges":[
 		{"id":"6f3ba19842a660f3","fromNode":"9b48a4ee89dae74b","fromSide":"right","toNode":"a738e3cf4dd1fab6","toSide":"left"},
-		{"id":"aa0cd5fcedfac6e9","fromNode":"e9209136b2de8c3a","fromSide":"right","toNode":"03a0f8a403c2f6be","toSide":"left"}
+		{"id":"aa0cd5fcedfac6e9","fromNode":"e9209136b2de8c3a","fromSide":"right","toNode":"03a0f8a403c2f6be","toSide":"left"},
+		{"id":"c781497a0bd251cf","fromNode":"60e6bce93effb57d","fromSide":"right","toNode":"9b6487bef19f606e","toSide":"left"}
 	]
 }
