@@ -1,6 +1,6 @@
 {
 	"nodes":[
-		{"id":"74953a7999871e18","type":"group","x":660,"y":1240,"width":1660,"height":400,"label":"Экспедиция"},
+		{"id":"74953a7999871e18","type":"group","x":1040,"y":1120,"width":1660,"height":540,"label":"Экспедиция"},
 		{"id":"7dea4824cee4143f","type":"group","x":200,"y":-116,"width":740,"height":316,"label":"Сбор данных\\Подготовка для босса"},
 		{"id":"a38b2953eca533ad","type":"group","x":240,"y":340,"width":290,"height":320,"label":"Структура экспедиции"},
 		{"id":"75ced021eeb3b8dc","type":"group","x":600,"y":-480,"width":290,"height":220},
@@ -19,15 +19,16 @@
 		{"id":"55f921869ec61994","type":"text","text":"Новая игра","x":-260,"y":1400,"width":250,"height":60},
 		{"id":"81be22ec81646993","type":"text","text":"Продолжить","x":-260,"y":1520,"width":250,"height":60},
 		{"id":"b3032d559bf3a869","type":"text","text":"Запуск миссии","x":220,"y":1400,"width":250,"height":60},
-		{"id":"d3179178b90f2296","type":"text","text":"45–90 минут","x":740,"y":1260,"width":250,"height":60},
-		{"id":"4eacd93202779cd9","type":"text","text":"Изучение локации","x":1060,"y":1340,"width":250,"height":60},
-		{"id":"747f2f0b3411411b","type":"text","text":"Подготовка локации","x":1380,"y":1340,"width":250,"height":60},
-		{"id":"9c75adde3f05e890","type":"text","text":"Выполнение задания","x":1700,"y":1340,"width":250,"height":60},
-		{"id":"6cdb6131ad536a4e","type":"text","text":"Победа","x":2020,"y":1340,"width":250,"height":60,"color":"4"},
-		{"id":"0729102898972cf7","type":"text","text":"Поражение","x":1380,"y":1500,"width":250,"height":60,"color":"1"},
-		{"id":"7a821d542dc45d2d","type":"text","text":"Запуск миссии","x":740,"y":1340,"width":250,"height":60},
-		{"id":"2ae17e6bebe4eabd","type":"text","text":"# Игра","x":660,"y":1100,"width":340,"height":80},
-		{"id":"331a29914171b7eb","type":"text","text":"# Главное меню","x":-260,"y":1100,"width":380,"height":80}
+		{"id":"331a29914171b7eb","type":"text","text":"# Главное меню","x":-260,"y":1100,"width":380,"height":80},
+		{"id":"4eacd93202779cd9","type":"text","text":"Изучение локации","x":1440,"y":1360,"width":250,"height":60},
+		{"id":"747f2f0b3411411b","type":"text","text":"Подготовка локации","x":1760,"y":1360,"width":250,"height":60},
+		{"id":"9c75adde3f05e890","type":"text","text":"Выполнение задания","x":2080,"y":1360,"width":250,"height":60},
+		{"id":"6cdb6131ad536a4e","type":"text","text":"Победа","x":2400,"y":1360,"width":250,"height":60,"color":"4"},
+		{"id":"0729102898972cf7","type":"text","text":"Поражение","x":1760,"y":1520,"width":250,"height":60,"color":"1"},
+		{"id":"2ae17e6bebe4eabd","type":"text","text":"Средняя длительность 1 экспедиции - **45–90 минут**","x":1120,"y":1180,"width":560,"height":60},
+		{"id":"7a821d542dc45d2d","type":"text","text":"Запуск миссии","x":720,"y":1360,"width":250,"height":60},
+		{"id":"7435e64bccecc47c","type":"text","text":"Начало экспедиции","x":1120,"y":1360,"width":250,"height":60},
+		{"id":"337fa7e451684df9","x":2760,"y":1360,"width":250,"height":60,"type":"text","text":""}
 	],
 	"edges":[
 		{"id":"b557759005334dc5","fromNode":"f5ccfa73fe4bffe7","fromSide":"right","toNode":"7dea4824cee4143f","toSide":"left"},
@@ -45,8 +46,10 @@
 		{"id":"cb098d20a1f5660d","fromNode":"4eacd93202779cd9","fromSide":"bottom","toNode":"0729102898972cf7","toSide":"top"},
 		{"id":"db3604f329ac9523","fromNode":"747f2f0b3411411b","fromSide":"bottom","toNode":"0729102898972cf7","toSide":"top"},
 		{"id":"e1d93b54816f6716","fromNode":"9c75adde3f05e890","fromSide":"bottom","toNode":"0729102898972cf7","toSide":"top"},
-		{"id":"ab3f8b77de8bd76a","fromNode":"b3032d559bf3a869","fromSide":"right","toNode":"74953a7999871e18","toSide":"left"},
+		{"id":"ab3f8b77de8bd76a","fromNode":"b3032d559bf3a869","fromSide":"right","toNode":"7a821d542dc45d2d","toSide":"left"},
 		{"id":"98803a52f003dcf9","fromNode":"0729102898972cf7","fromSide":"left","toNode":"7a821d542dc45d2d","toSide":"bottom"},
-		{"id":"c7c09dd08dec9870","fromNode":"7a821d542dc45d2d","fromSide":"right","toNode":"4eacd93202779cd9","toSide":"left"}
+		{"id":"c7c09dd08dec9870","fromNode":"7a821d542dc45d2d","fromSide":"right","toNode":"7435e64bccecc47c","toSide":"left"},
+		{"id":"b4a83454240046f1","fromNode":"7435e64bccecc47c","fromSide":"right","toNode":"4eacd93202779cd9","toSide":"left"},
+		{"id":"6140974e7860e38f","fromNode":"6cdb6131ad536a4e","fromSide":"right","toNode":"337fa7e451684df9","toSide":"left"}
 	]
 }
