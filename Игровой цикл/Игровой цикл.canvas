@@ -1,20 +1,32 @@
 {
 	"nodes":[
+		{"id":"74953a7999871e18","x":1040,"y":1000,"width":1260,"height":320,"type":"group","label":"Миссия"},
 		{"id":"7dea4824cee4143f","type":"group","x":200,"y":-116,"width":740,"height":316,"label":"Сбор данных\\Подготовка для босса"},
 		{"id":"a38b2953eca533ad","type":"group","x":240,"y":340,"width":290,"height":320,"label":"Структура экспедиции"},
 		{"id":"75ced021eeb3b8dc","type":"group","x":600,"y":-480,"width":290,"height":220},
 		{"id":"f5ccfa73fe4bffe7","type":"text","text":"Получение заказа на босса","x":-220,"y":12,"width":260,"height":60},
 		{"id":"b02d384d16c59bdb","type":"text","text":"Выполнение экспедиций (миссий)","x":220,"y":12,"width":320,"height":60},
+		{"id":"362d62d029d3b7f4","type":"text","text":"Награда за босса","x":981,"y":300,"width":250,"height":60},
 		{"id":"1dde6e9fc5736805","type":"text","text":"Прогрессия ","x":620,"y":12,"width":250,"height":60},
 		{"id":"f5e9404c7b797d8f","type":"text","text":"Босс-файт","x":981,"y":12,"width":250,"height":60},
 		{"id":"1a69a7d4ccd35f2e","type":"text","text":"Оружие или улучшения для него","x":620,"y":-360,"width":250,"height":80},
 		{"id":"cc5ede05329eaf1c","type":"text","text":"Получения новых возможностей (мобильности, магии)","x":620,"y":-460,"width":250,"height":100},
 		{"id":"a6d20faa1d053590","type":"text","text":"Получение следующего задания","x":1320,"y":12,"width":328,"height":60},
-		{"id":"362d62d029d3b7f4","type":"text","text":"Награда за босса","x":981,"y":300,"width":250,"height":60},
 		{"id":"89cfa62db9f62330","type":"text","text":"Изучение животных\n[[Слабые места]]","x":260,"y":360,"width":250,"height":80},
 		{"id":"68285a9f1bc8fb2c","type":"text","text":"Адаптация к локации (для игрока)","x":260,"y":440,"width":250,"height":80},
 		{"id":"5d9d299fa21813d8","type":"text","text":"По этапное обучение","x":260,"y":520,"width":250,"height":60},
-		{"id":"d2b478ac958e9a30","type":"text","text":"Мини - босс (вариативно)","x":260,"y":580,"width":250,"height":60}
+		{"id":"d2b478ac958e9a30","type":"text","text":"Мини - босс (вариативно)","x":260,"y":580,"width":250,"height":60},
+		{"id":"55f921869ec61994","type":"text","text":"Новая игра","x":-220,"y":1120,"width":250,"height":60},
+		{"id":"331a29914171b7eb","type":"text","text":"# Главное меню","x":-220,"y":961,"width":380,"height":60},
+		{"id":"2ae17e6bebe4eabd","type":"text","text":"# Игра","x":580,"y":961,"width":250,"height":60},
+		{"id":"81be22ec81646993","type":"text","text":"Продолжить","x":-220,"y":1240,"width":250,"height":60},
+		{"id":"b3032d559bf3a869","x":260,"y":1120,"width":250,"height":60,"type":"text","text":"Запуск мира"},
+		{"id":"4eacd93202779cd9","type":"text","text":"Изучение локации","x":1060,"y":1020,"width":250,"height":60},
+		{"id":"747f2f0b3411411b","x":1380,"y":1020,"width":250,"height":60,"type":"text","text":"Подготовка локации"},
+		{"id":"0729102898972cf7","type":"text","text":"Поражение","x":1380,"y":1180,"width":250,"height":60,"color":"1"},
+		{"id":"9c75adde3f05e890","type":"text","text":"Выполнение задания","x":1700,"y":1020,"width":250,"height":60},
+		{"id":"6cdb6131ad536a4e","x":2020,"y":1020,"width":250,"height":60,"color":"4","type":"text","text":"Победа"},
+		{"id":"915789bc735ed0c5","x":600,"y":1120,"width":250,"height":60,"type":"text","text":"Запуск миссии"}
 	],
 	"edges":[
 		{"id":"b557759005334dc5","fromNode":"f5ccfa73fe4bffe7","fromSide":"right","toNode":"7dea4824cee4143f","toSide":"left"},
@@ -23,6 +35,15 @@
 		{"id":"31e4c8a8c6f4f968","fromNode":"b02d384d16c59bdb","fromSide":"bottom","toNode":"a38b2953eca533ad","toSide":"top"},
 		{"id":"4e5284ecd41e33fb","fromNode":"f5e9404c7b797d8f","fromSide":"right","toNode":"a6d20faa1d053590","toSide":"left"},
 		{"id":"2ab775b33f9b5713","fromNode":"1dde6e9fc5736805","fromSide":"top","toNode":"75ced021eeb3b8dc","toSide":"bottom"},
-		{"id":"c73c3a03e67a7e1a","fromNode":"f5e9404c7b797d8f","fromSide":"bottom","toNode":"362d62d029d3b7f4","toSide":"top"}
+		{"id":"c73c3a03e67a7e1a","fromNode":"f5e9404c7b797d8f","fromSide":"bottom","toNode":"362d62d029d3b7f4","toSide":"top"},
+		{"id":"b8d5b3950a5d9e30","fromNode":"81be22ec81646993","fromSide":"right","toNode":"b3032d559bf3a869","toSide":"left","label":"Подгрузка сохранения"},
+		{"id":"9cd927531b33301f","fromNode":"55f921869ec61994","fromSide":"right","toNode":"b3032d559bf3a869","toSide":"left"},
+		{"id":"8a9ab364ee25c64d","fromNode":"4eacd93202779cd9","fromSide":"right","toNode":"747f2f0b3411411b","toSide":"left"},
+		{"id":"dfb86675779b0899","fromNode":"747f2f0b3411411b","fromSide":"right","toNode":"9c75adde3f05e890","toSide":"left"},
+		{"id":"ede4a2c1609f4892","fromNode":"9c75adde3f05e890","fromSide":"right","toNode":"6cdb6131ad536a4e","toSide":"left"},
+		{"id":"cb098d20a1f5660d","fromNode":"4eacd93202779cd9","fromSide":"bottom","toNode":"0729102898972cf7","toSide":"top"},
+		{"id":"db3604f329ac9523","fromNode":"747f2f0b3411411b","fromSide":"bottom","toNode":"0729102898972cf7","toSide":"top"},
+		{"id":"e1d93b54816f6716","fromNode":"9c75adde3f05e890","fromSide":"bottom","toNode":"0729102898972cf7","toSide":"top"},
+		{"id":"f05a022f36625c95","fromNode":"b3032d559bf3a869","fromSide":"right","toNode":"915789bc735ed0c5","toSide":"left"}
 	]
 }
