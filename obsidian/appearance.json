@@ -1,0 +1,12 @@
+{
+  "cssTheme": "ITS Theme",
+  "enabledCssSnippets": [
+    "paragraph",
+    "paragraph v2"
+  ],
+  "showRibbon": true,
+  "accentColor": "#000000",
+  "baseFontSizeAction": false,
+  "showViewHeader": true,
+  "nativeMenus": false
+}

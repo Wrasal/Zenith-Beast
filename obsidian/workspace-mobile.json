@@ -1,0 +1,276 @@
+{
+  "main": {
+    "id": "5324373015726ba8",
+    "type": "split",
+    "children": [
+      {
+        "id": "4509724f8bf84da7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e7a7b303c61786dc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Потенциалы/В работе/Темпус/Темпус.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Темпус"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5522d46180b6493d",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "3d9c364204cf8bb7",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical",
+            "autoReveal": false
+          },
+          "icon": "lucide-folder-closed",
+          "title": "Файловый менеджер"
+        }
+      },
+      {
+        "id": "202ce69ffceb01c9",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "Кейн",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-search",
+          "title": "Поиск"
+        }
+      },
+      {
+        "id": "06c6f195283ebc56",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-ghost",
+          "title": "tag"
+        }
+      },
+      {
+        "id": "2151d66e2a5c232b",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {},
+          "icon": "lucide-bookmark",
+          "title": "Закладки"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "23e882935745954e",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "5bb9bf33dc20029d",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "Системное/Шаблоны/♾ Цикл.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-coming-in",
+          "title": "Обратные ссылки"
+        }
+      },
+      {
+        "id": "db21bd8af884008f",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "Персонаж/Агашаяди/Эспада/Семь добродетелей/Гэбрил.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-going-out",
+          "title": "Исходящие ссылки"
+        }
+      },
+      {
+        "id": "8cb2bd6162fecfc5",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {},
+          "icon": "lucide-ghost",
+          "title": "outline"
+        }
+      },
+      {
+        "id": "d54303417969336a",
+        "type": "leaf",
+        "state": {
+          "type": "CALENDARIUM",
+          "state": {
+            "calendar": "ID_59fbb93b0bf9",
+            "ephemeral": {
+              "viewing": {
+                "day": 1,
+                "month": 5,
+                "year": 9
+              },
+              "viewState": 1,
+              "displaying": {
+                "day": 1,
+                "month": 5,
+                "year": 9
+              },
+              "displayDayNumber": false,
+              "displayMoons": true
+            },
+            "id": "ID_6b797a7b59ca"
+          },
+          "icon": "lucide-ghost",
+          "title": "CALENDARIUM"
+        }
+      },
+      {
+        "id": "36ae36aaabc4c1db",
+        "type": "leaf",
+        "state": {
+          "type": "CALENDARIUM",
+          "state": {
+            "calendar": "ID_583be99bcbc9",
+            "ephemeral": {
+              "viewState": 1,
+              "displaying": {
+                "day": 6,
+                "month": 9,
+                "year": 2324
+              },
+              "displayDayNumber": false,
+              "displayMoons": true
+            },
+            "id": "ID_3b686a6a8a4a"
+          },
+          "icon": "lucide-ghost",
+          "title": "CALENDARIUM"
+        }
+      },
+      {
+        "id": "2ff65a24d376dd00",
+        "type": "leaf",
+        "state": {
+          "type": "CALENDARIUM_AGENDA",
+          "state": {
+            "id": "ID_49989918392b",
+            "parent": "ID_6b797a7b59ca"
+          },
+          "icon": "lucide-ghost",
+          "title": "CALENDARIUM_AGENDA"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:Создать новую базу": false,
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "command-palette:Открыть палитру команд": false,
+      "canvas:Создать новый холст": false,
+      "remotely-save:Remotely Save": false,
+      "templater-obsidian:Templater": false,
+      "custom-sort:Toggle custom sorting": false
+    }
+  },
+  "active": "e7a7b303c61786dc",
+  "lastOpenFiles": [
+    "Потенциалы/Потенциалы.md",
+    "Потенциалы/В работе/Темпус/Темпус.md",
+    "Потенциалы/В работе/Хейв/Хейв.md",
+    "Потенциалы/В работе/Хейв",
+    "Потенциалы/В работе/Сonfessa",
+    "Системное/Шаблоны/♾ Цикл.md",
+    "Системное/Шаблоны/☣ Обновить.md",
+    "Системное/Гайды/Цикличный алгоритм описания окружения.md",
+    "Системное/Гайды/Как писать окружение.md",
+    "Системное/Гайды/Алгоритм описания окружения.md",
+    "Системное/Гайды/Без названия.md",
+    "Системное/Размеры Сollout.md",
+    "Без названия.base",
+    "Системное/Гайды",
+    "Потенциалы/В работе/Прибытие Ванильное/Прибытие Ванильное.md",
+    "Ядро/Теги.md",
+    "Ядро/Ось мира.md",
+    "Ядро/Без названия.md",
+    "Системное/Шаблоны/Дата на Эдеме.md",
+    "Системное/Шаблоны/Дата на Земле.md",
+    "Потенциалы/Готово/Откровение/Откровение.pdf",
+    "Потенциалы/В работе/Прибытие Ванильное",
+    "Потенциалы/В работе/Сизифова оранжерея/Сизифова оранжерея.md",
+    "Потенциалы/В работе/Хейв.md",
+    "Потенциалы/Готово/Откровение/Откровение.md",
+    "Потенциалы/Готово/Откровение/Откровение-(AI).png",
+    "Потенциалы/Готово/Откровение",
+    "Потенциалы/Готово",
+    "Системное/Шаблоны/💬 Цитата.md",
+    "Потенциалы/В работе/Откровение/Откровение.md",
+    "Системное/Шаблоны/⚓ Потенциал.md",
+    "Потенциалы/В работе/Темпус",
+    "Потенциалы/Старые Версии/Откровение V0.1.md",
+    "Системное/Шаблоны/🏷 Статус.md",
+    "Ядро/Ядро.md",
+    "Потенциалы/Готовое",
+    "Потенциалы/В работе/Откровение/Откровение-(AI).png",
+    "Ядро/Вдохновение/Цитатник.md",
+    "Партия/Партия.canvas",
+    "Babylon's Limit/Babylon's Limit.canvas",
+    "System/Files/Старое/2024-08-17_02-08-17.png",
+    "System/Files/Старое/2024-09-10_01-53-36.png",
+    "System/Files/Старое/2024-09-10_01-53-44.png",
+    "System/Files/Старое/2024-09-10_01-54-02.png",
+    "System/Files/Старое/2024-09-10_01-54-49.png",
+    "System/Files/Старое/2024-09-10_01-54-44.png",
+    "System/Files/Старое/2024-09-10_01-54-34.png",
+    "System/Files/Старое/2024-09-10_01-54-29.png",
+    "Сюжет/Весь сюжет.canvas",
+    "Агашаяд/Персонажи/Эспада/Смертные грехи/Смертные грехи.canvas",
+    "Без названия.canvas",
+    "Канон/Фракции/Хейв/Семья Хейв/Фамильное дерево Хейв.canvas",
+    "Канон/Фракции/Гражданские Вавилона/Академия Эдельвейс/Дерево Академии.canvas",
+    "Фракции/Зенит/Хейв/Семья/Фамильное дерево Хейв.canvas",
+    "Фракции/Зенит/Гражданские Вавилона/Академия Эдельвейс/Дерево Академии.canvas",
+    "Зенит/Фракции/Хейв/Семья/Фамильное дерево Хейв.canvas"
+  ]
+}
