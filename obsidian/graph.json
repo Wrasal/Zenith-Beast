@@ -1,0 +1,58 @@
+{
+  "collapse-filter": false,
+  "search": "",
+  "showTags": true,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": true,
+  "colorGroups": [
+    {
+      "query": "path:Агашаяд  ",
+      "color": {
+        "a": 1,
+        "rgb": 930699
+      }
+    },
+    {
+      "query": "path:Вечность  ",
+      "color": {
+        "a": 1,
+        "rgb": 6753883
+      }
+    },
+    {
+      "query": "path:Протомагия  ",
+      "color": {
+        "a": 1,
+        "rgb": 1330952
+      }
+    },
+    {
+      "query": "path:System  ",
+      "color": {
+        "a": 1,
+        "rgb": 0
+      }
+    },
+    {
+      "query": "tag:#Персонаж  ",
+      "color": {
+        "a": 1,
+        "rgb": 65280
+      }
+    }
+  ],
+  "collapse-display": true,
+  "showArrow": false,
+  "textFadeMultiplier": 0,
+  "nodeSizeMultiplier": 1,
+  "lineSizeMultiplier": 0.495572916666667,
+  "collapse-forces": true,
+  "centerStrength": 0.528645833333333,
+  "repelStrength": 9.21875,
+  "linkStrength": 1,
+  "linkDistance": 30,
+  "scale": 0.45050811767579196,
+  "close": false
+}

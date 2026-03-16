@@ -1,0 +1,26 @@
+{
+  "livePreview": false,
+  "trashOption": "local",
+  "alwaysUpdateLinks": true,
+  "newFileLocation": "folder",
+  "attachmentFolderPath": "./",
+  "promptDelete": false,
+  "showInlineTitle": false,
+  "propertiesInDocument": "visible",
+  "tabSize": 4,
+  "useMarkdownLinks": false,
+  "defaultViewMode": "preview",
+  "readableLineLength": true,
+  "strictLineBreaks": false,
+  "foldHeading": true,
+  "showLineNumber": false,
+  "rightToLeft": false,
+  "newFileFolderPath": "Потенциалы/В рабое",
+  "pdfExportSettings": {
+    "includeName": true,
+    "pageSize": "A4",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  }
+}
