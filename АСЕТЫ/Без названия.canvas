@@ -1,16 +1,27 @@
 {
 	"nodes":[
-		{"id":"4ab6c9adda607a6c","x":-118,"y":-171,"width":250,"height":60,"type":"text","text":"ТОЧКИ ИНТЕРЕСА\n"},
-		{"id":"4c9d44d4f1bb4c73","x":-480,"y":-20,"width":250,"height":60,"type":"text","text":"ПРИЗНАКИ ПРИСУТСТВИЯ\n"},
-		{"id":"b134378966532460","x":-77,"y":55,"width":250,"height":60,"type":"text","text":"ОКРУЖЕНИЯ"},
-		{"id":"5883f5c9b9218fdf","x":-305,"y":251,"width":250,"height":60,"type":"text","text":"РАСТЕНИЕ"},
-		{"id":"c7dd677c3f783714","x":93,"y":262,"width":250,"height":60,"type":"text","text":"КАМНИ"},
-		{"id":"dc2bbf977f8fc630","x":182,"y":-12,"width":250,"height":60,"type":"text","text":"ЛУТ ОБЬЕКТ\n"}
+		{"id":"4ab6c9adda607a6c","type":"text","text":"ТОЧКИ ИНТЕРЕСА","x":-140,"y":-380,"width":250,"height":60},
+		{"id":"b134378966532460","type":"text","text":"ОКРУЖЕНе","x":660,"y":-380,"width":250,"height":60},
+		{"id":"5883f5c9b9218fdf","type":"text","text":"РАСТЕНИя","x":660,"y":-240,"width":250,"height":60},
+		{"id":"c7dd677c3f783714","type":"text","text":"КАМНИ","x":1040,"y":-240,"width":250,"height":60},
+		{"id":"46c47559b6c9e0e5","type":"text","text":"Титанические","x":660,"y":160,"width":250,"height":60},
+		{"id":"e9ddd8404eecb08a","type":"text","text":"Деревья","x":235,"y":160,"width":250,"height":60},
+		{"id":"646fdfd0bfc0e503","type":"text","text":"","x":660,"y":244,"width":250,"height":60},
+		{"id":"4c9d44d4f1bb4c73","type":"text","text":"ПРИЗНАКИ ПРИСУТСТВИЯ","x":-140,"y":-240,"width":250,"height":60},
+		{"id":"dc2bbf977f8fc630","type":"text","text":"ЛУТ ОБЬЕКТ","x":235,"y":-240,"width":250,"height":60},
+		{"id":"6a71362ff80c3d04","type":"text","text":"# Взрослые\nОгромные круглые стволы простирающиеся высоко вверх. Формируют своей листвой подобие зеленой крыши.","x":1080,"y":60,"width":300,"height":160},
+		{"id":"b31be396f95306a3","type":"text","text":"# Молодые","x":1080,"y":244,"width":300,"height":160},
+		{"id":"1702f9eb4ae6096c","x":1540,"y":-24,"width":400,"height":268,"type":"file","file":"АСЕТЫ/Pasted image 20260319185649.png"}
 	],
 	"edges":[
 		{"id":"de02e922502d28bb","fromNode":"4ab6c9adda607a6c","fromSide":"bottom","toNode":"4c9d44d4f1bb4c73","toSide":"top"},
 		{"id":"a70aa2e9af145be2","fromNode":"b134378966532460","fromSide":"bottom","toNode":"5883f5c9b9218fdf","toSide":"top"},
 		{"id":"bb7f8b8a7eb3d2e5","fromNode":"b134378966532460","fromSide":"bottom","toNode":"c7dd677c3f783714","toSide":"top"},
-		{"id":"bac5afac5886b081","fromNode":"4ab6c9adda607a6c","fromSide":"bottom","toNode":"dc2bbf977f8fc630","toSide":"top"}
+		{"id":"bac5afac5886b081","fromNode":"4ab6c9adda607a6c","fromSide":"bottom","toNode":"dc2bbf977f8fc630","toSide":"top"},
+		{"id":"3e1798a0c28e2267","fromNode":"e9ddd8404eecb08a","fromSide":"right","toNode":"46c47559b6c9e0e5","toSide":"left"},
+		{"id":"18879d03d6324f19","fromNode":"e9ddd8404eecb08a","fromSide":"right","toNode":"646fdfd0bfc0e503","toSide":"left"},
+		{"id":"5399edcb3b292a15","fromNode":"46c47559b6c9e0e5","fromSide":"right","toNode":"b31be396f95306a3","toSide":"left"},
+		{"id":"09ecb86aa6b6e5ee","fromNode":"46c47559b6c9e0e5","fromSide":"right","toNode":"6a71362ff80c3d04","toSide":"left"},
+		{"id":"bbdc43ed5fa62d1c","fromNode":"6a71362ff80c3d04","fromSide":"right","toNode":"1702f9eb4ae6096c","toSide":"left"}
 	]
 }
