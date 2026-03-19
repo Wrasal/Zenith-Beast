@@ -6,12 +6,17 @@
 		{"id":"d923b5317229e9e4","type":"file","file":"АСЕТЫ/Pasted image 20260319190137.png","x":1120,"y":380,"width":400,"height":300},
 		{"id":"cb5b2bbee09cd548","type":"text","text":"# Корни\nКорни титанических деревьев. Крупные словно целые стены, преграждают перемещение по поверхности.","x":660,"y":380,"width":400,"height":300},
 		{"id":"646fdfd0bfc0e503","type":"text","text":"# Трава","x":660,"y":720,"width":400,"height":84},
-		{"id":"f95c826ee0dc2408","type":"text","text":"# Кусты","x":660,"y":860,"width":250,"height":60},
-		{"id":"4c9d44d4f1bb4c73","type":"text","text":"ПРИЗНАКИ ПРИСУТСТВИЯ","x":235,"y":-210,"width":250,"height":60},
-		{"id":"c7dd677c3f783714","type":"text","text":"Камни","x":235,"y":1040,"width":250,"height":60},
 		{"id":"b134378966532460","type":"text","text":"Окружие","x":-160,"y":160,"width":250,"height":60},
-		{"id":"4ab6c9adda607a6c","type":"text","text":"ТОЧКИ ИНТЕРЕСА","x":-160,"y":-210,"width":250,"height":60},
-		{"id":"dc2bbf977f8fc630","type":"text","text":"ЛУТ ОБЬЕКТ","x":235,"y":-380,"width":250,"height":60}
+		{"id":"cfd1495451c596a9","type":"text","text":"Водоёмы","x":235,"y":-100,"width":250,"height":60},
+		{"id":"4c9d44d4f1bb4c73","type":"text","text":"ПРИЗНАКИ ПРИСУТСТВИЯ","x":235,"y":-450,"width":250,"height":60},
+		{"id":"4ab6c9adda607a6c","type":"text","text":"ТОЧКИ ИНТЕРЕСА","x":-160,"y":-450,"width":250,"height":60},
+		{"id":"dc2bbf977f8fc630","type":"text","text":"ЛУТ ОБЬЕКТ","x":235,"y":-620,"width":250,"height":60},
+		{"id":"1f3ee05d57cacea5","x":660,"y":-100,"width":250,"height":60,"type":"text","text":"Чистые"},
+		{"id":"05a6ad6505b6105b","x":660,"y":-280,"width":250,"height":60,"type":"text","text":"Болото"},
+		{"id":"c7dd677c3f783714","type":"text","text":"Камни","x":235,"y":1180,"width":250,"height":60},
+		{"id":"93f42c39dd8f6c92","x":1120,"y":885,"width":320,"height":400,"type":"file","file":"АСЕТЫ/Pasted image 20260319191435.png"},
+		{"id":"f95c826ee0dc2408","type":"text","text":"# Кусты","x":660,"y":843,"width":400,"height":84},
+		{"id":"7bf119e8e228c762","x":655,"y":960,"width":405,"height":250,"type":"text","text":"# Мховый карал\nРастение, формирующее карало подобные пещерные структуры. "}
 	],
 	"edges":[
 		{"id":"de02e922502d28bb","fromNode":"4ab6c9adda607a6c","fromSide":"right","toNode":"4c9d44d4f1bb4c73","toSide":"left"},
@@ -23,6 +28,11 @@
 		{"id":"810cc9dac6e110d3","fromNode":"e9ddd8404eecb08a","fromSide":"right","toNode":"6a71362ff80c3d04","toSide":"left"},
 		{"id":"f09c081531b9f530","fromNode":"e9ddd8404eecb08a","fromSide":"right","toNode":"cb5b2bbee09cd548","toSide":"left"},
 		{"id":"af64ef3d173805c5","fromNode":"cb5b2bbee09cd548","fromSide":"right","toNode":"d923b5317229e9e4","toSide":"left"},
-		{"id":"0ec3dba79b8090a9","fromNode":"b134378966532460","fromSide":"right","toNode":"e9ddd8404eecb08a","toSide":"left"}
+		{"id":"0ec3dba79b8090a9","fromNode":"b134378966532460","fromSide":"right","toNode":"e9ddd8404eecb08a","toSide":"left"},
+		{"id":"36b90a319f293f94","fromNode":"b134378966532460","fromSide":"right","toNode":"cfd1495451c596a9","toSide":"left"},
+		{"id":"c2fb12eece14d142","fromNode":"cfd1495451c596a9","fromSide":"right","toNode":"1f3ee05d57cacea5","toSide":"left"},
+		{"id":"128f1ff9e92f65d2","fromNode":"cfd1495451c596a9","fromSide":"right","toNode":"05a6ad6505b6105b","toSide":"left"},
+		{"id":"a665e3af8c452a98","fromNode":"b134378966532460","fromSide":"right","toNode":"7bf119e8e228c762","toSide":"left"},
+		{"id":"5cf21b486dd37404","fromNode":"7bf119e8e228c762","fromSide":"right","toNode":"93f42c39dd8f6c92","toSide":"left"}
 	]
 }
