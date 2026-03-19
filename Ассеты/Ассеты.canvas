@@ -1,0 +1,40 @@
+{
+	"nodes":[
+		{"id":"05a6ad6505b6105b","type":"text","text":"Болото","x":660,"y":-640,"width":250,"height":60},
+		{"id":"cfd1495451c596a9","type":"text","text":"Водоёмы","x":235,"y":-460,"width":250,"height":60},
+		{"id":"e9ddd8404eecb08a","type":"text","text":"Растения","x":235,"y":-160,"width":250,"height":60},
+		{"id":"b134378966532460","type":"text","text":"Окружие","x":-160,"y":-160,"width":250,"height":60},
+		{"id":"c7dd677c3f783714","type":"text","text":"Камни","x":235,"y":1000,"width":250,"height":60},
+		{"id":"646fdfd0bfc0e503","type":"text","text":"# Трава","x":660,"y":-172,"width":400,"height":84},
+		{"id":"f95c826ee0dc2408","type":"text","text":"# Кусты","x":660,"y":-88,"width":400,"height":84},
+		{"id":"1f3ee05d57cacea5","type":"text","text":"Чистые","x":660,"y":-580,"width":250,"height":60},
+		{"id":"dbef087077485b00","type":"text","text":"Источниики","x":660,"y":-520,"width":250,"height":60},
+		{"id":"ad09c7ea23e2e335","type":"text","text":"Реки","x":660,"y":-460,"width":250,"height":60},
+		{"id":"0ba1534e49814ecc","type":"file","file":"Системы/Растения/Титаническая ель/Титаническая ель.md","x":660,"y":20,"width":400,"height":400},
+		{"id":"94a0181be34e4e11","type":"file","file":"Системы/Растения/Мховый карал/Мховый карал.md","x":660,"y":437,"width":400,"height":400},
+		{"id":"a8f1348f763f3304","type":"text","text":"Платформы на деревьях","x":660,"y":-760,"width":250,"height":60},
+		{"id":"4ab6c9adda607a6c","type":"text","text":"ТОЧКИ ИНТЕРЕСА","x":-200,"y":-1130,"width":250,"height":60},
+		{"id":"dc2bbf977f8fc630","type":"text","text":"ЛУТ ОБЬЕКТ","x":195,"y":-1300,"width":250,"height":60},
+		{"id":"4c9d44d4f1bb4c73","type":"text","text":"ПРИЗНАКИ ПРИСУТСТВИЯ","x":195,"y":-1130,"width":250,"height":60},
+		{"id":"057a773fbeb6199f","x":235,"y":-760,"width":250,"height":60,"type":"text","text":"Техногенные"},
+		{"id":"83685037d0576256","x":660,"y":-820,"width":250,"height":60,"type":"text","text":"Следы автомобилей"}
+	],
+	"edges":[
+		{"id":"de02e922502d28bb","fromNode":"4ab6c9adda607a6c","fromSide":"right","toNode":"4c9d44d4f1bb4c73","toSide":"left"},
+		{"id":"bb7f8b8a7eb3d2e5","fromNode":"b134378966532460","fromSide":"right","toNode":"c7dd677c3f783714","toSide":"left"},
+		{"id":"bac5afac5886b081","fromNode":"4ab6c9adda607a6c","fromSide":"right","toNode":"dc2bbf977f8fc630","toSide":"left"},
+		{"id":"18879d03d6324f19","fromNode":"e9ddd8404eecb08a","fromSide":"right","toNode":"646fdfd0bfc0e503","toSide":"left"},
+		{"id":"022c9ba255245203","fromNode":"e9ddd8404eecb08a","fromSide":"right","toNode":"f95c826ee0dc2408","toSide":"left"},
+		{"id":"0ec3dba79b8090a9","fromNode":"b134378966532460","fromSide":"right","toNode":"e9ddd8404eecb08a","toSide":"left"},
+		{"id":"36b90a319f293f94","fromNode":"b134378966532460","fromSide":"right","toNode":"cfd1495451c596a9","toSide":"left"},
+		{"id":"c2fb12eece14d142","fromNode":"cfd1495451c596a9","fromSide":"right","toNode":"1f3ee05d57cacea5","toSide":"left"},
+		{"id":"128f1ff9e92f65d2","fromNode":"cfd1495451c596a9","fromSide":"right","toNode":"05a6ad6505b6105b","toSide":"left"},
+		{"id":"00902d647ae42272","fromNode":"e9ddd8404eecb08a","fromSide":"right","toNode":"94a0181be34e4e11","toSide":"left"},
+		{"id":"d0b109921b8d5775","fromNode":"cfd1495451c596a9","fromSide":"right","toNode":"dbef087077485b00","toSide":"left"},
+		{"id":"ab3843cb1634369b","fromNode":"cfd1495451c596a9","fromSide":"right","toNode":"ad09c7ea23e2e335","toSide":"left"},
+		{"id":"98310e58a06e4a17","fromNode":"e9ddd8404eecb08a","fromSide":"right","toNode":"0ba1534e49814ecc","toSide":"left"},
+		{"id":"bd04b99290684bdb","fromNode":"b134378966532460","fromSide":"right","toNode":"057a773fbeb6199f","toSide":"left"},
+		{"id":"bfcb2be15341eeba","fromNode":"057a773fbeb6199f","fromSide":"right","toNode":"a8f1348f763f3304","toSide":"left"},
+		{"id":"03d68d4d68a7a63c","fromNode":"057a773fbeb6199f","fromSide":"right","toNode":"83685037d0576256","toSide":"left"}
+	]
+}
