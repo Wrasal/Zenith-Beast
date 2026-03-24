@@ -9,7 +9,7 @@
 		{"id":"4156a1565accebb2","type":"text","text":"[[Фаза 3]] добивание","x":540,"y":-120,"width":320,"height":140},
 		{"id":"c7e7331b45cd6599","type":"text","text":"...","x":-670,"y":-740,"width":250,"height":60},
 		{"id":"b92ed6800d12db07","type":"text","text":"[[Фаза 1]] - Пробитие щита","x":-274,"y":-80,"width":250,"height":60},
-		{"id":"358c9223cff56701","type":"text","text":"[[Фаза 2]] - отстреливание Ротовых полостей","x":101,"y":-120,"width":317,"height":140}
+		{"id":"358c9223cff56701","type":"text","text":"[[Фаза 2]] - отстреливание щупалец","x":101,"y":-120,"width":317,"height":140}
 	],
 	"edges":[
 		{"id":"e44b5a69839ddf34","fromNode":"358c9223cff56701","fromSide":"right","toNode":"4156a1565accebb2","toSide":"left"},
