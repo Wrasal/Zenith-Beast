@@ -16,7 +16,7 @@
 		{"id":"1a69a7d4ccd35f2e","type":"text","text":"Оружие или улучшения для него","x":1420,"y":-60,"width":250,"height":80},
 		{"id":"68285a9f1bc8fb2c","type":"text","text":"Адаптация к локации ","x":1080,"y":-540,"width":250,"height":60},
 		{"id":"d2b478ac958e9a30","type":"text","text":"Мини - босс (вариативно)","x":1420,"y":-688,"width":250,"height":60},
-		{"id":"a66f6aca6ef99145","type":"file","file":"Системы/Миссии/Игровой процесc/Локация/Элементы локации.canvas","x":1420,"y":-540,"width":250,"height":60},
+		{"id":"a66f6aca6ef99145","type":"file","file":"Системы/Локация/Элементы локации.canvas","x":1420,"y":-540,"width":250,"height":60},
 		{"id":"aeebbc3019329fdb","type":"text","text":"Сюжетные элементы\n(квесты)","x":1080,"y":-430,"width":250,"height":90},
 		{"id":"f5e9404c7b797d8f","type":"text","text":"Босс-файт","x":2520,"y":-390,"width":250,"height":60},
 		{"id":"37e1b5cfd6fd0924","type":"text","text":"Награда за босса","x":2880,"y":-390,"width":250,"height":60},
@@ -35,7 +35,7 @@
 		{"id":"c7b7c89e9df49264","type":"text","text":"[[Сюжетная вставка]] может быть в любой момент","x":1915,"y":1340,"width":300,"height":60},
 		{"id":"9ed2ad703a9c40e3","x":1620,"y":1220,"width":890,"height":60,"type":"text","text":"Порядок игрового процесса может варьироваться от миссии к миссии"},
 		{"id":"ec90305bf2738bf5","type":"text","text":"Сохранение игры в выбранный слот","x":2579,"y":1480,"width":240,"height":60},
-		{"id":"c76dde7ac99153ba","type":"text","text":"Победа\n[[сюжетная вставка]]","x":2860,"y":1480,"width":250,"height":60,"color":"4"}
+		{"id":"c76dde7ac99153ba","type":"text","text":"Победа\n[[Сюжетная вставка]]","x":2860,"y":1480,"width":250,"height":60,"color":"4"}
 	],
 	"edges":[
 		{"id":"b557759005334dc5","fromNode":"f5ccfa73fe4bffe7","fromSide":"right","toNode":"7dea4824cee4143f","toSide":"left"},
