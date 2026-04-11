@@ -1,11 +1,16 @@
 {
 	"nodes":[
-		{"id":"5c35c3b424e8e2f7","x":-140,"y":-20,"width":250,"height":60,"type":"text","text":"Статично"},
-		{"id":"2d83126a852ef364","type":"text","text":"Ходьба","x":-140,"y":-140,"width":250,"height":60},
-		{"id":"87f57626ff3b92f4","type":"text","text":"Бег","x":-140,"y":-260,"width":250,"height":60}
+		{"id":"60baa83310555694","x":-257,"y":-9,"width":400,"height":400,"type":"file","file":"Системы/Акт/Миссия/Игровой процесc/Персонаж игрока/Мобильность ГГ/Базовая мобильность/Статичное состояние ГГ/Статичное состояние ГГ.md"},
+		{"id":"63956bca2f64be79","x":320,"y":-9,"width":400,"height":400,"type":"file","file":"Системы/Акт/Миссия/Игровой процесc/Персонаж игрока/Мобильность ГГ/Базовая мобильность/Приседание ГГ/Приседание ГГ.md"},
+		{"id":"ca8297640eaf3bbe","x":-257,"y":-560,"width":400,"height":400,"type":"file","file":"Системы/Акт/Миссия/Игровой процесc/Персонаж игрока/Мобильность ГГ/Базовая мобильность/Ходьба ГГ/Ходьба ГГ.md"},
+		{"id":"e08ffe106cfad145","x":320,"y":-560,"width":400,"height":400,"type":"file","file":"Системы/Акт/Миссия/Игровой процесc/Персонаж игрока/Мобильность ГГ/Базовая мобильность/Подкрадывание ГГ/Подкрадывание ГГ.md"},
+		{"id":"1af63111f8d47721","x":-257,"y":-1120,"width":400,"height":400,"type":"file","file":"Системы/Акт/Миссия/Игровой процесc/Персонаж игрока/Мобильность ГГ/Базовая мобильность/Бег ГГ/Бег ГГ.md"}
 	],
 	"edges":[
-		{"id":"92ce8b10f0a465f7","fromNode":"5c35c3b424e8e2f7","fromSide":"top","toNode":"2d83126a852ef364","toSide":"bottom"},
-		{"id":"583482ecfbc770c7","fromNode":"2d83126a852ef364","fromSide":"top","toNode":"87f57626ff3b92f4","toSide":"bottom"}
+		{"id":"2caf3aed5a37fa63","fromNode":"ca8297640eaf3bbe","fromSide":"right","toNode":"e08ffe106cfad145","toSide":"left"},
+		{"id":"3d0feb4d702bb05a","fromNode":"60baa83310555694","fromSide":"top","toNode":"ca8297640eaf3bbe","toSide":"bottom","label":"W/A/S/D"},
+		{"id":"e02ccefe542a6b3a","fromNode":"63956bca2f64be79","fromSide":"top","toNode":"e08ffe106cfad145","toSide":"bottom"},
+		{"id":"66660a1bdfa3d435","fromNode":"60baa83310555694","fromSide":"right","toNode":"63956bca2f64be79","toSide":"left","label":"CTRL/C"},
+		{"id":"cd70b27c1c52b780","fromNode":"ca8297640eaf3bbe","fromSide":"top","toNode":"1af63111f8d47721","toSide":"bottom","label":"Shift"}
 	]
 }
