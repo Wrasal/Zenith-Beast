@@ -3,9 +3,7 @@
 		{"id":"732400230feac624","type":"group","x":480,"y":980,"width":3120,"height":1180,"label":"Игра"},
 		{"id":"74953a7999871e18","type":"group","x":1240,"y":1120,"width":1960,"height":660,"label":"Миссия"},
 		{"id":"aebf6a1476cff005","type":"group","x":1600,"y":1200,"width":930,"height":520,"label":"Игровой процесс"},
-		{"id":"40897719d84cc957","type":"group","x":-760,"y":1380,"width":290,"height":220,"label":"Главное меню"},
-		{"id":"55f921869ec61994","type":"text","text":"Новая игра","x":-740,"y":1400,"width":250,"height":60},
-		{"id":"81be22ec81646993","type":"text","text":"Продолжить","x":-740,"y":1520,"width":250,"height":60},
+		{"id":"40897719d84cc957","type":"group","x":-160,"y":1460,"width":290,"height":220,"label":"Главное меню"},
 		{"id":"bccc0453e07edd8f","type":"text","text":"Чтение нулевого сейв файла","x":560,"y":1480,"width":250,"height":60},
 		{"id":"d2fcec722eb95c31","type":"text","text":"Чтение сейв файла с выбранного слота","x":560,"y":1575,"width":250,"height":60},
 		{"id":"0178c2197de84430","type":"text","text":"# Новй цыкл","x":1120,"y":2000,"width":1760,"height":70},
@@ -19,7 +17,9 @@
 		{"id":"9ed2ad703a9c40e3","type":"text","text":"Порядок игрового процесса может варьироваться от миссии к миссии","x":1620,"y":1220,"width":890,"height":60},
 		{"id":"ec90305bf2738bf5","type":"text","text":"Сохранение игры в выбранный слот","x":2579,"y":1480,"width":240,"height":60},
 		{"id":"c76dde7ac99153ba","type":"text","text":"Победа\n[[Сюжетная вставка]]","x":2860,"y":1480,"width":250,"height":60,"color":"4"},
-		{"id":"891f53bc2f4a7424","type":"file","file":"Игровой цикл/Акты и миссии.png","x":1040,"y":120,"width":1207,"height":500}
+		{"id":"891f53bc2f4a7424","type":"file","file":"Игровой цикл/Акты и миссии.png","x":1040,"y":120,"width":1207,"height":500},
+		{"id":"81be22ec81646993","type":"text","text":"Продолжить","x":-140,"y":1575,"width":250,"height":60},
+		{"id":"55f921869ec61994","type":"text","text":"Новая игра","x":-140,"y":1480,"width":250,"height":60}
 	],
 	"edges":[
 		{"id":"8a9ab364ee25c64d","fromNode":"4eacd93202779cd9","fromSide":"right","toNode":"747f2f0b3411411b","toSide":"left"},
